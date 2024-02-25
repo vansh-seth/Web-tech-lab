@@ -1,5 +1,9 @@
 ## Practical 1
+
+
 Reference: https://www.w3schools.com/html/html_styles.asp
+
+
 **Topics:** HTML Basic, Elements, Attributes, Headings, Paragraph, Styles, Formatting,
 Quotations, Comments, Colors.
 1. Write a HTML code to display your biodata in the following format:
