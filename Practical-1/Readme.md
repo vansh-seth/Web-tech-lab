@@ -1,10 +1,11 @@
-Practical 1
+## Practical 1
 Reference: https://www.w3schools.com/html/html_styles.asp
-Topics: HTML Basic, Elements, Attributes, Headings, Paragraph, Styles, Formatting,
+**Topics: HTML Basic, Elements, Attributes, Headings, Paragraph, Styles, Formatting,
 Quotations, Comments, Colors.
 1. Write a HTML code to display your biodata in the following format:
 
-![Uploading image.png…]()
+![image](https://github.com/vansh-seth/Web-tech-lab/assets/111755254/904ebbdf-07b6-4b68-ac91-5c059fb78d89)
+
 
 Above page should have the following features:
 1. Note the size of different fonts , size may not be the same as given above but
