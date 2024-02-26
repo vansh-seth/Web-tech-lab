@@ -1,10 +1,15 @@
-Practical 2
-Reference: https://www.w3schools.com/html/default.asp
-HTML Colors, CSS and Links.
-The &lt;div&gt; tag defines a division or a section in an HTML document.
+# Practical 2
+
+## Reference: https://www.w3schools.com/html/default.asp
+
+### HTML Colors, CSS and Links.
+
+#### The &lt;div&gt; tag defines a division or a section in an HTML document.
+
 https://www.w3schools.com/tags/tag_div.ASP
 
-Modify the webpage created in Practical 1 with the following:
+
+### Modify the webpage created in Practical 1 with the following:
 1. Align all the headings at the center.
 2. Add different background colours to Education Detail, Extracurricular and
 Social Media.
