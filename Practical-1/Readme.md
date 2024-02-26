@@ -25,7 +25,7 @@ if someone clicks on those words, then it opens your profile.
 8. In place of text “xyz” above, put your actual details.
 
 
-
+## Result:
 
 ![image](https://github.com/vansh-seth/Web-tech-lab/assets/111755254/98c759dc-4d31-41cb-b72c-7c885ddef7b5)
 
