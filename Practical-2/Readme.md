@@ -25,3 +25,6 @@ webpage.
 
 ## Result:
 
+![image](https://github.com/vansh-seth/Web-tech-lab/assets/111755254/ad5bb2ee-5673-4bf1-970e-dc6d081695cd)
+
+
