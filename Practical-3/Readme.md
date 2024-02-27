@@ -31,3 +31,6 @@ Table should have the following properties:
 
 ### Output:
 
+![image](https://github.com/vansh-seth/Web-tech-lab/assets/111755254/b83880f7-f99d-4a73-a452-28f09bb2051f)
+
+![image](https://github.com/vansh-seth/Web-tech-lab/assets/111755254/1968ac10-fc55-4a23-b115-c779081b65f1)
