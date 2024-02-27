@@ -12,11 +12,22 @@
 
 Table should have the following properties:
 
-  1. First column contains the headings, so use appropriate tag for table headings.
-  2. First column data should be centrally aligned.
-  3. Second column data should be right aligned.
-  4. Boundary should be as shown above.
+  - First column contains the headings, so use appropriate tag for table headings.
+  -  First column data should be centrally aligned.
+  -  Second column data should be right aligned.
+  -  Boundary should be as shown above.
   
+
 4. Put Education Details in the table as shown below:
 
 ![image](https://github.com/vansh-seth/Web-tech-lab/assets/111755254/7ce789fe-ac0d-4408-baba-d909ba7e6ade)
+
+Table should have the following properties:
+- First column and first row contain the headings, so use appropriate html tag for table headings.
+- First column data and first row data should be centrally aligned. All the remaining should be left aligned.
+- Color of all the cells should not be white, whereas the color of the boundary should be white.
+- Put the snapshots of your marksheet in the cell. Keep the size of the marksheet similar to that of the passport.
+- Give a caption to your table.
+
+### Output:
+
