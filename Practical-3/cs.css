@@ -1,0 +1,105 @@
+/* cs.css */
+body {
+  background: linear-gradient(to bottom, #f0e68c, #add8e6);
+  font-family: Arial, sans-serif;
+  color: #333;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 36px;
+  color: #742274;
+}
+
+h2 {
+  font-size: 24px;
+  color: #742274;
+}
+
+p {
+  font-size: 18px;
+  color: #666;
+  margin-bottom: 5px;
+}
+
+.contact-info {
+  font-size: 18px;
+  color: #742274;
+}
+
+table {
+  margin: 0 auto 20px auto;
+  border-collapse: collapse;
+  border-color: #333;
+  border-width: 100%;
+  width: 80%;
+}
+
+caption {
+  font-size: 24px;
+  color: #742274;
+  margin-bottom: 10px;
+}
+
+th, td {
+  padding: 8px;
+  border: 1px solid #fff;
+}
+
+th {
+  background-color: #742274;
+  color: white;
+}
+
+.education-details th {
+  text-align: center;
+}
+
+.education-details td {
+  text-align: left;
+}
+
+.extra-activities,
+.social-media {
+  margin-top: 20px;
+}
+
+hr {
+  border-color: #742274;
+  margin: 20px auto;
+  width: 50%;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+.myimg{
+  border-radius: 50%;
+}
+
+.tableimg {
+  border-radius: 100%;
+}
+
+.button {
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.button:hover {
+  background-color: #067754;
+}
