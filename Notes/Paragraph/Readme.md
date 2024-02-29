@@ -1,15 +1,12 @@
-# HTML Paragraphs
+# HTML Paragraphs and Formatting Elements
 
-A paragraph always starts on a new line, and is usually a block of text.
+HTML paragraphs provide structure and readability to your content. Let's explore paragraphs, horizontal rules, line breaks, and preformatted text in HTML.
 
 ## HTML Paragraphs
 
-The HTML `<p>` element defines a paragraph.
-
-A paragraph always starts on a new line, and browsers automatically add some white space (a margin) before and after a paragraph.
+The HTML `<p>` element defines a paragraph. It always starts on a new line, and browsers automatically add some white space (a margin) before and after a paragraph.
 
 ### Example
-
 ```html
 <p>This is a paragraph.</p>
 <p>This is another paragraph.</p>
@@ -17,16 +14,9 @@ A paragraph always starts on a new line, and browsers automatically add some whi
 
 ## HTML Display
 
-You cannot be sure how HTML will be displayed.
-
-Large or small screens, and resized windows will create different results.
-
-With HTML, you cannot change the display by adding extra spaces or extra lines in your HTML code.
-
-The browser will automatically remove any extra spaces and lines when the page is displayed:
+HTML display can vary across different screen sizes and window resolutions. Extra spaces and lines in your HTML code are automatically removed by browsers.
 
 ### Example
-
 ```html
 <p>
 This paragraph
@@ -47,12 +37,9 @@ ignores it.
 
 ## HTML Horizontal Rules
 
-The `<hr>` tag defines a thematic break in an HTML page, and is most often displayed as a horizontal rule.
-
-The `<hr>` element is used to separate content (or define a change) in an HTML page:
+The `<hr>` tag defines a thematic break in an HTML page, usually displayed as a horizontal rule to separate content or define a change.
 
 ### Example
-
 ```html
 <h1>This is heading 1</h1>
 <p>This is some text.</p>
@@ -62,48 +49,20 @@ The `<hr>` element is used to separate content (or define a change) in an HTML p
 <hr>
 ```
 
-The `<hr>` tag is an empty tag, which means that it has no end tag.
-
 ## HTML Line Breaks
 
-The HTML `<br>` element defines a line break.
-
-Use `<br>` if you want a line break (a new line) without starting a new paragraph:
+The `<br>` element defines a line break without starting a new paragraph.
 
 ### Example
-
 ```html
 <p>This is<br>a paragraph<br>with line breaks.</p>
 ```
 
-The `<br>` tag is an empty tag, which means that it has no end tag.
-
 ## The Poem Problem
 
-This poem will display on a single line:
+Poetry displayed in HTML may appear on a single line, but the `<pre>` element offers a solution by preserving spaces and line breaks.
 
 ### Example
-
-```html
-<p>
-  My Bonnie lies over the ocean.
-
-  My Bonnie lies over the sea.
-
-  My Bonnie lies over the ocean.
-
-  Oh, bring back my Bonnie to me.
-</p>
-```
-
-## Solution - The HTML `<pre>` Element
-
-The HTML `<pre>` element defines preformatted text.
-
-The text inside a `<pre>` element is displayed in a fixed-width font (usually Courier), and it preserves both spaces and line breaks:
-
-### Example
-
 ```html
 <pre>
   My Bonnie lies over the ocean.
@@ -117,8 +76,6 @@ The text inside a `<pre>` element is displayed in a fixed-width font (usually Co
 ```
 
 ## HTML Exercises
-
-Test Yourself With Exercises
 
 **Exercise:**
 Use the correct HTML tag to add a paragraph with the text "Hello World!".
