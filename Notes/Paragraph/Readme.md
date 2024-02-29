@@ -58,30 +58,6 @@ The `<br>` element defines a line break without starting a new paragraph.
 <p>This is<br>a paragraph<br>with line breaks.</p>
 ```
 
-## The Poem Problem
 
-Poetry displayed in HTML may appear on a single line, but the `<pre>` element offers a solution by preserving spaces and line breaks.
-
-### Example
-```html
-<pre>
-  My Bonnie lies over the ocean.
-
-  My Bonnie lies over the sea.
-
-  My Bonnie lies over the ocean.
-
-  Oh, bring back my Bonnie to me.
-</pre>
-```
-
-## HTML Exercises
-
-**Exercise:**
-Use the correct HTML tag to add a paragraph with the text "Hello World!".
-
-```html
-<p>Hello World!</p>
-```
 
 For additional information about HTML elements and their attributes, refer to [W3Schools' tag reference](https://www.w3schools.com/tags/default.asp).
