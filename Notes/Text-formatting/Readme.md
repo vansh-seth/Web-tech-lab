@@ -54,3 +54,18 @@ The `<mark>` element is used for marking or highlighting text:
 <p>This is <sup>superscripted</sup> text.</p>
 ```
 
+## HTML Text Formatting Elements
+
+HTML provides various elements for text formatting. Below are the elements along with their descriptions:
+
+- `<b>`: Defines bold text.
+- `<em>`: Defines emphasized text.
+- `<i>`: Defines a part of text in an alternate voice or mood.
+- `<small>`: Defines smaller text.
+- `<strong>`: Defines important text.
+- `<sub>`: Defines subscripted text.
+- `<sup>`: Defines superscripted text.
+- `<ins>`: Defines inserted text.
+- `<del>`: Defines deleted text.
+- `<mark>`: Defines marked/highlighted text.
+
