@@ -104,4 +104,40 @@ rgba(red, green, blue, alpha)
 
 - `rgba(255, 99, 71, 0.5)`: Red with 50% opacity
 
-Experiment with these RGB and RGBA values to create a diverse palette for your HTML content!
+
+
+# HTML HEX Colors
+
+Hexadecimal (HEX) colors allow you to specify colors using combinations of red, green, and blue components in hexadecimal notation.
+
+## HEX Color Values
+
+In HTML, a color can be specified using the format:
+
+```
+#rrggbb
+```
+
+Where rr (red), gg (green), and bb (blue) are hexadecimal values between 00 and ff (equivalent to decimal 0-255).
+
+For example, `#ff0000` represents red, with red set to its highest value (ff), and green and blue set to 00.
+
+### Examples:
+
+- `#ff0000`: Red
+- `#00ff00`: Green
+- `#3cb371`: MediumSeaGreen
+- `#ee82ee`: Violet
+- `#ffa500`: Orange
+- `#6a5acd`: SlateBlue
+
+#### Shades of Gray:
+
+Shades of gray are achieved by using equal values for all three components:
+
+- `#404040`
+- `#686868`
+- `#a0a0a0`
+- `#bebebe`
+- `#dcdcdc`
+- `#f8f8f8`
