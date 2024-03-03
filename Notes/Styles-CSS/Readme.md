@@ -76,4 +76,62 @@ This allows for consistent styling across multiple web pages by referencing a si
 - CSS properties control various aspects of element appearance and layout.
 - External CSS files enable consistent styling across multiple web pages.
 
+# HTML Style Tags
+
+In HTML, style tags are essential for defining the appearance and layout of web pages. Two important style-related tags are `<style>` and `<link>`.
+
+## `<style>` Tag
+
+The `<style>` tag is used to define style information directly within an HTML document. It allows you to specify CSS rules that will apply to elements within the document. Here's how it works:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-color: #f0f0f0;
+      font-family: Arial, sans-serif;
+    }
+
+    h1 {
+      color: #333;
+    }
+
+    p {
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to My Website</h1>
+  <p>This is a paragraph of text.</p>
+</body>
+</html>
+```
+
+In the example above, the `<style>` tag is used to define CSS rules for the entire document, including the body background color, heading color, and paragraph font size.
+
+## `<link>` Tag
+
+The `<link>` tag is used to establish a link between an HTML document and an external resource, typically a CSS file. This allows you to separate your CSS code from your HTML code, making it easier to manage and maintain styles across multiple pages.
+
+Here's how you can link an external CSS file to your HTML document using the `<link>` tag:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <h1>Welcome to My Website</h1>
+  <p>This is a paragraph of text.</p>
+</body>
+</html>
+```
+
+In this example, the `<link>` tag references an external CSS file named "styles.css", which contains the CSS rules for styling the HTML elements.
+
+Using the `<style>` and `<link>` tags, you can effectively control the visual presentation of your web pages and ensure a consistent look and feel across your website.
 
