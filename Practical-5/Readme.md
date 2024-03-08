@@ -13,3 +13,5 @@
 ## Output:
 
 ![image](https://github.com/vansh-seth/Web-tech-lab/assets/111755254/0de19d87-8b4e-45dc-bb8f-c44312c9249a)
+
+![image](https://github.com/vansh-seth/Web-tech-lab/assets/111755254/478a39e9-ca35-46e0-8b17-11404d45beb9)
