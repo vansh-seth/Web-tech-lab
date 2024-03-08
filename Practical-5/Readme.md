@@ -10,3 +10,6 @@
    -	One should have a double border and another should have a single line border.
 4.	The button “Jump to the beginning of the page” is created to scroll the page at the top and the social media buttons should have different style sets.
 
+## Output:
+
+![image](https://github.com/vansh-seth/Web-tech-lab/assets/111755254/0de19d87-8b4e-45dc-bb8f-c44312c9249a)
