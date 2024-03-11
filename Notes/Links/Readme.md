@@ -176,3 +176,29 @@ To learn more about CSS, refer to our [CSS Tutorial](https://www.w3schools.com/c
 
 - `<a>`: Defines a hyperlink
 
+
+# HTML Links - Create Bookmarks
+
+In HTML, bookmarks can be used to facilitate navigation within a web page, allowing readers to jump to specific sections easily.
+
+## Creating a Bookmark in HTML
+
+To create a bookmark in HTML, follow these steps:
+
+1. **Define the Bookmark**: Use the `id` attribute to create a bookmark at a specific location in the HTML document.
+   ```html
+   <h2 id="C4">Chapter 4</h2>
+   ```
+2. **Link to the Bookmark**: Add a link to the created bookmark within the same page using the `href` attribute.
+   ```html
+   <a href="#C4">Jump to Chapter 4</a>
+   ```
+   You can also link to a bookmark on another page by specifying the page URL followed by `#` and the bookmark ID.
+   ```html
+   <a href="html_demo.html#C4">Jump to Chapter 4</a>
+   ```
+
+## Summary
+
+- Use the `id` attribute (`id="value"`) to define bookmarks within a page.
+- Use the `href` attribute (`href="#value"`) to create links to the defined bookmarks.
