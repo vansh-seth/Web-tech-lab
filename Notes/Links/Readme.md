@@ -108,3 +108,71 @@ The `title` attribute provides additional information about an element, typicall
 ```html
 <a href="https://www.w3schools.com/html/" title="Go to W3Schools HTML section">Visit our HTML Tutorial</a>
 ```
+
+# HTML Links - Different Colors
+
+In HTML, links can be styled to appear differently based on their state: unvisited, visited, hovered, or active. By default, browsers apply specific colors and underlines to these link states.
+
+## HTML Link Colors
+
+- **Unvisited link**: Underlined and blue.
+- **Visited link**: Underlined and purple.
+- **Active link**: Underlined and red.
+
+You can customize these link colors using CSS:
+
+```html
+<style>
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+```
+
+## Link Buttons
+
+Links can also be styled to resemble buttons, providing a more interactive appearance:
+
+```html
+<style>
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+</style>
+```
+
+To learn more about CSS, refer to our [CSS Tutorial](https://www.w3schools.com/css/).
+
+## HTML Link Tags
+
+- `<a>`: Defines a hyperlink
+
