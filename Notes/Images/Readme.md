@@ -152,3 +152,94 @@ function myFunction() {
 - Use `<map>` to define an image map.
 - Use `<area>` to define clickable areas.
 - Utilize the `usemap` attribute of `<img>` to link to an image map.
+
+# HTML Background Images
+
+You can specify background images for HTML elements using inline styles or CSS.
+
+## Background Image on a HTML Element
+
+To add a background image to an HTML element, use the `style` attribute and the CSS `background-image` property.
+
+### Example
+
+```html
+<p style="background-image: url('img_girl.jpg');">
+```
+
+Alternatively, you can specify the background image in the `<style>` element in the `<head>` section.
+
+### Example
+
+```html
+<style>
+p {
+  background-image: url('img_girl.jpg');
+}
+</style>
+```
+
+## Background Image on a Page
+
+To set a background image for the entire page, apply the background image to the `<body>` element.
+
+### Example
+
+```html
+<style>
+body {
+  background-image: url('img_girl.jpg');
+}
+</style>
+```
+
+## Background Repeat
+
+By default, if the background image is smaller than the element, it will repeat itself horizontally and vertically. To prevent this, set the `background-repeat` property to `no-repeat`.
+
+### Example
+
+```html
+<style>
+body {
+  background-image: url('example_img_girl.jpg');
+  background-repeat: no-repeat;
+}
+</style>
+```
+
+## Background Cover
+
+To ensure the background image covers the entire element, set the `background-size` property to `cover`. Also, set `background-attachment` to `fixed` to maintain the image's original proportions.
+
+### Example
+
+```html
+<style>
+body {
+  background-image: url('img_girl.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+```
+
+## Background Stretch
+
+To stretch the background image to fit the entire element, set `background-size` to `100% 100%`.
+
+### Example
+
+```html
+<style>
+body {
+  background-image: url('img_girl.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>
+```
+
+These techniques allow you to customize background images for HTML elements and entire pages according to your design requirements.
