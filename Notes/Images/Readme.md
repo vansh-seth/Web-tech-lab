@@ -97,3 +97,58 @@ HTML supports various image formats, including:
 - Consider accessibility and copyright when using external images.
 - Use CSS to float images alongside text for better layout control.
 
+# HTML Image Maps
+
+HTML image maps allow you to create clickable areas on an image, enabling interactive elements within your web page.
+
+## Image Maps
+
+An image map is an image with clickable areas defined by one or more `<area>` tags within a `<map>` tag.
+
+### Example
+
+Consider this HTML code for a workplace image map:
+
+```html
+<img src="workplace.jpg" alt="Workplace" usemap="#workmap">
+
+<map name="workmap">
+  <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
+  <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
+  <area shape="circle" coords="337,300,44" alt="Coffee" href="coffee.htm">
+</map>
+```
+
+## How Does it Work?
+
+- **The Image**: Insert an image using the `<img>` tag with a `usemap` attribute.
+- **Create Image Map**: Define the clickable areas within a `<map>` element linked to the image using the `name` attribute.
+- **The Areas**: Use `<area>` elements to define the shape, coordinates, and action for each clickable area.
+
+### Shapes
+
+- `rect`: Rectangular region defined by pairs of x and y coordinates.
+- `circle`: Circular region defined by center coordinates and radius.
+- `poly`: Polygonal region defined by multiple coordinate points.
+
+## Image Map and JavaScript
+
+Clickable areas can trigger JavaScript functions using event attributes like `onclick`.
+
+```html
+<map name="workmap">
+  <area shape="circle" coords="337,300,44" href="coffee.htm" onclick="myFunction()">
+</map>
+
+<script>
+function myFunction() {
+  alert("You clicked the coffee cup!");
+}
+</script>
+```
+
+## Summary
+
+- Use `<map>` to define an image map.
+- Use `<area>` to define clickable areas.
+- Utilize the `usemap` attribute of `<img>` to link to an image map.
