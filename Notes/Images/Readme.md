@@ -243,3 +243,50 @@ body {
 ```
 
 These techniques allow you to customize background images for HTML elements and entire pages according to your design requirements.
+
+# HTML `<picture>` Element
+
+The HTML `<picture>` element provides web developers with enhanced control over image resources, allowing for more flexibility in specifying images based on different devices or screen sizes.
+
+## The HTML `<picture>` Element
+
+The `<picture>` element contains one or more `<source>` elements, each referring to different images via the `srcset` attribute. This allows the browser to select the most appropriate image based on the current view or device.
+
+### Example
+
+```html
+<picture>
+  <source media="(min-width: 650px)" srcset="img_food.jpg">
+  <source media="(min-width: 465px)" srcset="img_car.jpg">
+  <img src="img_girl.jpg">
+</picture>
+```
+
+**Note:** Always include an `<img>` element as the last child of the `<picture>` element. This is used by browsers that do not support the `<picture>` element or if none of the `<source>` tags match.
+
+## When to Use the `<picture>` Element
+
+The `<picture>` element serves two main purposes:
+
+1. **Bandwidth:** It optimizes bandwidth by loading appropriate image files based on screen size or device capabilities. Smaller screens or devices can be served smaller image files, reducing unnecessary data transfer.
+
+2. **Format Support:** It ensures compatibility across browsers and devices by providing multiple image formats. Browsers select the first recognized format, allowing for broader support without compromising on image quality.
+
+### Example
+
+```html
+<picture>
+  <source srcset="img_avatar.png">
+  <source srcset="img_girl.jpg">
+  <img src="img_beatles.gif" alt="Beatles" style="width:auto;">
+</picture>
+```
+
+**Note:** The browser selects the first `<source>` element with matching attribute values and ignores subsequent elements.
+
+## HTML Image Tags
+
+- `<img>`: Defines an image.
+- `<map>`: Defines an image map.
+- `<area>`: Defines clickable areas inside an image map.
+- `<picture>`: Defines a container for multiple image resources.
