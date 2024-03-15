@@ -458,3 +458,62 @@ Note: The value of the `rowspan` attribute represents the number of rows to span
 
 These attributes are helpful for creating more complex table layouts and designs in HTML.
 
+# HTML Table Styling
+
+Use CSS to enhance the appearance of your tables.
+
+### HTML Table - Zebra Stripes
+
+To create a zebra stripes effect by adding a background color on every other table row, use the `:nth-child(even)` selector:
+
+```css
+tr:nth-child(even) {
+  background-color: #D6EEEE;
+}
+```
+
+### HTML Table - Vertical Zebra Stripes
+
+For vertical zebra stripes, style every other column by targeting both `th` and `td` elements:
+
+```css
+td:nth-child(even), th:nth-child(even) {
+  background-color: #D6EEEE;
+}
+```
+
+### Combine Vertical and Horizontal Zebra Stripes
+
+Combine the styling from the above examples to create stripes on both rows and columns. Use `rgba()` color for transparency:
+
+```css
+tr:nth-child(even) {
+  background-color: rgba(150, 212, 212, 0.4);
+}
+
+th:nth-child(even), td:nth-child(even) {
+  background-color: rgba(150, 212, 212, 0.4);
+}
+```
+
+### Horizontal Dividers
+
+To create horizontal dividers between table rows, add a bottom border to all `tr` elements:
+
+```css
+tr {
+  border-bottom: 1px solid #ddd;
+}
+```
+
+### Hoverable Table
+
+Highlight table rows on mouse over using the `:hover` selector on `tr`:
+
+```css
+tr:hover {
+  background-color: #D6EEEE;
+}
+```
+
+These CSS styles will help make your tables more visually appealing and user-friendly.
