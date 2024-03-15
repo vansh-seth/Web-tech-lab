@@ -230,3 +230,124 @@ To set the height of a specific row, add the `style` attribute on a table row el
 ```
 
 These examples demonstrate how to control the size of HTML tables, columns, and rows using inline CSS styles.
+
+
+# HTML Table Headers
+
+HTML tables can have headers for each column or row, or for multiple columns/rows.
+
+### Horizontal Table Headers
+
+Table headers are defined with `<th>` elements. Each `<th>` element represents a table cell.
+
+**Example:**
+
+```html
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table>
+```
+
+### Vertical Table Headers
+
+To use the first column as table headers, define the first cell in each row as a `<th>` element.
+
+**Example:**
+
+```html
+<table>
+  <tr>
+    <th>Firstname</th>
+    <td>Jill</td>
+    <td>Eve</td>
+  </tr>
+  <tr>
+    <th>Lastname</th>
+    <td>Smith</td>
+    <td>Jackson</td>
+  </tr>
+  <tr>
+    <th>Age</th>
+    <td>50</td>
+    <td>94</td>
+  </tr>
+</table>
+```
+
+### Aligning Table Headers
+
+By default, table headers are bold and centered. To left-align them, use the CSS `text-align` property.
+
+**Example:**
+
+```css
+th {
+  text-align: left;
+}
+```
+
+### Header for Multiple Columns
+
+You can have a header that spans over two or more columns using the `colspan` attribute on the `<th>` element.
+
+**Example:**
+
+```html
+<table>
+  <tr>
+    <th colspan="2">Name</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table>
+```
+
+### Table Caption
+
+You can add a caption to a table using the `<caption>` tag.
+
+**Example:**
+
+```html
+<table style="width:100%">
+  <caption>Monthly savings</caption>
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$50</td>
+  </tr>
+</table>
+```
+
+Note: The `<caption>` tag should be inserted immediately after the `<table>` tag.
+
