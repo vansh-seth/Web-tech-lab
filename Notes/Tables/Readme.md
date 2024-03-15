@@ -404,3 +404,57 @@ table {
 
 Adjusting padding and spacing in HTML tables helps in controlling the appearance and layout of the table content.
 
+
+# HTML Table Colspan & Rowspan
+
+HTML tables can have cells that span over multiple rows and/or columns.
+
+### Example Table with Colspan
+
+To make a cell span over multiple columns, use the `colspan` attribute:
+
+```html
+<table>
+  <tr>
+    <th colspan="2">Name</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>43</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>57</td>
+  </tr>
+</table>
+```
+
+Note: The value of the `colspan` attribute represents the number of columns to span.
+
+### Example Table with Rowspan
+
+To make a cell span over multiple rows, use the `rowspan` attribute:
+
+```html
+<table>
+  <tr>
+    <th>Name</th>
+    <td>Jill</td>
+  </tr>
+  <tr>
+    <th rowspan="2">Phone</th>
+    <td>555-1234</td>
+  </tr>
+  <tr>
+    <td>555-8745</td>
+  </tr>
+</table>
+```
+
+Note: The value of the `rowspan` attribute represents the number of rows to span.
+
+These attributes are helpful for creating more complex table layouts and designs in HTML.
+
