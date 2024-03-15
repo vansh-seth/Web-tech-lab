@@ -351,3 +351,56 @@ You can add a caption to a table using the `<caption>` tag.
 
 Note: The `<caption>` tag should be inserted immediately after the `<table>` tag.
 
+# HTML Table Padding & Spacing
+
+HTML tables can adjust the padding inside the cells and the space between the cells.
+
+### With Padding
+
+```
+hello   hello   hello
+hello   hello   hello
+hello   hello   hello
+```
+
+### With Spacing
+
+```
+hello   hello   hello
+hello   hello   hello
+hello   hello   hello
+```
+
+### HTML Table - Cell Padding
+
+Cell padding is the space between the cell edges and the cell content. By default, the padding is set to 0. To add padding to table cells, use the CSS `padding` property:
+
+```css
+th, td {
+  padding: 15px;
+}
+```
+
+You can also specify padding for specific sides using properties like `padding-top`, `padding-bottom`, `padding-left`, and `padding-right`:
+
+```css
+th, td {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 40px;
+}
+```
+
+### HTML Table - Cell Spacing
+
+Cell spacing is the space between each cell. By default, the space is set to 2 pixels. To change the space between table cells, use the CSS `border-spacing` property on the `<table>` element:
+
+```css
+table {
+  border-spacing: 30px;
+}
+```
+
+Adjusting padding and spacing in HTML tables helps in controlling the appearance and layout of the table content.
+
