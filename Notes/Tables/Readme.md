@@ -88,3 +88,87 @@ HTML provides several tags for creating and structuring tables:
 - `<tfoot>`: Groups the footer content in a table.
 
 These tags are essential for creating structured and well-formatted tables in HTML.
+
+# HTML Table Borders
+
+HTML tables can have borders of different styles and shapes. You can customize table borders using CSS properties.
+
+### Adding a Border
+
+To add a border, you can use the CSS `border` property on `table`, `th`, and `td` elements:
+
+```css
+table, th, td {
+  border: 1px solid black;
+}
+```
+
+### Collapsed Table Borders
+
+To avoid double borders, set the CSS `border-collapse` property to `collapse`:
+
+```css
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+```
+
+### Styling Table Borders
+
+You can style table borders to create a specific appearance. For example, you can set a background color for each cell and give the border a white color for an invisible border effect:
+
+```css
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+
+th, td {
+  background-color: #96D4D4;
+}
+```
+
+### Rounded Table Borders
+
+Using the `border-radius` property, you can give table borders rounded corners:
+
+```css
+table, th, td {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+```
+
+### Skipping the Table Border
+
+You can skip the border around the table by leaving out `table` from the CSS selector:
+
+```css
+th, td {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+```
+
+### Dotted Table Borders
+
+With the `border-style` property, you can set the appearance of the border. Options include `dotted`, `dashed`, `solid`, and more:
+
+```css
+th, td {
+  border-style: dotted;
+}
+```
+
+### Border Color
+
+You can set the color of the border using the `border-color` property:
+
+```css
+th, td {
+  border-color: #96D4D4;
+}
+```
+
+These CSS properties allow you to customize the appearance of borders in HTML tables according to your design requirements.
