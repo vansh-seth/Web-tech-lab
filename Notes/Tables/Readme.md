@@ -517,3 +517,110 @@ tr:hover {
 ```
 
 These CSS styles will help make your tables more visually appealing and user-friendly.
+
+
+# HTML Table Colgroup
+
+The `<colgroup>` element is used to style specific columns of a table.
+
+### HTML Table Colgroup
+
+To style specific columns of a table, you can use the `<colgroup>` and `<col>` elements.
+
+**Example:**
+
+```html
+<table>
+  <colgroup>
+    <col span="2" style="background-color: #D6EEEE">
+  </colgroup>
+  <tr>
+    <th>MON</th>
+    <th>TUE</th>
+    <th>WED</th>
+    <th>THU</th>
+    <!-- Other table content -->
+  </tr>
+</table>
+```
+
+**Note:** The `<colgroup>` tag must be a child of a `<table>` element and should be placed before any other table elements but after the `<caption>` element, if present.
+
+### Legal CSS Properties
+
+Only a limited selection of CSS properties are allowed to be used in the `colgroup`, such as:
+
+- `width` property
+- `visibility` property
+- Background properties
+- Border properties
+
+All other CSS properties will have no effect on your tables.
+
+### Multiple `<col>` Elements
+
+If you want to style more columns with different styles, use more `<col>` elements inside the `<colgroup>`:
+
+**Example:**
+
+```html
+<table>
+  <colgroup>
+    <col span="2" style="background-color: #D6EEEE">
+    <col span="3" style="background-color: pink">
+  </colgroup>
+  <tr>
+    <th>MON</th>
+    <th>TUE</th>
+    <th>WED</th>
+    <th>THU</th>
+    <!-- Other table content -->
+  </tr>
+</table>
+```
+
+### Empty Colgroups
+
+To style columns in the middle of a table, insert an "empty" `<col>` element (with no styles) for the columns before:
+
+**Example:**
+
+```html
+<table>
+  <colgroup>
+    <col span="3">
+    <col span="2" style="background-color: pink">
+  </colgroup>
+  <tr>
+    <th>MON</th>
+    <th>TUE</th>
+    <th>WED</th>
+    <th>THU</th>
+    <!-- Other table content -->
+  </tr>
+</table>
+```
+
+### Hide Columns
+
+You can hide columns with the `visibility: collapse` property:
+
+**Example:**
+
+```html
+<table>
+  <colgroup>
+    <col span="2">
+    <col span="3" style="visibility: collapse">
+  </colgroup>
+  <tr>
+    <th>MON</th>
+    <th>TUE</th>
+    <th>WED</th>
+    <th>THU</th>
+    <!-- Other table content -->
+  </tr>
+</table>
+```
+
+These `<colgroup>` and `<col>` elements provide fine-grained control over the styling of columns in HTML tables.
