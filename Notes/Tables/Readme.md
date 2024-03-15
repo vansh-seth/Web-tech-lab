@@ -172,3 +172,61 @@ th, td {
 ```
 
 These CSS properties allow you to customize the appearance of borders in HTML tables according to your design requirements.
+
+# HTML Table Sizes
+
+HTML tables can have different sizes for each column, row, or the entire table. You can specify the size using the `style` attribute with the `width` or `height` properties.
+
+### HTML Table Width
+
+To set the width of a table, add the `style` attribute to the `<table>` element:
+
+```html
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <!-- Table rows -->
+</table>
+```
+
+Using a percentage as the size unit for a width means how wide will this element be compared to its parent element, which in this case is the `<body>` element.
+
+### HTML Table Column Width
+
+To set the size of a specific column, add the `style` attribute on a `<th>` or `<td>` element:
+
+```html
+<table style="width:100%">
+  <tr>
+    <th style="width:70%">Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <!-- Table rows -->
+</table>
+```
+
+### HTML Table Row Height
+
+To set the height of a specific row, add the `style` attribute on a table row element:
+
+```html
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr style="height:200px">
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <!-- Additional rows -->
+</table>
+```
+
+These examples demonstrate how to control the size of HTML tables, columns, and rows using inline CSS styles.
