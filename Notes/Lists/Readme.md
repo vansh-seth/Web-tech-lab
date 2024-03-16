@@ -170,3 +170,116 @@ li a:hover {
 - Lists can be nested.
 - List items can contain other HTML elements.
 - Use the CSS property `float:left` to display a list horizontally.
+
+# HTML Ordered Lists
+
+The `<ol>` tag in HTML defines an ordered list. An ordered list can display items in numerical or alphabetical order.
+
+## Ordered HTML List
+
+An ordered list starts with the `<ol>` tag. Each list item starts with the `<li>` tag. By default, list items are marked with numbers.
+
+Example:
+```html
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+```
+
+## The `type` Attribute
+
+The `type` attribute of the `<ol>` tag defines the type of the list item marker:
+
+- `type="1"`: Numbered with numbers (default)
+- `type="A"`: Numbered with uppercase letters
+- `type="a"`: Numbered with lowercase letters
+- `type="I"`: Numbered with uppercase Roman numerals
+- `type="i"`: Numbered with lowercase Roman numerals
+
+### Examples:
+
+#### Numbers:
+```html
+<ol type="1">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+```
+
+#### Uppercase Letters:
+```html
+<ol type="A">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+```
+
+#### Lowercase Letters:
+```html
+<ol type="a">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+```
+
+#### Uppercase Roman Numbers:
+```html
+<ol type="I">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+```
+
+#### Lowercase Roman Numbers:
+```html
+<ol type="i">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+```
+
+## Control List Counting
+
+By default, an ordered list will start counting from 1. If you want to start counting from a specified number, you can use the `start` attribute.
+
+### Example:
+```html
+<ol start="50">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+```
+
+## Nested HTML Lists
+
+Lists can be nested, allowing for a list inside another list. This is useful for organizing hierarchical data.
+
+Example:
+```html
+<ol>
+  <li>Coffee</li>
+  <li>Tea
+    <ol>
+      <li>Black tea</li>
+      <li>Green tea</li>
+    </ol>
+  </li>
+  <li>Milk</li>
+</ol>
+```
+
+## Summary
+
+- Use the HTML `<ol>` element to define an ordered list.
+- Use the `type` attribute to define the numbering type.
+- Use the HTML `<li>` element to define a list item.
+- Lists can be nested.
+- List items can contain other HTML elements.
