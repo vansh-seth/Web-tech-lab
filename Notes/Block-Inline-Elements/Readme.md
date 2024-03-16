@@ -64,3 +64,29 @@ Example usage with CSS styling:
 - Inline elements do not start on new lines and only take up as much width as necessary.
 - `<div>` is a block-level element often used as a container.
 - `<span>` is an inline container for marking up parts of text or documents.
+
+# HTML Tags
+
+HTML tags are used to define the structure and content of a web page. Here are two commonly used HTML tags:
+
+## `<div>` Tag
+
+The `<div>` tag is used to define a section in an HTML document. It is a block-level element, which means it starts on a new line and takes up the full width available. It is often used as a container for other HTML elements.
+
+Example:
+```html
+<div>
+  <!-- Content goes here -->
+</div>
+```
+
+## `<span>` Tag
+
+The `<span>` tag is used to define a section in an HTML document. It is an inline element, which means it does not start on a new line and only takes up as much width as necessary. It is often used to style or mark up a part of text within a paragraph or other block-level elements.
+
+Example:
+```html
+<p>This is a <span style="color: red;">highlighted</span> text.</p>
+```
+
+These tags provide flexibility in organizing and styling content within an HTML document.
