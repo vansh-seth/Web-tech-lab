@@ -336,3 +336,29 @@ Example:
 ```
 
 These HTML list tags provide flexibility in structuring content on web pages.
+
+# HTML Description Lists
+
+HTML supports description lists, which are useful for presenting a list of terms along with their descriptions.
+
+## Description Lists (`<dl>`)
+
+A description list is defined using the `<dl>` tag. Each term in the list is defined using the `<dt>` tag, and its description is provided using the `<dd>` tag.
+
+Example:
+```html
+<dl>
+  <dt>Coffee</dt>
+  <dd>- black hot drink</dd>
+  <dt>Milk</dt>
+  <dd>- white cold drink</dd>
+</dl>
+```
+
+## Summary
+
+- Use the HTML `<dl>` element to define a description list.
+- Use the HTML `<dt>` element to define the description term (name).
+- Use the HTML `<dd>` element to describe the term in a description list.
+
+Description lists are handy for organizing information where each term needs a corresponding description.
