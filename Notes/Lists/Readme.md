@@ -283,3 +283,56 @@ Example:
 - Use the HTML `<li>` element to define a list item.
 - Lists can be nested.
 - List items can contain other HTML elements.
+
+# HTML List Tags
+
+HTML provides several tags for creating lists, each serving a specific purpose:
+
+- `<ul>`: Defines an unordered list.
+- `<ol>`: Defines an ordered list.
+- `<li>`: Defines a list item.
+- `<dl>`: Defines a description list.
+- `<dt>`: Defines a term in a description list.
+- `<dd>`: Describes the term in a description list.
+
+## Unordered List (`<ul>`)
+
+The `<ul>` tag is used to define an unordered list. Each list item is represented by the `<li>` tag.
+
+Example:
+```html
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ul>
+```
+
+## Ordered List (`<ol>`)
+
+The `<ol>` tag is used to define an ordered list, where each list item is numbered by default. It also uses the `<li>` tag to represent list items.
+
+Example:
+```html
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+</ol>
+```
+
+## Description List (`<dl>`)
+
+The `<dl>` tag defines a description list, where each item consists of a term (`<dt>`) and its description (`<dd>`).
+
+Example:
+```html
+<dl>
+  <dt>Term 1</dt>
+  <dd>Description of Term 1</dd>
+  <dt>Term 2</dt>
+  <dd>Description of Term 2</dd>
+</dl>
+```
+
+These HTML list tags provide flexibility in structuring content on web pages.
