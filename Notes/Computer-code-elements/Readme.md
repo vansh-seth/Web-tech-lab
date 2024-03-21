@@ -53,6 +53,11 @@ Example:
 - The `<pre>` element can be used in conjunction with `<code>` to preserve whitespace and line breaks in code snippets.
 - These elements are essential for accurately representing code and its various components within HTML documents.
 
----
 
-By leveraging these HTML elements, developers can effectively represent code snippets, keyboard input, program output, and variables within HTML documents, ensuring clarity and accuracy in presenting technical information.
+## HTML Code Elements
+
+- `<code>`: Defines programming code, displaying content in a monospace font.
+- `<kbd>`: Represents keyboard input, rendering content in a monospace font.
+- `<samp>`: Indicates computer-generated output, maintaining a monospace font style.
+- `<var>`: Denotes a variable in programming or mathematical expressions, typically italicized.
+- `<pre>`: Specifies preformatted text, preserving whitespace and line breaks.
