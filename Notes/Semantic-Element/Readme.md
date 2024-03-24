@@ -217,3 +217,24 @@ The `<figure>` tag specifies self-contained content, like illustrations, diagram
 According to the W3C, "A semantic Web allows data to be shared and reused across applications, enterprises, and communities."
 
 
+## Semantic Elements in HTML
+
+Semantic elements in HTML are designed to convey meaning about the content they contain, both to developers and to the browser. Below is a list of some of the most commonly used semantic elements in HTML along with their descriptions:
+
+| Tag          | Description                                                                       |
+|--------------|-----------------------------------------------------------------------------------|
+| `<article>`  | Defines independent, self-contained content, such as a blog post or news article. |
+| `<aside>`    | Defines content that is tangentially related to the content around it, like a sidebar.|
+| `<details>`  | Defines additional details that the user can view or hide.                        |
+| `<figcaption>` | Defines a caption for a `<figure>` element.                                      |
+| `<figure>`   | Specifies self-contained content, like illustrations, diagrams, or photos.         |
+| `<footer>`   | Defines a footer for a document or section, typically containing authorship, copyright, and contact information. |
+| `<header>`   | Specifies a header for a document or section, usually containing headings, logos, and authorship information. |
+| `<main>`     | Specifies the main content of a document.                                         |
+| `<mark>`     | Defines text that should be highlighted or marked in some way.                     |
+| `<nav>`      | Defines a container for navigation links.                                          |
+| `<section>`  | Defines a standalone section within a document, often with its own heading.        |
+| `<summary>`  | Defines a visible heading for a `<details>` element.                               |
+| `<time>`     | Defines a specific period in time or a date.                                       |
+
+Using semantic elements helps improve the structure and accessibility of web pages, making it easier for search engines and assistive technologies to understand the content and layout of the page.
