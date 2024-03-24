@@ -216,7 +216,6 @@ The `<figure>` tag specifies self-contained content, like illustrations, diagram
 ## Why Semantic Elements?
 According to the W3C, "A semantic Web allows data to be shared and reused across applications, enterprises, and communities."
 
-
 ## Semantic Elements in HTML
 
 Semantic elements in HTML are designed to convey meaning about the content they contain, both to developers and to the browser. Below is a list of some of the most commonly used semantic elements in HTML along with their descriptions:
