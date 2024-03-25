@@ -118,7 +118,6 @@ Each input field should have a `name` attribute to be submitted successfully. Om
 </form>
 ```
 
-```markdown
 # HTML Form Attributes Guide
 
 This chapter covers the various attributes associated with the HTML `<form>` element and their functionalities.
