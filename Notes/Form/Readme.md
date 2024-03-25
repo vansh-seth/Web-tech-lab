@@ -205,10 +205,3 @@ The `novalidate` attribute, when present, indicates that the form data should no
 ```html
 <form action="/action_page.php" novalidate>
 ```
-
----
-
-**Tip**: 
-- Always prefer `POST` over `GET` when handling sensitive or personal information.
-- Use `novalidate` when testing forms to avoid unnecessary validation checks.
-```
