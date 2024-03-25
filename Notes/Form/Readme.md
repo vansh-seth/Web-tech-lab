@@ -362,5 +362,3 @@ The `<output>` element displays the result of a calculation.
   <input type="submit">
 </form>
 ```
-
-```
