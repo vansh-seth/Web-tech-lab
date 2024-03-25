@@ -206,7 +206,6 @@ The `novalidate` attribute, when present, indicates that the form data should no
 <form action="/action_page.php" novalidate>
 ```
 
-```markdown
 # HTML Form Elements Guide
 
 This chapter explains the various form elements in HTML and how they can be used.
