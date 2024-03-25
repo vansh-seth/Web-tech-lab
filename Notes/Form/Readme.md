@@ -118,3 +118,98 @@ Each input field should have a `name` attribute to be submitted successfully. Om
 </form>
 ```
 
+```markdown
+# HTML Form Attributes Guide
+
+This chapter covers the various attributes associated with the HTML `<form>` element and their functionalities.
+
+## The `action` Attribute
+
+The `action` attribute specifies the URL or file where the form data will be sent upon submission. By default, if the `action` attribute is omitted, the data will be sent to the current page.
+
+### Example
+
+```html
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="submit" value="Submit">
+</form>
+```
+
+## The `target` Attribute
+
+The `target` attribute determines where the response from the server will be displayed after form submission. Below are the possible values:
+
+- `_blank`: Opens the response in a new browser tab or window.
+- `_self`: Displays the response in the current window.
+- `_parent`: Displays the response in the parent frame.
+- `_top`: Displays the response in the full body of the window.
+- `framename`: Displays the response in a named iframe.
+
+By default, the value is `_self`.
+
+### Example
+
+```html
+<form action="/action_page.php" target="_blank">
+```
+
+## The `method` Attribute
+
+The `method` attribute specifies the HTTP method to be used when sending the form data. The two primary methods are `GET` and `POST`.
+
+- **GET**: Appends the form data to the URL, visible in the address bar. Suitable for non-sensitive data.
+  
+  ```html
+  <form action="/action_page.php" method="get">
+  ```
+
+  **Note**: 
+  - Not recommended for sensitive or large data due to URL length limitations (2048 characters).
+  - Can be bookmarked.
+
+- **POST**: Sends the form data in the body of the HTTP request, keeping it hidden from the URL.
+  
+  ```html
+  <form action="/action_page.php" method="post">
+  ```
+
+  **Note**: 
+  - Suitable for sensitive or large data.
+  - Cannot be bookmarked.
+
+### Example
+
+```html
+<form action="/action_page.php" method="post">
+```
+
+## The `autocomplete` Attribute
+
+The `autocomplete` attribute determines whether the browser should automatically fill in form values based on previous inputs.
+
+### Example
+
+```html
+<form action="/action_page.php" autocomplete="on">
+```
+
+## The `novalidate` Attribute
+
+The `novalidate` attribute, when present, indicates that the form data should not be validated upon submission.
+
+### Example
+
+```html
+<form action="/action_page.php" novalidate>
+```
+
+---
+
+**Tip**: 
+- Always prefer `POST` over `GET` when handling sensitive or personal information.
+- Use `novalidate` when testing forms to avoid unnecessary validation checks.
+```
