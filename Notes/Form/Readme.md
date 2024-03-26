@@ -746,8 +746,6 @@ The `required` attribute specifies that an input field must be filled out before
 </form>
 ```
 
-
-```markdown
 # HTML Input Form Attributes
 
 ## Overview
