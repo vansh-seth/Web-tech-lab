@@ -362,3 +362,213 @@ The `<output>` element displays the result of a calculation.
   <input type="submit">
 </form>
 ```
+
+```markdown
+# HTML Input Types
+
+## Overview
+This document outlines the various input types available for the HTML `<input>` element.
+
+## Available Input Types
+
+- `<input type="button">`
+- `<input type="checkbox">`
+- `<input type="color">`
+- `<input type="date">`
+- `<input type="datetime-local">`
+- `<input type="email">`
+- `<input type="file">`
+- `<input type="hidden">`
+- `<input type="image">`
+- `<input type="month">`
+- `<input type="number">`
+- `<input type="password">`
+- `<input type="radio">`
+- `<input type="range">`
+- `<input type="reset">`
+- `<input type="search">`
+- `<input type="submit">`
+- `<input type="tel">`
+- `<input type="text">`
+- `<input type="time">`
+- `<input type="url">`
+- `<input type="week">`
+
+**Note:** The default value of the `type` attribute is "text".
+
+## Detailed Description
+
+### Input Type: Text
+```html
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname">
+</form>
+```
+
+### Input Type: Password
+```html
+<form>
+  <label for="username">Username:</label><br>
+  <input type="text" id="username" name="username"><br>
+  <label for="pwd">Password:</label><br>
+  <input type="password" id="pwd" name="pwd">
+</form>
+```
+
+### Input Type: Submit
+```html
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="submit" value="Submit">
+</form>
+```
+
+### Input Type: Reset
+```html
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="submit" value="Submit">
+  <input type="reset" value="Reset">
+</form>
+```
+
+### Input Type: Radio
+```html
+<p>Choose your favorite Web language:</p>
+<form>
+  <input type="radio" id="html" name="fav_language" value="HTML">
+  <label for="html">HTML</label><br>
+  <input type="radio" id="css" name="fav_language" value="CSS">
+  <label for="css">CSS</label><br>
+  <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+  <label for="javascript">JavaScript</label>
+</form>
+```
+
+### Input Type: Checkbox
+```html
+<form>
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> I have a bike</label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> I have a car</label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle3"> I have a boat</label>
+</form>
+```
+
+### Input Type: Button
+```html
+<input type="button" onclick="alert('Hello World!')" value="Click Me!">
+```
+
+### Input Type: Color
+```html
+<form>
+  <label for="favcolor">Select your favorite color:</label>
+  <input type="color" id="favcolor" name="favcolor">
+</form>
+```
+
+### Input Type: Date
+```html
+<form>
+  <label for="birthday">Birthday:</label>
+  <input type="date" id="birthday" name="birthday">
+</form>
+```
+
+### Input Type: Datetime-local
+```html
+<form>
+  <label for="birthdaytime">Birthday (date and time):</label>
+  <input type="datetime-local" id="birthdaytime" name="birthdaytime">
+</form>
+```
+
+### Input Type: Email
+```html
+<form>
+  <label for="email">Enter your email:</label>
+  <input type="email" id="email" name="email">
+</form>
+```
+
+### Input Type: Image
+```html
+<form>
+<input type="image" src="img_submit.gif" alt="Submit" width="48" height="48">
+</form>
+```
+
+### Input Type: File
+```html
+<form>
+  <label for="myfile">Select a file:</label>
+  <input type="file" id="myfile" name="myfile">
+</form>
+```
+
+### Input Type: Hidden
+```html
+<form>
+  <label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <input type="hidden" id="custId" name="custId" value="3487">
+  <input type="submit" value="Submit">
+</form>
+```
+
+### Input Type: Month
+```html
+<form>
+  <label for="bdaymonth">Birthday (month and year):</label>
+  <input type="month" id="bdaymonth" name="bdaymonth">
+</form>
+```
+
+### Input Type: Number
+```html
+<form>
+  <label for="quantity">Quantity (between 1 and 5):</label>
+  <input type="number" id="quantity" name="quantity" min="1" max="5">
+</form>
+```
+
+### Input Type: Range
+```html
+<form>
+  <label for="vol">Volume (between 0 and 50):</label>
+  <input type="range" id="vol" name="vol" min="0" max="50">
+</form>
+```
+
+### Input Type: Search
+```html
+<form>
+  <label for="gsearch">Search Google:</label>
+  <input type="search" id="gsearch" name="gsearch">
+</form>
+```
+
+### Input Type: Tel
+```html
+<form>
+  <label for="phone">Enter your phone number:</label>
+  <input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}">
+</form>
+```
+
+### Input Type: Time
+```html
+<form>
+  <label for="appt">Select
