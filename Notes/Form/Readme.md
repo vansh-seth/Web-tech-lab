@@ -752,19 +752,6 @@ The `required` attribute specifies that an input field must be filled out before
 
 This chapter elaborates on the different form-related attributes for the HTML `<input>` element.
 
----
-
-## Table of Contents
-1. [The form Attribute](#the-form-attribute)
-2. [The formaction Attribute](#the-formaction-attribute)
-3. [The formenctype Attribute](#the-formenctype-attribute)
-4. [The formmethod Attribute](#the-formmethod-attribute)
-5. [The formtarget Attribute](#the-formtarget-attribute)
-6. [The formnovalidate Attribute](#the-formnovalidate-attribute)
-7. [The novalidate Attribute](#the-novalidate-attribute)
-
----
-
 ### The form Attribute
 
 The `form` attribute specifies the form the `<input>` element belongs to.
