@@ -572,9 +572,9 @@ This document outlines the various input types available for the HTML `<input>` 
 ```html
 <form>
   <label for="appt">Select
+```
 
 
-```markdown
 # HTML Input Attributes
 
 ## Overview
