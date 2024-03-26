@@ -745,3 +745,130 @@ The `required` attribute specifies that an input field must be filled out before
   <input type="text" id="username" name="username" required>
 </form>
 ```
+
+
+```markdown
+# HTML Input Form Attributes
+
+## Overview
+
+This chapter elaborates on the different form-related attributes for the HTML `<input>` element.
+
+---
+
+## Table of Contents
+1. [The form Attribute](#the-form-attribute)
+2. [The formaction Attribute](#the-formaction-attribute)
+3. [The formenctype Attribute](#the-formenctype-attribute)
+4. [The formmethod Attribute](#the-formmethod-attribute)
+5. [The formtarget Attribute](#the-formtarget-attribute)
+6. [The formnovalidate Attribute](#the-formnovalidate-attribute)
+7. [The novalidate Attribute](#the-novalidate-attribute)
+
+---
+
+### The form Attribute
+
+The `form` attribute specifies the form the `<input>` element belongs to.
+
+**Example**
+
+```html
+<form action="/action_page.php" id="form1">
+  <label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <input type="submit" value="Submit">
+</form>
+
+<label for="lname">Last name:</label>
+<input type="text" id="lname" name="lname" form="form1">
+```
+
+---
+
+### The formaction Attribute
+
+The `formaction` attribute specifies the URL of the file that will process the input when the form is submitted.
+
+**Example**
+
+```html
+<form action="/action_page.php">
+  <input type="submit" value="Submit">
+  <input type="submit" formaction="/action_page2.php" value="Submit as Admin">
+</form>
+```
+
+---
+
+### The formenctype Attribute
+
+The `formenctype` attribute specifies how the form-data should be encoded when submitted (only for forms with `method="post"`).
+
+**Example**
+
+```html
+<form action="/action_page_binary.asp" method="post">
+  <input type="submit" value="Submit">
+  <input type="submit" formenctype="multipart/form-data" value="Submit as Multipart/form-data">
+</form>
+```
+
+---
+
+### The formmethod Attribute
+
+The `formmethod` attribute defines the HTTP method for sending form-data to the action URL.
+
+**Example**
+
+```html
+<form action="/action_page.php" method="get">
+  <input type="submit" value="Submit using GET">
+  <input type="submit" formmethod="post" value="Submit using POST">
+</form>
+```
+
+---
+
+### The formtarget Attribute
+
+The `formtarget` attribute specifies where to display the response after submitting the form.
+
+**Example**
+
+```html
+<form action="/action_page.php">
+  <input type="submit" value="Submit">
+  <input type="submit" formtarget="_blank" value="Submit to a new window/tab">
+</form>
+```
+
+---
+
+### The formnovalidate Attribute
+
+The `formnovalidate` attribute specifies that an `<input>` element should not be validated when submitted.
+
+**Example**
+
+```html
+<form action="/action_page.php">
+  <input type="submit" value="Submit">
+  <input type="submit" formnovalidate="formnovalidate" value="Submit without validation">
+</form>
+```
+
+---
+
+### The novalidate Attribute
+
+The `novalidate` attribute specifies that all form-data should not be validated when submitted.
+
+**Example**
+
+```html
+<form action="/action_page.php" novalidate>
+  <input type="submit" value="Submit">
+</form>
+```
