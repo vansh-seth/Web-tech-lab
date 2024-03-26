@@ -572,3 +572,197 @@ This document outlines the various input types available for the HTML `<input>` 
 ```html
 <form>
   <label for="appt">Select
+
+
+```markdown
+# HTML Input Attributes
+
+## Overview
+
+This chapter provides an overview of the various attributes available for the HTML `<input>` element.
+
+---
+
+## Table of Contents
+1. [The value Attribute](#the-value-attribute)
+2. [The readonly Attribute](#the-readonly-attribute)
+3. [The disabled Attribute](#the-disabled-attribute)
+4. [The size Attribute](#the-size-attribute)
+5. [The maxlength Attribute](#the-maxlength-attribute)
+6. [The min and max Attributes](#the-min-and-max-attributes)
+7. [The multiple Attribute](#the-multiple-attribute)
+8. [The pattern Attribute](#the-pattern-attribute)
+9. [The placeholder Attribute](#the-placeholder-attribute)
+10. [The required Attribute](#the-required-attribute)
+11. [The step Attribute](#the-step-attribute)
+12. [The autofocus Attribute](#the-autofocus-attribute)
+13. [The height and width Attributes](#the-height-and-width-attributes)
+14. [The list Attribute](#the-list-attribute)
+15. [The autocomplete Attribute](#the-autocomplete-attribute)
+
+---
+
+### The value Attribute
+
+The `value` attribute specifies an initial value for an input field.
+
+**Example**
+
+```html
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe">
+</form>
+```
+
+---
+
+### The readonly Attribute
+
+The `readonly` attribute specifies that an input field is read-only.
+
+**Example**
+
+```html
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John" readonly><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe">
+</form>
+```
+
+---
+
+### The disabled Attribute
+
+The `disabled` attribute specifies that an input field should be disabled.
+
+**Example**
+
+```html
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John" disabled><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe">
+</form>
+```
+
+---
+
+### The size Attribute
+
+The `size` attribute specifies the visible width, in characters, of an input field.
+
+**Example**
+
+```html
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" size="50"><br>
+  <label for="pin">PIN:</label><br>
+  <input type="text" id="pin" name="pin" size="4">
+</form>
+```
+
+---
+
+### The maxlength Attribute
+
+The `maxlength` attribute specifies the maximum number of characters allowed in an input field.
+
+**Example**
+
+```html
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" size="50"><br>
+  <label for="pin">PIN:</label><br>
+  <input type="text" id="pin" name="pin" maxlength="4" size="4">
+</form>
+```
+
+---
+
+### The min and max Attributes
+
+The `min` and `max` attributes specify the minimum and maximum values for an input field.
+
+**Example**
+
+```html
+<form>
+  <label for="datemax">Enter a date before 1980-01-01:</label>
+  <input type="date" id="datemax" name="datemax" max="1979-12-31"><br><br>
+  <label for="datemin">Enter a date after 2000-01-01:</label>
+  <input type="date" id="datemin" name="datemin" min="2000-01-02"><br><br>
+  <label for="quantity">Quantity (between 1 and 5):</label>
+  <input type="number" id="quantity" name="quantity" min="1" max="5">
+</form>
+```
+
+---
+
+### The multiple Attribute
+
+The `multiple` attribute specifies that the user is allowed to enter more than one value in an input field.
+
+**Example**
+
+```html
+<form>
+  <label for="files">Select files:</label>
+  <input type="file" id="files" name="files" multiple>
+</form>
+```
+
+---
+
+### The pattern Attribute
+
+The `pattern` attribute specifies a regular expression that the input field's value is checked against, when the form is submitted.
+
+**Example**
+
+```html
+<form>
+  <label for="country_code">Country code:</label>
+  <input type="text" id="country_code" name="country_code"
+  pattern="[A-Za-z]{3}" title="Three letter country code">
+</form>
+```
+
+---
+
+### The placeholder Attribute
+
+The `placeholder` attribute specifies a short hint that describes the expected value of an input field.
+
+**Example**
+
+```html
+<form>
+  <label for="phone">Enter a phone number:</label>
+  <input type="tel" id="phone" name="phone"
+  placeholder="123-45-678"
+  pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}">
+</form>
+```
+
+---
+
+### The required Attribute
+
+The `required` attribute specifies that an input field must be filled out before submitting the form.
+
+**Example**
+
+```html
+<form>
+  <label for="username">Username:</label>
+  <input type="text" id="username" name="username" required>
+</form>
+```
