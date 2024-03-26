@@ -581,27 +581,6 @@ This document outlines the various input types available for the HTML `<input>` 
 
 This chapter provides an overview of the various attributes available for the HTML `<input>` element.
 
----
-
-## Table of Contents
-1. [The value Attribute](#the-value-attribute)
-2. [The readonly Attribute](#the-readonly-attribute)
-3. [The disabled Attribute](#the-disabled-attribute)
-4. [The size Attribute](#the-size-attribute)
-5. [The maxlength Attribute](#the-maxlength-attribute)
-6. [The min and max Attributes](#the-min-and-max-attributes)
-7. [The multiple Attribute](#the-multiple-attribute)
-8. [The pattern Attribute](#the-pattern-attribute)
-9. [The placeholder Attribute](#the-placeholder-attribute)
-10. [The required Attribute](#the-required-attribute)
-11. [The step Attribute](#the-step-attribute)
-12. [The autofocus Attribute](#the-autofocus-attribute)
-13. [The height and width Attributes](#the-height-and-width-attributes)
-14. [The list Attribute](#the-list-attribute)
-15. [The autocomplete Attribute](#the-autocomplete-attribute)
-
----
-
 ### The value Attribute
 
 The `value` attribute specifies an initial value for an input field.
