@@ -8,6 +8,7 @@ The selector targets the HTML element you wish to style.
 
 ### Declaration Block
 The declaration block consists of one or more declarations, each separated by a semicolon.
+
 Each declaration comprises a CSS property name and its corresponding value, separated by a colon.
 
 Multiple declarations are separated by semicolons, and the entire declaration block is enclosed in curly braces.
