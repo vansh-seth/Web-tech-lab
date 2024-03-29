@@ -83,6 +83,3 @@ div {
 |--------------------|-----------------------------------------|
 | `background-color` | Sets the background color of an element |
 
----
-
-You can copy and paste this content directly into your `README.md` file.
