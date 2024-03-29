@@ -202,3 +202,125 @@ p {
 }
 ```
 
+## CSS HSL Colors
+
+HSL stands for **hue**, **saturation**, and **lightness**.
+
+### HSL Value
+
+In CSS, you can specify a color using the HSL format:
+
+```css
+hsl(hue, saturation, lightness)
+```
+
+- **Hue**: A degree on the color wheel from 0 to 360. 
+  - 0 is red.
+  - 120 is green.
+  - 240 is blue.
+  
+- **Saturation**: A percentage value.
+  - 0% is a shade of gray.
+  - 100% is the full color.
+  
+- **Lightness**: A percentage value.
+  - 0% is black.
+  - 50% is neutral (neither light nor dark).
+  - 100% is white.
+
+### HSL Experiment
+
+Try mixing the following HSL values:
+
+- **Hue**: `0`
+- **Saturation**: `100%`
+- **Lightness**: `50%`
+
+#### Example:
+```css
+hsl(0, 100%, 50%)
+hsl(240, 100%, 50%)
+hsl(147, 50%, 47%)
+hsl(300, 76%, 72%)
+hsl(39, 100%, 50%)
+hsl(248, 53%, 58%)
+```
+
+### Saturation
+
+Saturation describes the intensity of a color:
+
+- **100%**: Pure color.
+- **50%**: 50% gray with some color.
+- **0%**: Completely gray, no color.
+
+#### Example:
+```css
+hsl(0, 100%, 50%)
+hsl(0, 80%, 50%)
+hsl(0, 60%, 50%)
+hsl(0, 40%, 50%)
+hsl(0, 20%, 50%)
+hsl(0, 0%, 50%)
+```
+
+### Lightness
+
+Lightness determines the amount of light for a color:
+
+- **0%**: Black.
+- **50%**: Neutral.
+- **100%**: White.
+
+#### Example:
+```css
+hsl(0, 100%, 0%)
+hsl(0, 100%, 25%)
+hsl(0, 100%, 50%)
+hsl(0, 100%, 75%)
+hsl(0, 100%, 90%)
+hsl(0, 100%, 100%)
+```
+
+### Shades of Gray
+
+Gray shades can be created by setting hue and saturation to `0` and adjusting the lightness:
+
+#### Example:
+```css
+hsl(0, 0%, 0%)
+hsl(0, 0%, 24%)
+hsl(0, 0%, 47%)
+hsl(0, 0%, 71%)
+hsl(0, 0%, 94%)
+hsl(0, 0%, 100%)
+```
+
+### HSLA Value
+
+HSLA values are an extension of HSL with an alpha channel for opacity:
+
+```css
+hsla(hue, saturation, lightness, alpha)
+```
+
+- **Alpha**: Ranges from `0.0` (fully transparent) to `1.0` (completely opaque).
+
+### HSLA Experiment
+
+Try mixing the following HSLA values:
+
+- **Hue**: `0`
+- **Saturation**: `100%`
+- **Lightness**: `50%`
+- **Alpha**: `0.5`
+
+#### Example:
+```css
+hsla(9, 100%, 64%, 0)
+hsla(9, 100%, 64%, 0.2)
+hsla(9, 100%, 64%, 0.4)
+hsla(9, 100%, 64%, 0.6)
+hsla(9, 100%, 64%, 0.8)
+hsla(9, 100%, 64%, 1)
+```
