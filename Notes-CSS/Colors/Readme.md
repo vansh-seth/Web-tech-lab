@@ -135,10 +135,6 @@ Try mixing the following RGBA values:
   - `rgba(255, 99, 71, 0.8)`
   - `rgba(255, 99, 71, 1)`
 
-Certainly! Below is the rephrased content for a `README.md` file:
-
----
-
 ## CSS HEX Colors
 
 A hexadecimal color is represented as `#RRGGBB`, where `RR` (red), `GG` (green), and `BB` (blue) are hexadecimal values that define the color components.
