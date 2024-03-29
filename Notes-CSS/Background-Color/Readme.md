@@ -1,7 +1,3 @@
-Certainly, here's the rephrased content for a `README.md` file on CSS backgrounds:
-
----
-
 ## CSS Backgrounds
 
 CSS background properties enable you to add various background effects to elements. In the following sections, we'll explore the key CSS background properties:
