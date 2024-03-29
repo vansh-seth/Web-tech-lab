@@ -29,8 +29,6 @@ Colors can be specified in CSS using:
 - A HEX value, e.g., "#ff0000"
 - An RGB value, e.g., "rgb(255,0,0)"
 
-Refer to the [CSS Color Values](#) chapter for a comprehensive list of possible color values.
-
 #### Background Color for Other Elements:
 
 ```css
