@@ -200,3 +200,53 @@ body {
 
 **Description:** Sets how a background image will be repeated.
 
+
+Certainly! Here's a reformatted version of the information you provided, suitable for a `README.md` file:
+
+```markdown
+# CSS Background Attachment
+
+## Overview
+
+The `background-attachment` property in CSS determines whether the background image should scroll with the rest of the page or remain fixed.
+
+## Examples
+
+### Fixed Background Image
+
+To fix the background image so that it does not scroll with the rest of the page, use `background-attachment: fixed`.
+
+#### Example
+
+```css
+body {
+  background-image: url("img_tree.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+}
+```
+
+### Scrollable Background Image
+
+To make the background image scroll with the rest of the page, use `background-attachment: scroll`.
+
+#### Example
+
+```css
+body {
+  background-image: url("img_tree.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: scroll;
+}
+```
+
+## Property Details
+
+### `background-attachment`
+
+**Description:** Sets whether a background image is fixed or scrolls with the rest of the page.
+```
+
+Feel free to copy and paste this content into your `README.md` file.
