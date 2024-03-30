@@ -201,10 +201,7 @@ body {
 **Description:** Sets how a background image will be repeated.
 
 
-Certainly! Here's a reformatted version of the information you provided, suitable for a `README.md` file:
-
-```markdown
-# CSS Background Attachment
+## CSS Background Attachment
 
 ## Overview
 
