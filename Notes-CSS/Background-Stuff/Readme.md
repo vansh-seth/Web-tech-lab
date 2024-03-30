@@ -203,6 +203,4 @@ body {
 ### `background-repeat`
 
 **Description:** Sets how a background image will be repeated.
-```
 
-Feel free to copy and paste this content into your `README.md` file.
