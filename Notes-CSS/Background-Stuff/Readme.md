@@ -127,3 +127,82 @@ p {
 
 **Description:** Sets the background image for an element.
 
+
+
+Certainly! Below is a reformatted version of the information you provided, suitable for a `README.md` file:
+
+```markdown
+# CSS Background Image Repeat and Position
+
+## Background Repeat
+
+### Default Behavior
+
+By default, the `background-image` property in CSS repeats an image both horizontally and vertically.
+
+#### Example
+
+```css
+body {
+  background-image: url("gradient_bg.png");
+}
+```
+
+### Horizontal Repeat
+
+To make an image repeat only horizontally, use `background-repeat: repeat-x`.
+
+#### Example
+
+```css
+body {
+  background-image: url("gradient_bg.png");
+  background-repeat: repeat-x;
+}
+```
+
+### Vertical Repeat
+
+To make an image repeat only vertically, use `background-repeat: repeat-y`.
+
+### No Repeat
+
+To show the background image only once, use `background-repeat: no-repeat`.
+
+#### Example
+
+```css
+body {
+  background-image: url("img_tree.png");
+  background-repeat: no-repeat;
+}
+```
+
+## Background Position
+
+The `background-position` property is used to specify the starting position of the background image.
+
+### Example
+
+Position the background image in the top-right corner:
+
+```css
+body {
+  background-image: url("img_tree.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+```
+
+## Property Details
+
+### `background-position`
+
+**Description:** Sets the starting position of a background image.
+
+### `background-repeat`
+
+**Description:** Sets how a background image will be repeated.
+```
+
+Feel free to copy and paste this content into your `README.md` file.
