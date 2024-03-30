@@ -84,10 +84,7 @@ div {
 | `background-color` | Sets the background color of an element |
 
 
-Certainly! Below is a reformatted version of the information you provided, suitable for a `README.md` file:
-
-```markdown
-# CSS Background Image
+## CSS Background Image
 
 ## Overview
 The `background-image` property in CSS specifies an image to be used as the background of an element.
