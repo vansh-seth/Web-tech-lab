@@ -129,6 +129,4 @@ p {
 ### `background-image`
 
 **Description:** Sets the background image for an element.
-```
 
-Feel free to copy and paste this content into your `README.md` file.
