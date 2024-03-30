@@ -247,6 +247,4 @@ body {
 ### `background-attachment`
 
 **Description:** Sets whether a background image is fixed or scrolls with the rest of the page.
-```
 
-Feel free to copy and paste this content into your `README.md` file.
