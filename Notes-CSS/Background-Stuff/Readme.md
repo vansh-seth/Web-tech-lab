@@ -128,11 +128,7 @@ p {
 **Description:** Sets the background image for an element.
 
 
-
-Certainly! Below is a reformatted version of the information you provided, suitable for a `README.md` file:
-
-```markdown
-# CSS Background Image Repeat and Position
+## CSS Background Image Repeat and Position
 
 ## Background Repeat
 
