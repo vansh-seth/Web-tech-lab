@@ -2,6 +2,7 @@
 
 ## AIM: Design the following form
 
+![image](https://github.com/vansh-seth/Web-tech-lab/assets/111755254/80e4de9e-6d44-4b9e-97ee-151300e13167)
 
 
 ## Form
