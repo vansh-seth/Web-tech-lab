@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f4f4f4;
+        }
+
+        h2 {
+            text-align: center;
+            text-decoration-line: underline;
+            color: #333;
+        }
+
+        form {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        label {
+            display: inline-block;
+            width: 250px;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+
+        input[type="text"],
+        input[type="number"],
+        input[type="password"],
+        select,
+        textarea,
+        input[type="file"] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+        }
+
+        input[type="checkbox"],
+        input[type="radio"] {
+            margin-right: 10px;
+        }
+
+        .bold {
+            font-weight: bold;
+        }
+
+        .container {
+            margin-top: 20px;
+            border: 1px solid #ccc;
+            padding: 20px;
+            border-radius: 8px;
+        }
+
+        input[type="submit"] {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <h2>Student Information Forms</h2>
+
+    <form>
+        <label class="bold">Enter your Name:</label>
+        <input type="text"><br><br>
+
+        <label class="bold">Enter your ENROLMENT NUMBER:</label>
+        <input type="number"><br><br>
+
+        <label class="bold">Enter your PASSWORD (Must not be more than 10 characters):</label>
+        <input type="password" maxlength="10"><br><br>
+
+        <label class="bold">Choose your COURSE:</label><br>
+        <input type="checkbox">
+        <label> B.tech </label><br>
+        <input type="checkbox">
+        <label> M.tech </label><br><br>
+
+        <label class="bold">Select your year:</label><br>
+        <select size="4">
+            <option>1st</option>
+            <option>2nd</option>
+            <option>3rd</option>
+            <option>4th</option>
+        </select><br><br>
+
+        <label class="bold">Select your branch:</label><br>
+        <select>
+            <option>ECE</option>
+            <option>IT</option>
+            <option>CSE</option>
+            <option>BT/BI</option>
+        </select><br><br>
+
+        <label class="bold">Choose your Hostel:</label><br>
+        <input type="radio" name="hostel">
+        <label>Aazad Bhawan</label><br>
+        <input type="radio" name="hostel">
+        <label>Geeta Bhawan</label><br>
+        <input type="radio" name="hostel">
+        <label>Parmar Bhawan</label><br>
+        <input type="radio" name="hostel">
+        <label>Shastri Bhawan</label><br>
+        <input type="radio" name="hostel">
+        <label>Malviya Bhawan</label><br>
+        <input type="radio" name="hostel">
+        <label>Day Scholar</label><br><br>
+
+        <label class="bold">Tell us your fields of interests:</label><br>
+        <textarea name="message" rows="4" cols="50"></textarea><br><br>
+
+        <label class="bold">Upload your photograph:</label><br>
+        <input type="file" id="myfile" name="myfile"><br><br>
+
+        <div class="container">
+            <h3>Contact Information:</h3>
+            <label class="bold">Enter your Name:</label>
+            <input type="text"> <label>@</label> <input type="text"><br><br>
+
+            <label class="bold">Mobile: +91</label>
+            <input type="number"><br><br>
+        </div>
+
+        <br>
+
+        <input type="submit" value="Submit">
+    </form>
+
+</body>
+
+</html>
