@@ -1,5 +1,9 @@
 # Practical-6
 
+## AIM: Design the following form
+
+
+
 ## Form
 
 This is a simple HTML form designed to capture student information. Below is a breakdown of the form's structure and styling.
