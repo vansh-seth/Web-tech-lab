@@ -37,6 +37,6 @@ The form is styled using CSS to provide a clean and user-friendly interface.
 
 For more details on HTML forms, you can refer to [W3Schools HTML Form Tutorial](https://www.w3schools.com/html/html_forms.asp).
 
-
+## Here is the output of the code
 
 ![image](https://github.com/vansh-seth/Web-tech-lab/assets/111755254/c274465c-1b63-469b-99b8-a348ce1ccb2d)
