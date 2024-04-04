@@ -279,6 +279,3 @@ When using the shorthand property, the order of the property values is:
 5. `background-position`
 
 It does not matter if one of the property values is missing, as long as the other ones are in this order. Note that the `background-attachment` property is not used in the examples above, as it does not have a value.
-```
-
-You can copy and paste this markdown code into your `README.md` file.
