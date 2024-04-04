@@ -1,6 +1,3 @@
-Certainly! Here's the markdown code for a `README.md` file that describes the CSS border properties:
-
-```markdown
 # CSS Borders
 
 The CSS border properties allow you to specify the style, width, and color of an element's border.
