@@ -84,6 +84,3 @@ p.mix {border-style: dotted dashed solid double;}
 - No border.
 - A hidden border.
 - A mixed border.
-```
-
-You can copy and paste this markdown code into your `README.md` file.
