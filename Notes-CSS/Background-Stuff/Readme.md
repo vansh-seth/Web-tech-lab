@@ -245,4 +245,43 @@ body {
 
 **Description:** Sets whether a background image is fixed or scrolls with the rest of the page.
 
+Certainly! Below is the markdown code for a `README.md` file that describes the CSS background shorthand property:
 
+```markdown
+# CSS Background Shorthand Property
+
+To simplify the code, you can specify all the background properties using a single shorthand property. This is known as the background shorthand property.
+
+Instead of writing:
+
+```css
+body {
+  background-color: #ffffff;
+  background-image: url("img_tree.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+```
+
+You can use the shorthand property `background`:
+
+```css
+body {
+  background: #ffffff url("img_tree.png") no-repeat right top;
+}
+```
+
+### Shorthand Property Order
+
+When using the shorthand property, the order of the property values is:
+
+1. `background-color`
+2. `background-image`
+3. `background-repeat`
+4. `background-attachment`
+5. `background-position`
+
+It does not matter if one of the property values is missing, as long as the other ones are in this order. Note that the `background-attachment` property is not used in the examples above, as it does not have a value.
+```
+
+You can copy and paste this markdown code into your `README.md` file.
