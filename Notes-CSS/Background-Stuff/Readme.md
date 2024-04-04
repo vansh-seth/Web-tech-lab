@@ -245,10 +245,7 @@ body {
 
 **Description:** Sets whether a background image is fixed or scrolls with the rest of the page.
 
-Certainly! Below is the markdown code for a `README.md` file that describes the CSS background shorthand property:
-
-```markdown
-# CSS Background Shorthand Property
+## CSS Background Shorthand Property
 
 To simplify the code, you can specify all the background properties using a single shorthand property. This is known as the background shorthand property.
 
