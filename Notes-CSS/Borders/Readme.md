@@ -306,7 +306,3 @@ p {
   border-style: dotted;
 }
 ```
-
----
-
-Feel free to use this content in your `README.md` file!
