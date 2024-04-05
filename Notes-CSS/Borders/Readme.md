@@ -143,7 +143,3 @@ p.three {
   border-width: 25px 10px 4px 35px;
 }
 ```
-
----
-
-Feel free to use this content in your `README.md` file!
