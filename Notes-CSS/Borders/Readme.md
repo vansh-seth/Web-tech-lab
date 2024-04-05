@@ -228,3 +228,85 @@ p.one {
 }
 ```
 
+Certainly! Here's the content formatted for a `README.md` file:
+
+---
+
+# CSS Border Sides
+
+In CSS, you can specify individual styles for each border side: top, right, bottom, and left.
+
+## Examples
+
+### Individual Border Side Styles
+
+```css
+p {
+  border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
+}
+```
+
+This example can be simplified using the `border-style` property:
+
+```css
+p {
+  border-style: dotted solid;
+}
+```
+
+### How `border-style` Works
+
+The `border-style` property can have one to four values, allowing you to specify styles for each of the borders:
+
+- **Four values**: 
+  - `border-style: dotted solid double dashed;`
+    - Top border is dotted
+    - Right border is solid
+    - Bottom border is double
+    - Left border is dashed
+
+- **Three values**: 
+  - `border-style: dotted solid double;`
+    - Top border is dotted
+    - Right and left borders are solid
+    - Bottom border is double
+
+- **Two values**: 
+  - `border-style: dotted solid;`
+    - Top and bottom borders are dotted
+    - Right and left borders are solid
+
+- **One value**: 
+  - `border-style: dotted;`
+    - All four borders are dotted
+
+### Examples
+
+```css
+/* Four values */
+p {
+  border-style: dotted solid double dashed;
+}
+
+/* Three values */
+p {
+  border-style: dotted solid double;
+}
+
+/* Two values */
+p {
+  border-style: dotted solid;
+}
+
+/* One value */
+p {
+  border-style: dotted;
+}
+```
+
+---
+
+Feel free to use this content in your `README.md` file!
