@@ -144,11 +144,6 @@ p.three {
 }
 ```
 
-
-Sure! Here's the content formatted for a `README.md` file:
-
----
-
 # CSS Border Color
 
 The `border-color` property in CSS is used to set the color of the borders. You can set the color using various methods:
