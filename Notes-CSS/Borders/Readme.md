@@ -143,3 +143,96 @@ p.three {
   border-width: 25px 10px 4px 35px;
 }
 ```
+
+
+Sure! Here's the content formatted for a `README.md` file:
+
+---
+
+# CSS Border Color
+
+The `border-color` property in CSS is used to set the color of the borders. You can set the color using various methods:
+
+- **Name**: Specify a color name, like "red".
+- **HEX**: Specify a HEX value, like "#ff0000".
+- **RGB**: Specify an RGB value, like "rgb(255,0,0)".
+- **HSL**: Specify an HSL value, like "hsl(0, 100%, 50%)".
+- **Transparent**: Use the keyword `transparent`.
+
+**Note**: If `border-color` is not set, it inherits the color of the element.
+
+## Examples
+
+### Demonstration of Different Border Colors
+
+```css
+/* Red border */
+p.one {
+  border-style: solid;
+  border-color: red;
+}
+
+/* Green border */
+p.two {
+  border-style: solid;
+  border-color: green;
+}
+
+/* Blue border */
+p.three {
+  border-style: dotted;
+  border-color: blue;
+}
+```
+
+### Specific Side Colors
+
+The `border-color` property can have from one to four values to specify the color of the top, right, bottom, and left borders respectively.
+
+```css
+/* Red top, green right, blue bottom, and yellow left */
+p.one {
+  border-style: solid;
+  border-color: red green blue yellow;
+}
+```
+
+### HEX Values
+
+The color of the border can also be specified using a hexadecimal value (HEX):
+
+```css
+/* Red */
+p.one {
+  border-style: solid;
+  border-color: #ff0000;
+}
+```
+
+### RGB Values
+
+Or by using RGB values:
+
+```css
+/* Red */
+p.one {
+  border-style: solid;
+  border-color: rgb(255, 0, 0);
+}
+```
+
+### HSL Values
+
+You can also use HSL values:
+
+```css
+/* Red */
+p.one {
+  border-style: solid;
+  border-color: hsl(0, 100%, 50%);
+}
+```
+
+---
+
+Feel free to use this content in your `README.md` file!
