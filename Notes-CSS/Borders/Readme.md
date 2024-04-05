@@ -233,6 +233,3 @@ p.one {
 }
 ```
 
----
-
-Feel free to use this content in your `README.md` file!
