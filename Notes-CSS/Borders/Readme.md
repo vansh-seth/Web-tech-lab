@@ -84,3 +84,69 @@ p.mix {border-style: dotted dashed solid double;}
 - No border.
 - A hidden border.
 - A mixed border.
+
+Certainly! Here's the content formatted for a `README.md` file in a different way:
+
+---
+
+# CSS Border Width
+
+The `border-width` property in CSS is used to specify the width of the borders. You can set the width in various units like `px`, `pt`, `cm`, `em`, etc., or use the pre-defined values: `thin`, `medium`, or `thick`.
+
+## Examples
+
+### Demonstration of Different Border Widths
+
+```css
+/* 5px border-width */
+p.one {
+  border-style: solid;
+  border-width: 5px;
+}
+
+/* medium border-width */
+p.two {
+  border-style: solid;
+  border-width: medium;
+}
+
+/* 2px border-width */
+p.three {
+  border-style: dotted;
+  border-width: 2px;
+}
+
+/* thick border-width */
+p.four {
+  border-style: dotted;
+  border-width: thick;
+}
+```
+
+### Specific Side Widths
+
+The `border-width` property can have from one to four values to specify the width of the top, right, bottom, and left borders respectively.
+
+```css
+/* 5px top and bottom, 20px on the sides */
+p.one {
+  border-style: solid;
+  border-width: 5px 20px;
+}
+
+/* 20px top and bottom, 5px on the sides */
+p.two {
+  border-style: solid;
+  border-width: 20px 5px;
+}
+
+/* 25px top, 10px right, 4px bottom, and 35px left */
+p.three {
+  border-style: solid;
+  border-width: 25px 10px 4px 35px;
+}
+```
+
+---
+
+Feel free to use this content in your `README.md` file!
