@@ -85,9 +85,6 @@ p.mix {border-style: dotted dashed solid double;}
 - A hidden border.
 - A mixed border.
 
-Certainly! Here's the content formatted for a `README.md` file in a different way:
-
----
 
 # CSS Border Width
 
