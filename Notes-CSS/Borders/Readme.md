@@ -228,10 +228,6 @@ p.one {
 }
 ```
 
-Certainly! Here's the content formatted for a `README.md` file:
-
----
-
 # CSS Border Sides
 
 In CSS, you can specify individual styles for each border side: top, right, bottom, and left.
