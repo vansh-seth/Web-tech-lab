@@ -302,3 +302,6 @@ p {
   border-style: dotted;
 }
 ```
+
+give me the code for Readme.md file of what you have written in a different way 
+
