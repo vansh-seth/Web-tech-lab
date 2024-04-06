@@ -360,6 +360,3 @@ p {
 <p>Some text</p>
 ```
 
----
-
-Feel free to add this content to your `README.md` file!
