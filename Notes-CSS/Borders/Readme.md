@@ -303,11 +303,6 @@ p {
 }
 ```
 
-
-Certainly! Below is the content formatted for a `README.md` file with a different presentation:
-
----
-
 ## CSS Border - Shorthand Property
 
 When working with borders in CSS, there are several individual properties to consider:
