@@ -355,11 +355,6 @@ p {
 <p>Some text</p>
 ```
 
-
-Certainly! Here's the content reformatted for a `README.md` file:
-
----
-
 ## CSS Rounded Borders
 
 The `border-radius` property in CSS allows you to add rounded corners to an element's border.
