@@ -355,3 +355,32 @@ p {
 <p>Some text</p>
 ```
 
+
+Certainly! Here's the content reformatted for a `README.md` file:
+
+---
+
+## CSS Rounded Borders
+
+The `border-radius` property in CSS allows you to add rounded corners to an element's border.
+
+### Types of Rounded Borders
+
+Here are examples of different levels of rounded borders:
+
+- **Normal border**
+- **Round border**
+- **Rounder border**
+- **Roundest border**
+
+### Example Usage
+
+```css
+p {
+  border: 2px solid red;
+  border-radius: 5px;
+}
+```
+
+This CSS code will apply a 2px solid red border with rounded corners to the `<p>` element.
+
