@@ -304,3 +304,62 @@ p {
 ```
 
 
+Certainly! Below is the content formatted for a `README.md` file with a different presentation:
+
+---
+
+## CSS Border - Shorthand Property
+
+When working with borders in CSS, there are several individual properties to consider:
+
+- `border-width`
+- `border-style` *(required)*
+- `border-color`
+
+### Shorthand Usage
+
+You can use the `border` property as a shorthand to specify all the individual border properties at once. 
+
+**Example:**
+```css
+p {
+  border: 5px solid red;
+}
+```
+
+**Result:**
+```html
+<p>Some text</p>
+```
+
+### Individual Border Properties
+
+You can also specify the border properties for each side individually:
+
+#### Left Border
+```css
+p {
+  border-left: 6px solid red;
+}
+```
+
+**Result:**
+```html
+<p>Some text</p>
+```
+
+#### Bottom Border
+```css
+p {
+  border-bottom: 6px solid red;
+}
+```
+
+**Result:**
+```html
+<p>Some text</p>
+```
+
+---
+
+Feel free to add this content to your `README.md` file!
