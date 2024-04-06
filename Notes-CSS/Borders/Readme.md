@@ -380,11 +380,6 @@ p {
 This CSS code will apply a 2px solid red border with rounded corners to the `<p>` element.
 
 
-
-Certainly! Below is the content reformatted for a `README.md` file:
-
----
-
 ## All CSS Border Properties
 
 Below is a list of all the CSS border properties along with their descriptions:
