@@ -115,10 +115,6 @@ p.ex1 {
 | `margin-top`     | Sets the top margin of an element                |
 
 
-Certainly! Here's a more concise and structured version of the information about CSS Margin Collapse for a `README.md` file:
-
----
-
 # CSS Margin Collapse
 
 Margin collapse occurs when the top and bottom margins of elements come into contact, collapsing into a single margin equal to the largest of the two margins. It's important to note that this behavior does not apply to left and right margins, only to top and bottom margins.
