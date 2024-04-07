@@ -145,24 +145,6 @@ In the example above:
 
 Despite the combined margins appearing to be `70px`, due to margin collapse, the actual margin between `<h1>` and `<h2>` is `50px`.
 
-## Exercise
-
-Add a `20px` left margin to the `<h1>` element.
-
-```html
-<style>
-  h1 {
-    margin-left: 20px;
-  }
-</style>
-
-<body>
-  <h1>This is a heading</h1>
-  <p>This is a paragraph</p>
-  <p>This is a paragraph</p>
-</body>
-```
-
 ## All CSS Margin Properties
 
 | Property         | Description                                      |
