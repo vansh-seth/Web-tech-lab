@@ -177,6 +177,3 @@ Add a `20px` left margin to the `<h1>` element.
 | `margin-right`   | Sets the right margin of an element              |
 | `margin-top`     | Sets the top margin of an element                |
 
----
-
-Feel free to use and modify this `README.md` content for your projects!
