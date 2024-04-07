@@ -114,6 +114,4 @@ p.ex1 {
 | `margin-right`   | Sets the right margin of an element              |
 | `margin-top`     | Sets the top margin of an element                |
 
----
 
-Feel free to modify and use this `README.md` content in your projects!
