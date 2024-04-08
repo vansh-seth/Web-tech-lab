@@ -128,6 +128,3 @@ Set the top padding of the `<h1>` element to `30px`.
 | `padding-right`   | Sets the right padding of an element             |
 | `padding-top`     | Sets the top padding of an element               |
 
----
-
-Feel free to use and modify this `README.md` content for your projects!
