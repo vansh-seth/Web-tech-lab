@@ -100,23 +100,7 @@ div {
 
 ## Test Yourself With Exercises
 
-### Exercise
 
-Set the top padding of the `<h1>` element to `30px`.
-
-```html
-<style>
-  h1 {
-    padding-top: 30px;
-  }
-</style>
-
-<body>
-  <h1>This is a heading</h1>
-  <p>This is a paragraph</p>
-  <p>This is a paragraph</p>
-</body>
-```
 
 ## All CSS Padding Properties
 
