@@ -1,6 +1,3 @@
-Certainly! Below is a more structured and concise version of the information about CSS Padding for a `README.md` file:
-
----
 
 # CSS Padding
 
