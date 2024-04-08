@@ -98,9 +98,6 @@ div {
 }
 ```
 
-## Test Yourself With Exercises
-
-
 
 ## All CSS Padding Properties
 
