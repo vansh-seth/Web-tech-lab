@@ -3,15 +3,6 @@
 ## Introduction
 HTML attributes provide additional information about HTML elements, enhancing the structure and functionality of web pages. This guide outlines essential HTML attributes and their usage.
 
-## Table of Contents
-1. [The href Attribute](#the-href-attribute)
-2. [The src Attribute](#the-src-attribute)
-3. [The width and height Attributes](#the-width-and-height-attributes)
-4. [The alt Attribute](#the-alt-attribute)
-5. [The style Attribute](#the-style-attribute)
-6. [The lang Attribute](#the-lang-attribute)
-7. [The title Attribute](#the-title-attribute)
-
 ## The href Attribute
 The `href` attribute is used with the `<a>` tag to define hyperlinks. It specifies the URL of the page the link points to.
 
