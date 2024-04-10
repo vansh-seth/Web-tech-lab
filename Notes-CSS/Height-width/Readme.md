@@ -53,20 +53,7 @@ div {
 
 ## Test Yourself With Exercises
 **Exercise:**
-Set the `height` of the `<h1>` element to "100px".
-```css
-<style>
-h1 {
-  height: 100px;
-}
-</style>
-
-<body>
-  <h1>This is a heading</h1>
-  <p>This is a paragraph</p>
-  <p>This is a paragraph</p>
-</body>
-```
+Set the `height` of the `<h1>` element 
 
 ## All CSS Dimension Properties
 | Property    | Description                          |
