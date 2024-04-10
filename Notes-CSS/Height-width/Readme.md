@@ -64,4 +64,3 @@ Set the `height` of the `<h1>` element
 | `min-height`| Sets the minimum height of an element|
 | `min-width` | Sets the minimum width of an element |
 | `width`     | Sets the width of an element         |
-```
