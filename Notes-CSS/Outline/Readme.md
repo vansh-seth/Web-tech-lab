@@ -54,6 +54,3 @@ p.outset { outline-style: outset; }
 
 > **Note**: The other outline properties (`outline-color`, `outline-width`, `outline-offset`) will not have any effect unless the `outline-style` property is set.
 
----
-
-Feel free to use or modify this content for your `README.md` file!
