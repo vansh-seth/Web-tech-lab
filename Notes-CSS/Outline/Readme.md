@@ -1,7 +1,3 @@
-Certainly! Here's the content rewritten for a `README.md` file, formatted for clarity and brevity:
-
----
-
 # CSS Outline
 
 The CSS `outline` is a line drawn around elements, positioned outside the element's border to make it stand out. Unlike a border, the outline does not affect the element's dimensions and can overlap other content.
