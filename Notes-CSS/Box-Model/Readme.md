@@ -87,6 +87,3 @@ And the total height will be:
 = 80px
 ```
 
----
-
-Feel free to use and modify this content for your `README.md` file!
