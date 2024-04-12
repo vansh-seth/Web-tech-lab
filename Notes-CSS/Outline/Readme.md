@@ -54,9 +54,6 @@ p.outset { outline-style: outset; }
 
 > **Note**: The other outline properties (`outline-color`, `outline-width`, `outline-offset`) will not have any effect unless the `outline-style` property is set.
 
-Certainly! Here's a revised version of your content suitable for a `README.md` file:
-
-```markdown
 # CSS Outline Width
 
 The `outline-width` property in CSS determines the thickness of an outline around an element. It can be set to one of the following predefined values:
