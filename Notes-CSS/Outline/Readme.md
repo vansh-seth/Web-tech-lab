@@ -180,5 +180,3 @@ p.ex1 {
   outline-color: hsl(0, 100%, 50%); /* red */
 }
 ```
-
-Feel free to customize the `outline-style`, `border`, and other properties to achieve your desired outline appearance.
