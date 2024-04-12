@@ -105,3 +105,83 @@ p.ex4 {
   outline-width: 4px;
 }
 ```
+
+Certainly! Here's a revised version of your content formatted for a `README.md` file:
+
+```markdown
+# CSS Outline Color
+
+The `outline-color` property in CSS is used to define the color of an outline around an element. You can set the color using various methods:
+
+- **Color Name**: Specify a color name like "red"
+- **HEX Value**: Use a hexadecimal value like "#ff0000"
+- **RGB Value**: Define an RGB value like "rgb(255,0,0)"
+- **HSL Value**: Set an HSL value like "hsl(0, 100%, 50%)"
+- **invert**: Perform a color inversion to ensure the outline is visible against any background color
+
+## Examples with Different Colors
+
+### Solid Red Outline
+```css
+p.ex1 {
+  border: 2px solid black;
+  outline-style: solid;
+  outline-color: red;
+}
+```
+
+### Dotted Blue Outline
+```css
+p.ex2 {
+  border: 2px solid black;
+  outline-style: dotted;
+  outline-color: blue;
+}
+```
+
+### Outset Grey Outline
+```css
+p.ex3 {
+  border: 2px solid black;
+  outline-style: outset;
+  outline-color: grey;
+}
+```
+
+## Specifying Color with HEX Values
+
+You can also set the outline color using a hexadecimal value:
+
+```css
+p.ex1 {
+  outline-style: solid;
+  outline-color: #ff0000; /* red */
+}
+```
+
+## Using RGB Values
+
+RGB values can be used to define the outline color as well:
+
+```css
+p.ex1 {
+  outline-style: solid;
+  outline-color: rgb(255, 0, 0); /* red */
+}
+```
+
+## Utilizing HSL Values
+
+HSL values are another option for specifying the outline color:
+
+```css
+p.ex1 {
+  outline-style: solid;
+  outline-color: hsl(0, 100%, 50%); /* red */
+}
+```
+
+Feel free to customize the `outline-style`, `border`, and other properties to achieve your desired outline appearance.
+```
+
+This Markdown-formatted content should be clear and easy to understand, providing a comprehensive guide to the `outline-color` property in CSS along with various examples.
