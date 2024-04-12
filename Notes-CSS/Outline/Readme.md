@@ -54,3 +54,62 @@ p.outset { outline-style: outset; }
 
 > **Note**: The other outline properties (`outline-color`, `outline-width`, `outline-offset`) will not have any effect unless the `outline-style` property is set.
 
+Certainly! Here's a revised version of your content suitable for a `README.md` file:
+
+```markdown
+# CSS Outline Width
+
+The `outline-width` property in CSS determines the thickness of an outline around an element. It can be set to one of the following predefined values:
+
+- `thin`: Typically equivalent to 1px
+- `medium`: Typically equivalent to 3px
+- `thick`: Typically equivalent to 5px
+
+Alternatively, you can specify a custom size using units like px, pt, cm, em, etc.
+
+## Examples
+
+### Thin Outline
+```css
+p.ex1 {
+  border: 1px solid black;
+  outline-style: solid;
+  outline-color: red;
+  outline-width: thin;
+}
+```
+
+### Medium Outline
+```css
+p.ex2 {
+  border: 1px solid black;
+  outline-style: solid;
+  outline-color: red;
+  outline-width: medium;
+}
+```
+
+### Thick Outline
+```css
+p.ex3 {
+  border: 1px solid black;
+  outline-style: solid;
+  outline-color: red;
+  outline-width: thick;
+}
+```
+
+### Custom 4px Thick Outline
+```css
+p.ex4 {
+  border: 1px solid black;
+  outline-style: solid;
+  outline-color: red;
+  outline-width: 4px;
+}
+```
+
+Feel free to adjust the `outline-color`, `outline-style`, and other properties to customize the appearance of the outlines according to your needs.
+```
+
+This Markdown-formatted content should display nicely on platforms like GitHub, providing a clear and organized explanation of the `outline-width` property in CSS along with examples.
