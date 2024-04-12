@@ -108,8 +108,3 @@ p.ex4 {
   outline-width: 4px;
 }
 ```
-
-Feel free to adjust the `outline-color`, `outline-style`, and other properties to customize the appearance of the outlines according to your needs.
-```
-
-This Markdown-formatted content should display nicely on platforms like GitHub, providing a clear and organized explanation of the `outline-width` property in CSS along with examples.
