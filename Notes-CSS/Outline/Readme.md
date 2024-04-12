@@ -182,6 +182,3 @@ p.ex1 {
 ```
 
 Feel free to customize the `outline-style`, `border`, and other properties to achieve your desired outline appearance.
-```
-
-This Markdown-formatted content should be clear and easy to understand, providing a comprehensive guide to the `outline-color` property in CSS along with various examples.
