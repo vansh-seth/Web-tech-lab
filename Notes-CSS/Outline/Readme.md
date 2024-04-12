@@ -106,9 +106,6 @@ p.ex4 {
 }
 ```
 
-Certainly! Here's a revised version of your content formatted for a `README.md` file:
-
-```markdown
 # CSS Outline Color
 
 The `outline-color` property in CSS is used to define the color of an outline around an element. You can set the color using various methods:
