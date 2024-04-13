@@ -218,9 +218,6 @@ p.ex4 {
 }
 ```
 
-Sure! Here's a revised version of your content formatted for a `README.md` file:
-
-```markdown
 # CSS Outline Offset
 
 The `outline-offset` property in CSS adds space between an outline and the edge or border of an element. This space is transparent, creating a gap between the element and its outline.
