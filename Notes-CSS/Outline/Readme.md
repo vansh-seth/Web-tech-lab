@@ -178,9 +178,6 @@ p.ex1 {
 }
 ```
 
-Certainly! Here's a reformatted version of your content suitable for a `README.md` file:
-
-```markdown
 # CSS Outline Shorthand
 
 The `outline` property in CSS is a shorthand for setting multiple outline properties at once. It allows you to set the following individual properties:
