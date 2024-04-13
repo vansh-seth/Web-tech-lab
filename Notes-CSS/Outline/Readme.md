@@ -220,8 +220,3 @@ p.ex4 {
   outline: thick ridge pink;
 }
 ```
-
-Feel free to use the `outline` shorthand property to quickly and conveniently set the width, style, and color of outlines for your elements.
-```
-
-This Markdown-formatted content should provide a clear and concise guide to the `outline` shorthand property in CSS along with various examples.
