@@ -290,7 +290,3 @@ Sets the style of an outline.
 ### `outline-width`
 Sets the width of an outline.
 
-Feel free to use these properties to customize the appearance of outlines in your web designs.
-```
-
-This Markdown-formatted content should offer a clear and organized explanation of the `outline-offset` property in CSS, complete with examples and a summary of related properties.
