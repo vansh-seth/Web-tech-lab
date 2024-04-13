@@ -177,3 +177,51 @@ p.ex1 {
   outline-color: hsl(0, 100%, 50%); /* red */
 }
 ```
+
+Certainly! Here's a reformatted version of your content suitable for a `README.md` file:
+
+```markdown
+# CSS Outline Shorthand
+
+The `outline` property in CSS is a shorthand for setting multiple outline properties at once. It allows you to set the following individual properties:
+
+- `outline-width`
+- `outline-style` (required)
+- `outline-color`
+
+You can specify the `outline` property with one, two, or three values from the list above. The order of the values does not matter.
+
+## Examples using Shorthand `outline` Property
+
+### Dashed Outline
+```css
+p.ex1 {
+  outline: dashed;
+}
+```
+
+### Dotted Red Outline
+```css
+p.ex2 {
+  outline: dotted red;
+}
+```
+
+### 5px Solid Yellow Outline
+```css
+p.ex3 {
+  outline: 5px solid yellow;
+}
+```
+
+### Thick Ridge Pink Outline
+```css
+p.ex4 {
+  outline: thick ridge pink;
+}
+```
+
+Feel free to use the `outline` shorthand property to quickly and conveniently set the width, style, and color of outlines for your elements.
+```
+
+This Markdown-formatted content should provide a clear and concise guide to the `outline` shorthand property in CSS along with various examples.
