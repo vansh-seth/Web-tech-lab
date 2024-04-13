@@ -217,3 +217,80 @@ p.ex4 {
   outline: thick ridge pink;
 }
 ```
+
+Sure! Here's a revised version of your content formatted for a `README.md` file:
+
+```markdown
+# CSS Outline Offset
+
+The `outline-offset` property in CSS adds space between an outline and the edge or border of an element. This space is transparent, creating a gap between the element and its outline.
+
+## Example with Outline Offset
+The following example specifies an outline that is 15px outside the border edge of a paragraph:
+
+```css
+p {
+  margin: 30px;
+  border: 1px solid black;
+  outline: 1px solid red;
+  outline-offset: 15px;
+}
+```
+
+This paragraph will have an outline that is 15px outside its border edge.
+
+## Example Demonstrating Transparent Space
+The space between an element and its outline is transparent, as shown in the following example:
+
+```css
+p {
+  margin: 30px;
+  background: yellow;
+  border: 1px solid black;
+  outline: 1px solid red;
+  outline-offset: 15px;
+}
+```
+
+## Exercise
+Set a solid, 5px outline border for the `<div>` element.
+
+```html
+<style>
+  div {
+    outline-style: solid;
+    outline-width: 5px;
+  }
+</style>
+
+<body>
+  <div>
+    Lorem ipsum dolor sit amet,
+    consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt
+    ut labore et dolore magna aliqua.
+  </div>
+</body>
+```
+
+## Summary of CSS Outline Properties
+
+### `outline`
+A shorthand property for setting `outline-width`, `outline-style`, and `outline-color` in one declaration.
+
+### `outline-color`
+Sets the color of an outline.
+
+### `outline-offset`
+Specifies the space between an outline and the edge or border of an element.
+
+### `outline-style`
+Sets the style of an outline.
+
+### `outline-width`
+Sets the width of an outline.
+
+Feel free to use these properties to customize the appearance of outlines in your web designs.
+```
+
+This Markdown-formatted content should offer a clear and organized explanation of the `outline-offset` property in CSS, complete with examples and a summary of related properties.
