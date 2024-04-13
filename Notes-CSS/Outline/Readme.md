@@ -265,4 +265,3 @@ Sets the style of an outline.
 
 ### `outline-width`
 Sets the width of an outline.
-
