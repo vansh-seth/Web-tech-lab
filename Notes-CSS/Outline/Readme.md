@@ -249,27 +249,6 @@ p {
 }
 ```
 
-## Exercise
-Set a solid, 5px outline border for the `<div>` element.
-
-```html
-<style>
-  div {
-    outline-style: solid;
-    outline-width: 5px;
-  }
-</style>
-
-<body>
-  <div>
-    Lorem ipsum dolor sit amet,
-    consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt
-    ut labore et dolore magna aliqua.
-  </div>
-</body>
-```
-
 ## Summary of CSS Outline Properties
 
 ### `outline`
