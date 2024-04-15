@@ -88,6 +88,3 @@ div {
 
 - **Description:** Specifies the color of text.
 
-```
-
-Feel free to add or modify any sections as needed!
