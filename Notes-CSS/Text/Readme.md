@@ -85,9 +85,6 @@ div {
 
 - **Description:** Specifies the color of text.
 
-Sure, here's a more concise and structured version of the content for a `README.md` file:
-
-```markdown
 # CSS Text Alignment and Direction
 
 ## Introduction
