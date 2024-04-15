@@ -1,6 +1,3 @@
-Certainly! Here's a more simplified and structured version for a `README.md` file:
-
-```markdown
 # CSS Text Formatting
 
 ## Overview
