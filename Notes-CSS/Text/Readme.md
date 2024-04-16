@@ -200,9 +200,6 @@ img.e {
 | `unicode-bidi` | Used with `direction` to support multiple languages in the same document.                         |
 | `vertical-align` | Adjusts the vertical alignment of an element.                                                    |
 
-Certainly! Here's the content reformatted for a `README.md` file:
-
-```markdown
 # CSS Text Decoration
 
 ## Introduction
