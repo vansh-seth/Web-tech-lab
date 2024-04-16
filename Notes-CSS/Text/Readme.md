@@ -291,3 +291,40 @@ a { text-decoration: none; }
 - `text-decoration-line`: Defines the kind of decoration (underline, overline, etc.).
 - `text-decoration-style`: Defines the style of the decoration (solid, dotted, etc.).
 - `text-decoration-thickness`: Defines the thickness of the decoration line.
+
+Sure, here's the content reformatted for a `README.md` file:
+
+```markdown
+# CSS Text Transformation
+
+## Introduction
+The `text-transform` property in CSS controls the capitalization of text, allowing you to transform text to uppercase, lowercase, or capitalize the first letter of each word.
+
+## Available Transformations
+
+### Uppercase Transformation
+The `uppercase` transformation converts all text to uppercase.
+
+```css
+p.uppercase { text-transform: uppercase; }
+```
+
+### Lowercase Transformation
+The `lowercase` transformation converts all text to lowercase.
+
+```css
+p.lowercase { text-transform: lowercase; }
+```
+
+### Capitalize Transformation
+The `capitalize` transformation capitalizes the first letter of each word in the text.
+
+```css
+p.capitalize { text-transform: capitalize; }
+```
+
+## Summary
+- `text-transform`: Controls the capitalization of text.
+```
+
+This should display well in a `README.md` file on platforms like GitHub.
