@@ -200,3 +200,100 @@ img.e {
 | `unicode-bidi` | Used with `direction` to support multiple languages in the same document.                         |
 | `vertical-align` | Adjusts the vertical alignment of an element.                                                    |
 
+Certainly! Here's the content reformatted for a `README.md` file:
+
+```markdown
+# CSS Text Decoration
+
+## Introduction
+This guide covers various properties used to apply text decorations in CSS.
+
+## Properties Overview
+- `text-decoration-line`
+- `text-decoration-color`
+- `text-decoration-style`
+- `text-decoration-thickness`
+- `text-decoration`
+
+## Adding a Decoration Line to Text
+The `text-decoration-line` property is used to add various decoration lines to text.
+
+### Examples
+
+```css
+h1 { text-decoration-line: overline; }
+h2 { text-decoration-line: line-through; }
+h3 { text-decoration-line: underline; }
+p { text-decoration-line: overline underline; }
+```
+
+**Note**: Avoid underlining text that isn't a link to prevent reader confusion.
+
+## Setting Color for the Decoration Line
+The `text-decoration-color` property sets the color of the decoration line.
+
+### Examples
+
+```css
+h1 { text-decoration-line: overline; text-decoration-color: red; }
+h2 { text-decoration-line: line-through; text-decoration-color: blue; }
+h3 { text-decoration-line: underline; text-decoration-color: green; }
+p { text-decoration-line: overline underline; text-decoration-color: purple; }
+```
+
+## Defining Style for the Decoration Line
+The `text-decoration-style` property defines the style of the decoration line.
+
+### Examples
+
+```css
+h1 { text-decoration-line: underline; text-decoration-style: solid; }
+h2 { text-decoration-line: underline; text-decoration-style: double; }
+h3 { text-decoration-line: underline; text-decoration-style: dotted; }
+p.ex1 { text-decoration-line: underline; text-decoration-style: dashed; }
+p.ex2 { text-decoration-line: underline; text-decoration-style: wavy; }
+p.ex3 { text-decoration-line: underline; text-decoration-color: red; text-decoration-style: wavy; }
+```
+
+## Setting Thickness for the Decoration Line
+The `text-decoration-thickness` property adjusts the thickness of the decoration line.
+
+### Examples
+
+```css
+h1 { text-decoration-line: underline; text-decoration-thickness: auto; }
+h2 { text-decoration-line: underline; text-decoration-thickness: 5px; }
+h3 { text-decoration-line: underline; text-decoration-thickness: 25%; }
+p { text-decoration-line: underline; text-decoration-color: red; text-decoration-style: double; text-decoration-thickness: 5px; }
+```
+
+## Shorthand Property
+The `text-decoration` property is a shorthand for the above properties.
+
+### Examples
+
+```css
+h1 { text-decoration: underline; }
+h2 { text-decoration: underline red; }
+h3 { text-decoration: underline red double; }
+p { text-decoration: underline red double 5px; }
+```
+
+## Removing Underline from Links
+To remove the default underline from links, use `text-decoration: none;`.
+
+### Example
+
+```css
+a { text-decoration: none; }
+```
+
+## Summary of Properties
+- `text-decoration`: Sets all decoration properties in one declaration.
+- `text-decoration-color`: Sets the color of the decoration.
+- `text-decoration-line`: Defines the kind of decoration (underline, overline, etc.).
+- `text-decoration-style`: Defines the style of the decoration (solid, dotted, etc.).
+- `text-decoration-thickness`: Defines the thickness of the decoration line.
+```
+
+This should format nicely in a `README.md` file on platforms like GitHub.
