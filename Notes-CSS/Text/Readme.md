@@ -199,3 +199,4 @@ img.e {
 | `text-align-last` | Determines how to align the last line of a text.                                                |
 | `unicode-bidi` | Used with `direction` to support multiple languages in the same document.                         |
 | `vertical-align` | Adjusts the vertical alignment of an element.                                                    |
+
