@@ -325,6 +325,3 @@ p.capitalize { text-transform: capitalize; }
 
 ## Summary
 - `text-transform`: Controls the capitalization of text.
-```
-
-This should display well in a `README.md` file on platforms like GitHub.
