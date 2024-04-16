@@ -294,6 +294,3 @@ a { text-decoration: none; }
 - `text-decoration-line`: Defines the kind of decoration (underline, overline, etc.).
 - `text-decoration-style`: Defines the style of the decoration (solid, dotted, etc.).
 - `text-decoration-thickness`: Defines the thickness of the decoration line.
-```
-
-This should format nicely in a `README.md` file on platforms like GitHub.
