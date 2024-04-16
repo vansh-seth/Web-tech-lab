@@ -292,9 +292,6 @@ a { text-decoration: none; }
 - `text-decoration-style`: Defines the style of the decoration (solid, dotted, etc.).
 - `text-decoration-thickness`: Defines the thickness of the decoration line.
 
-Sure, here's the content reformatted for a `README.md` file:
-
-```markdown
 # CSS Text Transformation
 
 ## Introduction
