@@ -430,18 +430,8 @@ p {
 | `white-space`   | Handling of white space inside an element         |
 | `word-spacing`  | Space between words in text                       |
 
-Sure, here's the `README.md` content for the CSS Text Shadow topic:
 
-```markdown
 # CSS Text Shadow
-
-## Table of Contents
-- [Basic Text Shadow](#basic-text-shadow)
-- [Text Shadow with Color](#text-shadow-with-color)
-- [Text Shadow with Blur](#text-shadow-with-blur)
-- [More Text Shadow Examples](#more-text-shadow-examples)
-
----
 
 ## Basic Text Shadow
 
