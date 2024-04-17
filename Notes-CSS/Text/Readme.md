@@ -323,9 +323,7 @@ p.capitalize { text-transform: capitalize; }
 ## Summary
 - `text-transform`: Controls the capitalization of text.
 
-Certainly! Here's a restructured version of the CSS Text Spacing information for a `README.md` file:
 
-```markdown
 # CSS Text Spacing
 
 ## Table of Contents
