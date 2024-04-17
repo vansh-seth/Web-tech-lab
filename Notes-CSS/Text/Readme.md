@@ -322,3 +322,125 @@ p.capitalize { text-transform: capitalize; }
 
 ## Summary
 - `text-transform`: Controls the capitalization of text.
+
+Certainly! Here's a restructured version of the CSS Text Spacing information for a `README.md` file:
+
+```markdown
+# CSS Text Spacing
+
+## Table of Contents
+- [Text Indentation](#text-indentation)
+- [Letter Spacing](#letter-spacing)
+- [Line Height](#line-height)
+- [Word Spacing](#word-spacing)
+- [White Space](#white-space)
+- [Summary of Properties](#summary-of-properties)
+
+---
+
+## Text Indentation
+
+The `text-indent` property sets the indentation of the first line in a text block.
+
+### Example
+```css
+p {
+  text-indent: 50px;
+}
+```
+
+---
+
+## Letter Spacing
+
+The `letter-spacing` property controls the space between characters in text.
+
+### Examples
+
+Increase space between characters:
+```css
+h1 {
+  letter-spacing: 5px;
+}
+```
+
+Decrease space between characters:
+```css
+h2 {
+  letter-spacing: -2px;
+}
+```
+
+---
+
+## Line Height
+
+The `line-height` property adjusts the space between lines of text.
+
+### Examples
+
+For smaller text:
+```css
+p.small {
+  line-height: 0.8;
+}
+```
+
+For larger text:
+```css
+p.big {
+  line-height: 1.8;
+}
+```
+
+---
+
+## Word Spacing
+
+The `word-spacing` property sets the space between words in text.
+
+### Examples
+
+Increase space between words:
+```css
+p.one {
+  word-spacing: 10px;
+}
+```
+
+Decrease space between words:
+```css
+p.two {
+  word-spacing: -2px;
+}
+```
+
+---
+
+## White Space
+
+The `white-space` property determines how white space within an element is managed.
+
+### Example
+
+Disable text wrapping:
+```css
+p {
+  white-space: nowrap;
+}
+```
+
+---
+
+## Summary of Properties
+
+| Property       | Description                                      |
+|----------------|--------------------------------------------------|
+| `letter-spacing`| Space between characters in text                  |
+| `line-height`   | Line height between lines                         |
+| `text-indent`   | Indentation of the first line in a text block     |
+| `white-space`   | Handling of white space inside an element         |
+| `word-spacing`  | Space between words in text                       |
+```
+
+Feel free to modify this `README.md` content as needed!
