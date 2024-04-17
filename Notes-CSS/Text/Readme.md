@@ -441,6 +441,3 @@ p {
 | `text-indent`   | Indentation of the first line in a text block     |
 | `white-space`   | Handling of white space inside an element         |
 | `word-spacing`  | Space between words in text                       |
-```
-
-Feel free to modify this `README.md` content as needed!
