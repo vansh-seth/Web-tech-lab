@@ -326,16 +326,6 @@ p.capitalize { text-transform: capitalize; }
 
 # CSS Text Spacing
 
-## Table of Contents
-- [Text Indentation](#text-indentation)
-- [Letter Spacing](#letter-spacing)
-- [Line Height](#line-height)
-- [Word Spacing](#word-spacing)
-- [White Space](#white-space)
-- [Summary of Properties](#summary-of-properties)
-
----
-
 ## Text Indentation
 
 The `text-indent` property sets the indentation of the first line in a text block.
