@@ -429,3 +429,99 @@ p {
 | `text-indent`   | Indentation of the first line in a text block     |
 | `white-space`   | Handling of white space inside an element         |
 | `word-spacing`  | Space between words in text                       |
+
+Sure, here's the `README.md` content for the CSS Text Shadow topic:
+
+```markdown
+# CSS Text Shadow
+
+## Table of Contents
+- [Basic Text Shadow](#basic-text-shadow)
+- [Text Shadow with Color](#text-shadow-with-color)
+- [Text Shadow with Blur](#text-shadow-with-blur)
+- [More Text Shadow Examples](#more-text-shadow-examples)
+
+---
+
+## Basic Text Shadow
+
+The `text-shadow` property adds shadow to text. In its simplest form, you can specify horizontal and vertical shadow values.
+
+### Example
+```css
+h1 {
+  text-shadow: 2px 2px;
+}
+```
+
+---
+
+## Text Shadow with Color
+
+You can add a color to the text shadow by simply adding a color value after the horizontal and vertical shadow values.
+
+### Example
+```css
+h1 {
+  text-shadow: 2px 2px red;
+}
+```
+
+---
+
+## Text Shadow with Blur
+
+To add a blur effect to the text shadow, you can specify a blur radius after the color value.
+
+### Example
+```css
+h1 {
+  text-shadow: 2px 2px 5px red;
+}
+```
+
+---
+
+## More Text Shadow Examples
+
+### Example 1: Text Shadow on White Text
+To apply a text shadow on white text:
+
+```css
+h1 {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+```
+
+### Example 2: Text Shadow with Red Neon Glow
+To create a red neon glow effect:
+
+```css
+h1 {
+  text-shadow: 0 0 3px #ff0000;
+}
+```
+
+### Example 3: Text Shadow with Red and Blue Neon Glow
+Combine red and blue neon glow effects:
+
+```css
+h1 {
+  text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+}
+```
+
+### Example 4: Multiple Text Shadows
+Apply multiple text shadows for a layered effect:
+
+```css
+h1 {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+```
+
+```
+
+Feel free to modify or add more content as needed!
