@@ -59,5 +59,3 @@ In CSS, the `font-family` property is used to define the font for text elements.
   font-family: "Lucida Console", "Courier New", monospace;
 }
 ```
-
-This guide provides insights into the significance of font selection and the use of CSS to define and apply fonts on web pages.
