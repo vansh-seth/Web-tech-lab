@@ -1,6 +1,4 @@
-Sure, here's a revised version for a README.md file:
 
-```markdown
 # CSS Fonts Guide
 
 ## Importance of Font Selection
