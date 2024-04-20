@@ -60,9 +60,6 @@ In CSS, the `font-family` property is used to define the font for text elements.
 }
 ```
 
-Certainly! Here's a revised version for a README.md file:
-
-```markdown
 # Web Safe Fonts in CSS
 
 ## What Are Web Safe Fonts?
