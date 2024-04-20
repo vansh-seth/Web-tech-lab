@@ -157,6 +157,3 @@ The following fonts are among the most reliable web-safe fonts for HTML and CSS:
 ## Important Note
 
 Before publishing your website, always test how your chosen fonts appear on different browsers and devices. Utilizing fallback fonts ensures a consistent user experience across various platforms.
-```
-
-This README.md file organizes the information into sections, making it easier to read and understand, suitable for documentation or a project README.
