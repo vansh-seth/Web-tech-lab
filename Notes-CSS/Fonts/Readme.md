@@ -218,6 +218,3 @@ p {
 
 Before publishing a website, always test font appearances across different browsers and devices. Additionally, ensure to include fallback fonts for consistent rendering. 
 
---- 
-
-Feel free to adjust the formatting or wording as needed!
