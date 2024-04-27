@@ -214,11 +214,6 @@ p {
 
 Before publishing a website, always test font appearances across different browsers and devices. Additionally, ensure to include fallback fonts for consistent rendering. 
 
-
-Certainly! Here's a README.md file presenting the information in a different format:
-
----
-
 # CSS Font Fallbacks
 
 ## Commonly Used Font Fallbacks
