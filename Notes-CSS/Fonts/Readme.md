@@ -156,10 +156,6 @@ The following fonts are among the most reliable web-safe fonts for HTML and CSS:
 Before publishing your website, always test how your chosen fonts appear on different browsers and devices. Utilizing fallback fonts ensures a consistent user experience across various platforms.
 
 
-Sure, here's a README.md file with the information provided, presented in a different format:
-
----
-
 # Web Safe Fonts for HTML and CSS
 
 ## What are Web Safe Fonts?
