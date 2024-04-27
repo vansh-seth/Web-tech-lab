@@ -308,3 +308,67 @@ This is a paragraph.
 
 Font fallbacks ensure a consistent appearance across different platforms by providing alternative font choices if the preferred ones are not available.
 
+
+Sure, here's a README.md file presenting the information in a different way:
+
+---
+
+# CSS Font Style Properties
+
+## Font Style
+
+The `font-style` property is used to specify the style of the font, primarily for italicizing text. It has three values:
+
+- `normal`: Displays text normally.
+- `italic`: Displays text in italics.
+- `oblique`: Displays text leaning (similar to italic but less supported).
+
+### Examples:
+
+```css
+p.normal {
+  font-style: normal;
+}
+
+p.italic {
+  font-style: italic;
+}
+
+p.oblique {
+  font-style: oblique;
+}
+## Font Weight
+
+The `font-weight` property specifies the thickness or boldness of a font.
+
+### Examples:
+
+```css
+p.normal {
+  font-weight: normal;
+}
+
+p.thick {
+  font-weight: bold;
+}
+## Font Variant
+
+The `font-variant` property determines whether text should be displayed in small-caps font.
+
+### Examples:
+
+```css
+p.normal {
+  font-variant: normal;
+}
+
+p.small {
+  font-variant: small-caps;
+}
+```
+
+These properties allow you to control various aspects of text appearance in your CSS styling.
+
+--- 
+
+Feel free to modify the formatting or wording as needed!
