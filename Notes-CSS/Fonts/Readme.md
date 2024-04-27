@@ -369,6 +369,3 @@ p.small {
 
 These properties allow you to control various aspects of text appearance in your CSS styling.
 
---- 
-
-Feel free to modify the formatting or wording as needed!
