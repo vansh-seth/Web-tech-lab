@@ -308,11 +308,6 @@ This is a paragraph.
 
 Font fallbacks ensure a consistent appearance across different platforms by providing alternative font choices if the preferred ones are not available.
 
-
-Sure, here's a README.md file presenting the information in a different way:
-
----
-
 # CSS Font Style Properties
 
 ## Font Style
