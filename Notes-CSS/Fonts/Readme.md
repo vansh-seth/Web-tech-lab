@@ -313,6 +313,3 @@ This is a paragraph.
 
 Font fallbacks ensure a consistent appearance across different platforms by providing alternative font choices if the preferred ones are not available.
 
---- 
-
-Feel free to modify the formatting or wording according to your needs!
