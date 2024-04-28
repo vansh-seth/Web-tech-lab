@@ -1,4 +1,3 @@
-
 # CSS Fonts Guide
 
 ## Importance of Font Selection
