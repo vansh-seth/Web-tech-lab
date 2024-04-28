@@ -209,9 +209,6 @@ p {
    - Mimics handwriting for an elegant and sophisticated look.
    - Careful usage required due to potential readability issues.
 
-## Note:
-
-Before publishing a website, always test font appearances across different browsers and devices. Additionally, ensure to include fallback fonts for consistent rendering. 
 
 # CSS Font Fallbacks
 
