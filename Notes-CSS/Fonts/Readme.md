@@ -444,3 +444,83 @@ This allows text size to adjust dynamically based on the size of the browser win
 
 ## Conclusion
 Properly managing font size is essential for effective web design, ensuring readability and accessibility across different devices and browsers. By understanding the different methods of setting font size in CSS, you can create more responsive and user-friendly websites.
+
+Certainly! Here's a README.md version of the guide on using Google Fonts with CSS:
+
+# Using Google Fonts in CSS
+
+## Introduction
+Google Fonts offer a vast selection of free fonts for web designers, with over 1000 options to choose from. Integrating Google Fonts into your web projects is simple and enhances the typography of your website.
+
+## How to Use Google Fonts
+To use Google Fonts, follow these steps:
+
+1. Add a special style sheet link in the `<head>` section of your HTML document.
+2. Refer to the desired font in your CSS by specifying the font family.
+
+## Examples
+Here are some examples of how to use Google Fonts:
+
+```html
+<head>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+  <style>
+    body {
+      font-family: "Sofia", sans-serif;
+    }
+  </style>
+</head>
+```
+
+## Multiple Google Fonts
+You can use multiple Google Fonts by separating the font names with a pipe character (|):
+
+```html
+<head>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Audiowide|Sofia|Trirong">
+  <style>
+    h1.a {font-family: "Audiowide", sans-serif;}
+    h1.b {font-family: "Sofia", sans-serif;}
+    h1.c {font-family: "Trirong", serif;}
+  </style>
+</head>
+```
+
+## Styling Google Fonts
+You can style Google Fonts using CSS as you would with any other font:
+
+```html
+<head>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+  <style>
+    body {
+      font-family: "Sofia", sans-serif;
+      font-size: 30px;
+      text-shadow: 3px 3px 3px #ababab;
+    }
+  </style>
+</head>
+```
+
+## Enabling Font Effects
+Google Fonts also support various font effects. You can enable font effects by adding `effect=effectname` to the Google API link and applying a special class name to the element using the effect.
+
+```html
+<head>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia&effect=fire">
+  <style>
+    body {
+      font-family: "Sofia", sans-serif;
+      font-size: 30px;
+    }
+  </style>
+</head>
+<body>
+
+<h1 class="font-effect-fire">Sofia on Fire</h1>
+
+</body>
+```
+
+## Conclusion
+Integrating Google Fonts into your web projects adds versatility and enhances the visual appeal of your typography. With a wide selection of fonts and support for various styling options, Google Fonts are a valuable resource for web designers.
