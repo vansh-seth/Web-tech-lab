@@ -362,11 +362,6 @@ p.small {
 }
 ```
 
-These properties allow you to control various aspects of text appearance in your CSS styling.
-
-
-Certainly! Here's a README.md version of the CSS font size guide:
-
 # CSS Font Size Guide
 
 ## Introduction
