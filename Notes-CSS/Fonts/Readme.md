@@ -445,7 +445,6 @@ This allows text size to adjust dynamically based on the size of the browser win
 ## Conclusion
 Properly managing font size is essential for effective web design, ensuring readability and accessibility across different devices and browsers. By understanding the different methods of setting font size in CSS, you can create more responsive and user-friendly websites.
 
-Certainly! Here's a README.md version of the guide on using Google Fonts with CSS:
 
 # Using Google Fonts in CSS
 
