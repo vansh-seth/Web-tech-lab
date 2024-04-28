@@ -364,3 +364,89 @@ p.small {
 
 These properties allow you to control various aspects of text appearance in your CSS styling.
 
+
+Certainly! Here's a README.md version of the CSS font size guide:
+
+# CSS Font Size Guide
+
+## Introduction
+The font-size property in CSS allows you to control the size of text on your webpage. Properly managing text size is crucial in web design for readability and accessibility. It's important to use the appropriate HTML tags such as `<h1>` - `<h6>` for headings and `<p>` for paragraphs instead of relying solely on font size adjustments.
+
+## Absolute vs. Relative Size
+### Absolute Size
+- Sets text to a specified size.
+- Does not allow users to change text size in browsers (not ideal for accessibility).
+- Useful when the physical size of the output is known.
+
+### Relative Size
+- Sets size relative to surrounding elements.
+- Allows users to change text size in browsers.
+- Provides flexibility in design.
+
+## Default Size
+If no font size is specified, the default size for normal text (like paragraphs) is 16px (16px = 1em).
+
+## Setting Font Size
+### Using Pixels
+Setting text size with pixels gives precise control over the size:
+```css
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 14px;
+}
+```
+
+### Using Em
+To allow users to resize text, many developers use em instead of pixels:
+```css
+h1 {
+  font-size: 2.5em; /* 40px/16=2.5em */
+}
+
+h2 {
+  font-size: 1.875em; /* 30px/16=1.875em */
+}
+
+p {
+  font-size: 0.875em; /* 14px/16=0.875em */
+}
+```
+Em allows for flexibility across browsers, but may have issues in older versions of Internet Explorer.
+
+### Combination of Percent and Em
+A solution for consistent sizing across browsers involves setting a default font-size for the `<body>` element:
+```css
+body {
+  font-size: 100%;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+h2 {
+  font-size: 1.875em;
+}
+
+p {
+  font-size: 0.875em;
+}
+```
+This ensures uniform text size across browsers and allows for text resizing.
+
+### Responsive Font Size
+Font size can be set using the vw unit to scale with the viewport width:
+```html
+<h1 style="font-size:10vw">Hello World</h1>
+```
+This allows text size to adjust dynamically based on the size of the browser window.
+
+## Conclusion
+Properly managing font size is essential for effective web design, ensuring readability and accessibility across different devices and browsers. By understanding the different methods of setting font size in CSS, you can create more responsive and user-friendly websites.
