@@ -697,24 +697,6 @@ p.b {
 }
 ```
 
-## Test Yourself With Exercises
-
-**Exercise:**
-Set the font for `<h1>` to "Verdana".
-
-```html
-<style>
-h1 {
-  font-family: Verdana;
-}
-</style>
-
-<body>
-  <h1>This is a heading</h1>
-  <p>This is a paragraph</p>
-</body>
-```
-
 ## All CSS Font Properties
 
 ### `font`
