@@ -671,10 +671,6 @@ p {
 
 Choosing the right font pairings can greatly enhance the visual appeal and readability of your design. Experiment with different combinations to find what works best for your project.
 
-
-Sure! Here's the content formatted for a `README.md` file:
-
-```
 # CSS Font Property
 
 ## The CSS Font Property
