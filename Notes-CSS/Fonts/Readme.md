@@ -1,5 +1,4 @@
 # CSS Fonts Guide
-
 ## Importance of Font Selection
 
 The choice of font significantly influences the user's experience on a website. 
