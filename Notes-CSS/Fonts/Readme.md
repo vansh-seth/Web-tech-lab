@@ -672,6 +672,3 @@ p {
 ## Conclusion
 
 Choosing the right font pairings can greatly enhance the visual appeal and readability of your design. Experiment with different combinations to find what works best for your project.
-```
-
-This Markdown file provides detailed information on font pairing rules and examples of popular font combinations, along with code snippets for each pairing.
