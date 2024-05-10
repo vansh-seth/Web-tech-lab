@@ -738,6 +738,3 @@ Specifies whether or not a text should be displayed in a small-caps font.
 
 ### `font-weight`
 Specifies the weight of a font.
-```
-
-This Markdown file provides an explanation of the CSS `font` property, examples, a test exercise, and a summary of all CSS font properties.
