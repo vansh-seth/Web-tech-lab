@@ -521,9 +521,7 @@ Google Fonts also support various font effects. You can enable font effects by a
 ## Conclusion
 Integrating Google Fonts into your web projects adds versatility and enhances the visual appeal of your typography. With a wide selection of fonts and support for various styling options, Google Fonts are a valuable resource for web designers.
 
-Certainly! Here's the content formatted for a `README.md` file:
 
-```
 # CSS Great Font Pairings
 
 Great font pairings are essential to great design.
