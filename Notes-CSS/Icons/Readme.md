@@ -65,12 +65,4 @@ Then, use the icon classes in your HTML:
 <i class="material-icons">traffic</i>
 ```
 
-For a complete reference of all Font Awesome icons, visit the [Icon Reference](https://fontawesome.com/icons).
 
----
-
-Feel free to customize the icons by adjusting their size, color, and other properties using CSS!
-
-```
-
-This Markdown file provides a structured overview of adding icons to an HTML page using Font Awesome, Bootstrap Icons, and Google Icons, along with the necessary code snippets and instructions.
