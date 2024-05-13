@@ -1,7 +1,4 @@
 
-Here's the content formatted for a Markdown file (Readme.md):
-
-```markdown
 # CSS Links
 
 With CSS, links can be styled in various ways to enhance their appearance and interactivity.
