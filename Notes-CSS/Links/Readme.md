@@ -153,8 +153,3 @@ Lastly, you can change the cursor style when hovering over links to provide visu
 <span style="cursor: wait">wait</span>
 ```
 
-These examples demonstrate various ways to style and enhance links using CSS.
-
-```
-
-This Markdown file provides detailed explanations and examples of styling links using CSS, including text decoration, background color, link buttons, cursor styles, and more.
