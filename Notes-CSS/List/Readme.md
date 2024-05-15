@@ -131,31 +131,6 @@ This example demonstrates how to create a bordered list without bullets.
 
 This example demonstrates all the different list-item markers in CSS.
 
-## Exercises
-
-### Exercise: Set the List Style for Unordered Lists to "Square"
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Unordered List Example</title>
-<style>
-ul {
-  list-style-type: square;
-}
-</style>
-</head>
-<body>
-<ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Coca Cola</li>
-</ul>
-</body>
-</html>
-```
 
 ## All CSS List Properties
 
