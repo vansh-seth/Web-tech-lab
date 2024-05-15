@@ -1,6 +1,4 @@
-Sure, here's a README.md file summarizing the CSS list properties and examples:
 
-```markdown
 # CSS Lists
 
 ## HTML Lists
