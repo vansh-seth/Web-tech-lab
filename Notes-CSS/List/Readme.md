@@ -117,21 +117,6 @@ ul li {
 }
 ```
 
-## Examples
-
-### Customized List with a Red Left Border
-
-This example demonstrates how to create a list with a red left border.
-
-### Full-Width Bordered List
-
-This example demonstrates how to create a bordered list without bullets.
-
-### All the Different List-Item Markers
-
-This example demonstrates all the different list-item markers in CSS.
-
-
 ## All CSS List Properties
 
 | Property           | Description                                               |
