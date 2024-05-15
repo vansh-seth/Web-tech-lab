@@ -165,6 +165,4 @@ ul {
 | `list-style-image` | Specifies an image as the list-item marker                |
 | `list-style-position` | Specifies the position of the list-item markers (bullet points) |
 | `list-style-type`  | Specifies the type of list-item marker                    |
-```
 
-This README.md file provides a structured overview of CSS list properties with examples, making it easy to understand and apply different styles to HTML lists.
