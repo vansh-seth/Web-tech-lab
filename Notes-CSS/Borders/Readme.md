@@ -427,4 +427,3 @@ Below is a list of all the CSS border properties along with their descriptions:
   - **`border-top-width`**: Sets the width of the top border.
 
 - **`border-width`**: Sets the width of the four borders.
-
