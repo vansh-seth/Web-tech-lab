@@ -1,4 +1,5 @@
 # CSS Lists
+
 ## HTML Lists
 
 In HTML, there are two main types of lists:
