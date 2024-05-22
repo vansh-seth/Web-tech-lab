@@ -9,3 +9,8 @@
 
 ![image](https://github.com/vansh-seth/Web-tech-lab/assets/111755254/cbec207c-54ea-4f15-9106-1180119a2143)
 
+## Result:
+
+![image](https://github.com/vansh-seth/Web-tech-lab/assets/111755254/69584686-bf7b-469a-84d1-a457aeee4f58)
+
+![WhatsApp Image 2024-05-13 at 6 32 54 PM](https://github.com/vansh-seth/Web-tech-lab/assets/111755254/edbba285-a6ad-426e-b6bc-36bbe130c8eb)
