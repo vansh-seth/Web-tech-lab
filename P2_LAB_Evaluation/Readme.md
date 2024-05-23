@@ -12,3 +12,8 @@
 
 ![image](https://github.com/vansh-seth/Web-tech-lab/assets/111755254/620a2882-a20d-4789-82d2-57b8132edb3e)
 
+## Backend:
+
+![image](https://github.com/vansh-seth/Web-tech-lab/assets/111755254/514438ae-0ee7-4d0f-a789-3483163c1ff6)
+
+![image](https://github.com/vansh-seth/Web-tech-lab/assets/111755254/9636fcc7-5f4c-43c8-a9e3-93af87382a95)
