@@ -128,4 +128,3 @@ table {
 }
 ```
 
-By following these examples and guidelines, you can improve the look and functionality of your HTML tables using CSS.
