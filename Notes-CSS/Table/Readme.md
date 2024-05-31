@@ -339,5 +339,3 @@ td {
   vertical-align: bottom;
 }
 ```
-
-By following these examples, you can control the horizontal and vertical alignment of your HTML table content using CSS, enhancing the table's readability and visual appeal.
