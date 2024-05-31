@@ -213,3 +213,131 @@ table {
   width: 50%;
 }
 ```
+
+# CSS Table Alignment
+
+## Introduction
+The alignment of table content can be adjusted using the `text-align` and `vertical-align` properties in CSS. This guide demonstrates how to set horizontal and vertical alignment for table headers (`<th>`) and data cells (`<td>`).
+
+## Table Data Example
+Here's an example of a table displaying savings information:
+
+| Firstname | Lastname | Savings |
+|-----------|----------|---------|
+| Peter     | Griffin  | $100    |
+| Lois      | Griffin  | $150    |
+| Joe       | Swanson  | $300    |
+
+## Horizontal Alignment
+The `text-align` property sets the horizontal alignment of the content in `<th>` or `<td>` elements.
+
+### Center-Align `<td>` Content
+By default, the content of `<td>` elements is left-aligned. To center-align the content of `<td>` elements, use `text-align: center`.
+
+### Example
+```html
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>Peter</td>
+    <td>Griffin</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>Lois</td>
+    <td>Griffin</td>
+    <td>$150</td>
+  </tr>
+  <tr>
+    <td>Joe</td>
+    <td>Swanson</td>
+    <td>$300</td>
+  </tr>
+</table>
+```
+
+```css
+td {
+  text-align: center;
+}
+```
+
+### Left-Align `<th>` Content
+By default, the content of `<th>` elements is center-aligned. To left-align the content of `<th>` elements, use `text-align: left`.
+
+### Example
+```html
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>Peter</td>
+    <td>Griffin</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>Lois</td>
+    <td>Griffin</td>
+    <td>$150</td>
+  </tr>
+  <tr>
+    <td>Joe</td>
+    <td>Swanson</td>
+    <td>$300</td>
+  </tr>
+</table>
+```
+
+```css
+th {
+  text-align: left;
+}
+```
+
+## Vertical Alignment
+The `vertical-align` property sets the vertical alignment of the content in `<th>` or `<td>` elements.
+
+### Bottom-Align `<td>` Content
+By default, the vertical alignment of the content in a table is middle-aligned. To bottom-align the content of `<td>` elements, use `vertical-align: bottom`.
+
+### Example
+```html
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>Peter</td>
+    <td>Griffin</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>Lois</td>
+    <td>Griffin</td>
+    <td>$150</td>
+  </tr>
+  <tr>
+    <td>Joe</td>
+    <td>Swanson</td>
+    <td>$300</td>
+  </tr>
+</table>
+```
+
+```css
+td {
+  height: 50px;
+  vertical-align: bottom;
+}
+```
+
+By following these examples, you can control the horizontal and vertical alignment of your HTML table content using CSS, enhancing the table's readability and visual appeal.
