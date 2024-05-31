@@ -213,5 +213,3 @@ table {
   width: 50%;
 }
 ```
-
-By following these examples, you can effectively control the size of your HTML tables using CSS. Adjusting the width and height properties allows for precise customization to fit your design needs.
