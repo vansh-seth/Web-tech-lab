@@ -339,3 +339,148 @@ td {
   vertical-align: bottom;
 }
 ```
+
+Sure! Here's the README.md file containing the CSS table styling instructions in a different way:
+
+```markdown
+# CSS Table Styling Guide
+
+This guide provides examples of how to style HTML tables using CSS. The examples include table padding, horizontal dividers, hover effects, striped tables, and table colors.
+
+## Table Padding
+
+To control the space between the border and the content in a table, use the `padding` property on `<td>` and `<th>` elements:
+
+```html
+<table>
+  <tr>
+    <th>First Name</th>
+    <th>Last Name</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>Peter</td>
+    <td>Griffin</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>Lois</td>
+    <td>Griffin</td>
+    <td>$150</td>
+  </tr>
+  <tr>
+    <td>Joe</td>
+    <td>Swanson</td>
+    <td>$300</td>
+  </tr>
+</table>
+```
+
+```css
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+```
+
+## Horizontal Dividers
+
+To add horizontal dividers between table rows, use the `border-bottom` property on `<th>` and `<td>` elements:
+
+```css
+th, td {
+  border-bottom: 1px solid #ddd;
+}
+```
+
+## Hoverable Table
+
+To highlight table rows on mouse over, use the `:hover` selector on `<tr>` elements:
+
+```css
+tr:hover {
+  background-color: coral;
+}
+```
+
+## Striped Tables
+
+For zebra-striped tables, use the `nth-child()` selector to add a background color to all even (or odd) table rows:
+
+```css
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+```
+
+## Table Color
+
+To specify the background color and text color of `<th>` elements, use the following CSS:
+
+```css
+th {
+  background-color: #04AA6D;
+  color: white;
+}
+```
+
+## Complete Example
+
+Here's a complete example that combines all the above styles:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+th, td {
+  padding: 15px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+  background-color: coral;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+th {
+  background-color: #04AA6D;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <th>First Name</th>
+    <th>Last Name</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>Peter</td>
+    <td>Griffin</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>Lois</td>
+    <td>Griffin</td>
+    <td>$150</td>
+  </tr>
+  <tr>
+    <td>Joe</td>
+    <td>Swanson</td>
+    <td>$300</td>
+  </tr>
+</table>
+
+</body>
+</html>
+```
+
+This guide covers basic styling techniques for HTML tables, enhancing their readability and visual appeal.
+```
