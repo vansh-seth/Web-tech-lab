@@ -479,3 +479,141 @@ th {
 </html>
 ```
 
+Sure! Here's the README.md file containing the CSS responsive table styling instructions in a different way:
+
+```markdown
+# CSS Responsive Table Styling Guide
+
+This guide provides examples of how to create and style responsive HTML tables using CSS. It includes instructions on adding horizontal scroll bars, making fancy tables, positioning table captions, and setting various CSS table properties.
+
+## Responsive Table
+
+To make a table responsive and display a horizontal scroll bar if the screen is too small to display the full content, wrap the `<table>` element inside a container element (like `<div>`) with `overflow-x:auto`:
+
+```html
+<div style="overflow-x:auto;">
+  <table>
+    <tr>
+      <th>First Name</th>
+      <th>Last Name</th>
+      <th>Points</th>
+      <th>Points</th>
+      <th>Points</th>
+      <th>Points</th>
+      <th>Points</th>
+      <th>Points</th>
+      <th>Points</th>
+      <th>Points</th>
+      <th>Points</th>
+      <th>Points</th>
+      <th>Points</th>
+    </tr>
+    <tr>
+      <td>Jill</td>
+      <td>Smith</td>
+      <td>50</td>
+      <td>50</td>
+      <td>50</td>
+      <td>50</td>
+      <td>50</td>
+      <td>50</td>
+      <td>50</td>
+      <td>50</td>
+      <td>50</td>
+      <td>50</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>Eve</td>
+      <td>Jackson</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+    </tr>
+    <tr>
+      <td>Adam</td>
+      <td>Johnson</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+    </tr>
+  </table>
+</div>
+```
+
+> **Note:** In OS X Lion (on Mac), scrollbars are hidden by default and only shown when being used (even though `overflow:scroll` is set).
+
+## Fancy Table
+
+This section demonstrates how to create a fancy table. You can style tables with borders, background colors, padding, and more.
+
+## Positioning the Table Caption
+
+This section demonstrates how to position the table caption using the `caption-side` property.
+
+## Exercises
+
+**Exercise:** Set the border to "2px solid green" for table, th, and td elements.
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 2px solid green;
+}
+</style>
+</head>
+<body>
+<table>
+  <tr>
+    <th>First Name</th>
+    <th>Last Name</th>
+  </tr>
+  <tr>
+    <td>Peter</td>
+    <td>Griffin</td>
+  </tr>
+  <tr>
+    <td>Lois</td>
+    <td>Griffin</td>
+  </tr>
+</table>
+</body>
+</html>
+```
+
+Start the Exercise
+
+## CSS Table Properties
+
+Here are some useful CSS properties for styling tables:
+
+| Property        | Description                                                        |
+|-----------------|--------------------------------------------------------------------|
+| `border`        | Sets all the border properties in one declaration                  |
+| `border-collapse` | Specifies whether or not table borders should be collapsed         |
+| `border-spacing` | Specifies the distance between the borders of adjacent cells       |
+| `caption-side`  | Specifies the placement of a table caption                         |
+| `empty-cells`   | Specifies whether or not to display borders and background on empty cells |
+| `table-layout`  | Sets the layout algorithm to be used for a table                   |
+
+This guide covers the basics of creating responsive and well-styled tables using CSS.
+```
