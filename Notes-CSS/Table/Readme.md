@@ -340,9 +340,6 @@ td {
 }
 ```
 
-Sure! Here's the README.md file containing the CSS table styling instructions in a different way:
-
-```markdown
 # CSS Table Styling Guide
 
 This guide provides examples of how to style HTML tables using CSS. The examples include table padding, horizontal dividers, hover effects, striped tables, and table colors.
