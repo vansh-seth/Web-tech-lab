@@ -482,5 +482,3 @@ th {
 </html>
 ```
 
-This guide covers basic styling techniques for HTML tables, enhancing their readability and visual appeal.
-```
