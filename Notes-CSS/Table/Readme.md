@@ -479,9 +479,6 @@ th {
 </html>
 ```
 
-Sure! Here's the README.md file containing the CSS responsive table styling instructions in a different way:
-
-```markdown
 # CSS Responsive Table Styling Guide
 
 This guide provides examples of how to create and style responsive HTML tables using CSS. It includes instructions on adding horizontal scroll bars, making fancy tables, positioning table captions, and setting various CSS table properties.
