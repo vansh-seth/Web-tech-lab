@@ -615,5 +615,3 @@ Here are some useful CSS properties for styling tables:
 | `empty-cells`   | Specifies whether or not to display borders and background on empty cells |
 | `table-layout`  | Sets the layout algorithm to be used for a table                   |
 
-This guide covers the basics of creating responsive and well-styled tables using CSS.
-```
