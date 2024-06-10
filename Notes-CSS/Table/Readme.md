@@ -564,38 +564,6 @@ This section demonstrates how to create a fancy table. You can style tables with
 
 This section demonstrates how to position the table caption using the `caption-side` property.
 
-## Exercises
-
-**Exercise:** Set the border to "2px solid green" for table, th, and td elements.
-
-```html
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-table, th, td {
-  border: 2px solid green;
-}
-</style>
-</head>
-<body>
-<table>
-  <tr>
-    <th>First Name</th>
-    <th>Last Name</th>
-  </tr>
-  <tr>
-    <td>Peter</td>
-    <td>Griffin</td>
-  </tr>
-  <tr>
-    <td>Lois</td>
-    <td>Griffin</td>
-  </tr>
-</table>
-</body>
-</html>
-```
 
 Start the Exercise
 
