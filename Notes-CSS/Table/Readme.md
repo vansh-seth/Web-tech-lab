@@ -564,9 +564,6 @@ This section demonstrates how to create a fancy table. You can style tables with
 
 This section demonstrates how to position the table caption using the `caption-side` property.
 
-
-Start the Exercise
-
 ## CSS Table Properties
 
 Here are some useful CSS properties for styling tables:
