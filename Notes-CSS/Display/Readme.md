@@ -132,8 +132,6 @@ To hide an element while keeping its space, use `visibility: hidden;`:
 <p>This is a paragraph</p>
 ```
 
-
-
 ## Summary
 
 The `display` property controls how an element is displayed on the web page. It can be used to create various layouts by changing elements' default display behavior. Using `display: none;` or `visibility: hidden;` can hide elements in different ways, affecting the layout differently.
