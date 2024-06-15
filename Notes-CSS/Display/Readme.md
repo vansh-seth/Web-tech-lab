@@ -132,23 +132,7 @@ To hide an element while keeping its space, use `visibility: hidden;`:
 <p>This is a paragraph</p>
 ```
 
-## Exercises
 
-**Exercise: Hide the `<h1>` element while keeping its space.**
-
-```html
-<style>
-  h1 {
-    visibility: hidden;
-  }
-</style>
-
-<body>
-  <h1>This is a heading</h1>
-  <p>This is a paragraph</p>
-  <p>This is a paragraph</p>
-</body>
-```
 
 ## Summary
 
