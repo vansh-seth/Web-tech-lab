@@ -8,7 +8,6 @@ The CSS border properties allow you to specify the style, width, and color of an
 }
 ```
 ### I have a red bottom border.
-
 ```css
 .example {
   border-bottom: 2px solid red;
