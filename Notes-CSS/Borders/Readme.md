@@ -20,7 +20,6 @@ The CSS border properties allow you to specify the style, width, and color of an
   border-radius: 10px;
 }
 ```
-
 ### I have a blue left border.
 
 ```css
