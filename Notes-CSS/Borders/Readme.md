@@ -7,7 +7,6 @@ The CSS border properties allow you to specify the style, width, and color of an
   border: 2px solid #000000;
 }
 ```
-
 ### I have a red bottom border.
 
 ```css
