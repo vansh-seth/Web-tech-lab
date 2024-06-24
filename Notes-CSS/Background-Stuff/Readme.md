@@ -6,7 +6,6 @@ CSS background properties enable you to add various background effects to elemen
 - `background-attachment`
 - `background-position`
 - `background` (shorthand property)
-
 ### CSS `background-color`
 
 The `background-color` property determines the background color of an element.
