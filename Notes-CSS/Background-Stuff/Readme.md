@@ -10,7 +10,6 @@ CSS background properties enable you to add various background effects to elemen
 The `background-color` property determines the background color of an element.
 #### Example:
 Set the background color of a webpage like this:
-
 ```css
 body {
   background-color: lightblue;
