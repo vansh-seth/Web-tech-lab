@@ -1,6 +1,5 @@
 ## CSS Backgrounds
 CSS background properties enable you to add various background effects to elements. In the following sections, we'll explore the key CSS background properties:
-
 - `background-color`
 - `background-image`
 - `background-repeat`
