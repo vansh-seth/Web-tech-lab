@@ -8,7 +8,6 @@ CSS background properties enable you to add various background effects to elemen
 - `background` (shorthand property)
 ### CSS `background-color`
 The `background-color` property determines the background color of an element.
-
 #### Example:
 
 Set the background color of a webpage like this:
