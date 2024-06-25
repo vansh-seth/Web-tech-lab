@@ -26,7 +26,6 @@ The CSS border properties allow you to specify the style, width, and color of an
   border-left: 2px solid blue;
 }
 ```
-
 ## CSS Border Style
 
 The `border-style` property specifies what kind of border to display.
