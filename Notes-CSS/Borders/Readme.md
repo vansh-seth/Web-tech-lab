@@ -58,7 +58,6 @@ p.none {border-style: none;}
 p.hidden {border-style: hidden;}
 p.mix {border-style: dotted dashed solid double;}
 ```
-
 ### Result:
 
 - A dotted border.
