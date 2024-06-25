@@ -28,7 +28,6 @@ The CSS border properties allow you to specify the style, width, and color of an
 ```
 ## CSS Border Style
 The `border-style` property specifies what kind of border to display.
-
 ### Allowed Values:
 
 - `dotted` - Defines a dotted border
