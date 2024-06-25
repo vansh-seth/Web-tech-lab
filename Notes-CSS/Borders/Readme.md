@@ -43,7 +43,6 @@ The `border-style` property specifies what kind of border to display.
 The `border-style` property can have from one to four values (for the top border, right border, bottom border, and the left border).
 
 ### Example
-
 ```css
 p.dotted {border-style: dotted;}
 p.dashed {border-style: dashed;}
