@@ -40,7 +40,6 @@ The `border-style` property specifies what kind of border to display.
 - `outset` - Defines a 3D outset border. The effect depends on the `border-color` value
 - `none` - Defines no border
 - `hidden` - Defines a hidden border
-
 The `border-style` property can have from one to four values (for the top border, right border, bottom border, and the left border).
 
 ### Example
