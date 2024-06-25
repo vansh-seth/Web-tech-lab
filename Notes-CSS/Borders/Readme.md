@@ -14,7 +14,6 @@ The CSS border properties allow you to specify the style, width, and color of an
 }
 ```
 ### I have rounded borders.
-
 ```css
 .example {
   border-radius: 10px;
