@@ -14,7 +14,6 @@ CSS offers a range of predefined color names:
 CSS and HTML collectively support 140 standard color names.
 ### CSS Background Color
 You can specify the background color for HTML elements:
-
 #### Example:
 ```html
 <h1 style="background-color:DodgerBlue;">Hello World</h1>
