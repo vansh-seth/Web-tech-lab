@@ -19,7 +19,6 @@ You can specify the background color for HTML elements:
 <h1 style="background-color:DodgerBlue;">Hello World</h1>
 <p style="background-color:Tomato;">Lorem ipsum...</p>
 ```
-
 ### CSS Text Color
 
 Text color can also be defined using CSS:
