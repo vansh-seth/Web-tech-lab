@@ -2,7 +2,6 @@
 Colors in CSS can be defined using various methods such as predefined color names, RGB, HEX, HSL, RGBA, and HSLA values.
 ### CSS Color Names
 CSS offers a range of predefined color names:
-
 - Tomato
 - Orange
 - DodgerBlue
