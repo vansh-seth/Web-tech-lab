@@ -10,8 +10,8 @@ CSS offers a range of predefined color names:
 - SlateBlue
 - Violet
 - LightGray
-CSS and HTML collectively support 140 standard color names.
 
+CSS and HTML collectively support 140 standard color names.
 ### CSS Background Color
 
 You can specify the background color for HTML elements:
