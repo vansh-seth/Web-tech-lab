@@ -21,7 +21,6 @@ Example:
 ```html
 <img src="image.jpg" width="500" height="300" alt="Description of Image">
 ```
-
 ## The alt Attribute
 The `alt` attribute, mandatory for the `<img>` tag, provides alternative text for an image. It is displayed if the image cannot be loaded or viewed.
 
