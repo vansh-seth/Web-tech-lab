@@ -1,5 +1,4 @@
 # HTML Attributes Guide
-
 ## Introduction
 HTML attributes provide additional information about HTML elements, enhancing the structure and functionality of web pages. This guide outlines essential HTML attributes and their usage.
 
