@@ -9,7 +9,6 @@ Example:
 ```
 ## The src Attribute
 The `src` attribute is employed with the `<img>` tag to embed images in HTML pages. It specifies the path to the image to be displayed.
-
 Example:
 ```html
 <img src="image.jpg" alt="Description of Image">
