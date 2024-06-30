@@ -14,7 +14,6 @@ Example:
 ```html
 <img src="image.jpg" alt="Description of Image">
 ```
-
 ## The width and height Attributes
 The `width` and `height` attributes within the `<img>` tag determine the dimensions of the image in pixels.
 
