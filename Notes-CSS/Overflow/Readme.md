@@ -69,9 +69,6 @@ div {
 }
 ```
 
-### Exercise
-Force a scrollbar to the `<div>` element with class `intro`.
-
 
 ### All CSS Overflow Properties
 
