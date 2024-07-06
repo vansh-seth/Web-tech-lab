@@ -79,5 +79,4 @@ div {
 | `overflow-x`   | Specifies what to do with the left/right edges of the content if it overflows the element's content area |
 | `overflow-y`   | Specifies what to do with the top/bottom edges of the content if it overflows the element's content area |
 
-Feel free to experiment with these properties to get a better control of your layout!
 
