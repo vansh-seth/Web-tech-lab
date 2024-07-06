@@ -80,6 +80,4 @@ div {
 | `overflow-y`   | Specifies what to do with the top/bottom edges of the content if it overflows the element's content area |
 
 Feel free to experiment with these properties to get a better control of your layout!
-```
 
-This `README.md` file provides a comprehensive overview of the CSS `overflow` property and its various values and examples, formatted in a way that is easy to read and understand.
