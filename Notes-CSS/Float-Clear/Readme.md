@@ -15,7 +15,6 @@ The `float` property is used for positioning and formatting content, e.g., letti
 
 #### Example - float: right;
 The following example specifies that an image should float to the right in a text:
-
 ```html
 <!DOCTYPE html>
 <html>
