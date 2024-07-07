@@ -85,7 +85,7 @@ img {
 ```
 
 #### Example - Float Next To Each Other
-Normally, `div` elements will be displayed on top of each other. However, if we use `float: left`, we can let elements float next to each other:
+Normally, `div` elements will be displayed on each other. However, if we use `float: left`, we can let elements float next to each other:
 
 ```html
 <!DOCTYPE html>
