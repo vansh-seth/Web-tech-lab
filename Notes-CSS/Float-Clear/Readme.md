@@ -153,5 +153,3 @@ The `clear` property specifies what elements can float beside the cleared elemen
 </body>
 </html>
 ```
-
-This `README.md` file provides a comprehensive overview of the CSS `float` and `clear` properties and their various values and examples, formatted for easy reading and understanding.
