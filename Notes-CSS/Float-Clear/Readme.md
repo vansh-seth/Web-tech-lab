@@ -1,6 +1,4 @@
-Certainly! Here is the code for a `README.md` file that summarizes and explains the CSS `float` and `clear` properties with various examples:
 
-```markdown
 # CSS Layout - Float and Clear
 
 The CSS `float` property specifies how an element should float, while the `clear` property specifies what elements can float beside the cleared element and on which side.
