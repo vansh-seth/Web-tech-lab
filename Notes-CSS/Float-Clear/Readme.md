@@ -260,5 +260,3 @@ The new, modern clearfix hack is safer to use and is widely adopted:
 </html>
 ```
 
-This `README.md` file provides a comprehensive overview of the CSS `clear` property and the `clearfix` hack, including various values and examples, formatted for easy reading and understanding.
-```
