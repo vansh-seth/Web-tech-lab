@@ -505,6 +505,3 @@ It is common to create entire web layouts using the `float` property.
 | `overflow`    | Specifies what happens if content overflows an element's box.                                        |
 | `overflow-x`  | Specifies what to do with the left/right edges of the content if it overflows the element's content area. |
 | `overflow-y`  | Specifies what to do with the top/bottom edges of the content if it overflows the element's content area. |
-
-This `README.md` file provides a comprehensive overview of various float examples, including how to use the `box-sizing` property, and other relevant CSS properties for creating flexible and responsive layouts.
-```
