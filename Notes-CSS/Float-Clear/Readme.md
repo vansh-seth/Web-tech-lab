@@ -152,9 +152,6 @@ The `clear` property specifies what elements can float beside the cleared elemen
 </html>
 ```
 
-Certainly! Here is the code for a `README.md` file that summarizes and explains the CSS `clear` property and the `clearfix` hack with various examples:
-
-```markdown
 # CSS Layout - Clear and Clearfix
 
 ## The Clear Property
