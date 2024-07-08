@@ -489,12 +489,6 @@ It is common to create entire web layouts using the `float` property.
 </html>
 ```
 
-## More Examples
-- An image with border and margins that floats to the right in a paragraph.
-- An image with a caption that floats to the right.
-- Let the first letter of a paragraph float to the left and style the letter.
-- Create a homepage with a navbar, header, footer, left content, and main content using float.
-
 ## All CSS Float Properties
 
 | Property      | Description                                                                                         |
