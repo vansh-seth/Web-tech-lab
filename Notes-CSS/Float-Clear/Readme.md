@@ -257,9 +257,6 @@ The new, modern clearfix hack is safer to use and is widely adopted:
 </html>
 ```
 
-Certainly! Here is the code for a `README.md` file that summarizes and explains various float examples, along with the use of the `box-sizing` property and other relevant CSS properties:
-
-```markdown
 # CSS Layout - Float Examples
 
 This page contains common float examples to help you understand how to use the float property in different scenarios.
