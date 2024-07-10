@@ -1,4 +1,3 @@
-
 # CSS Layout - `display: inline-block`
 
 ## Understanding `display: inline-block`
@@ -84,6 +83,3 @@ One common use for `display: inline-block` is to display list items horizontally
 - Unlike **block** elements, **inline-block** elements do not create a line break after the element, enabling horizontal alignment.
 
 Use **inline-block** for flexible and responsive layouts, especially for creating horizontal navigation menus.
-```
-
-This `README.md` file summarizes the key points and includes the example codes with explanations.
