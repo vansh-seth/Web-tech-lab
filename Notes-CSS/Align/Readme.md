@@ -1,6 +1,3 @@
-Sure, here's a revised version of the information you provided, formatted for a `README.md` file:
-
-```markdown
 # CSS Layout - Horizontal & Vertical Alignment
 
 ## Centering Elements
