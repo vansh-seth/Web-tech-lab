@@ -198,6 +198,3 @@ Example:
 }
 </style>
 ```
-```
-
-This `README.md` file provides a structured explanation of different CSS alignment techniques with corresponding examples.
