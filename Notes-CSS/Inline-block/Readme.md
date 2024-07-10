@@ -1,6 +1,4 @@
-Sure, here's an alternative way to explain the concepts and examples you've provided, formatted for a `README.md` file:
 
-```markdown
 # CSS Layout - `display: inline-block`
 
 ## Understanding `display: inline-block`
