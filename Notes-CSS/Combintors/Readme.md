@@ -58,29 +58,6 @@ div ~ p {
 ```
 This selects all `<p>` elements that are siblings of `<div>` elements.
 
-## Exercise
-
-Change the color of all `<p>` elements that are descendants of `<div>` elements to "red".
-
-HTML:
-```html
-<body>
-  <div>
-    <p>This is a paragraph.</p>
-    <p>This is a paragraph.</p>
-  </div>
-  <p>This is a paragraph.</p>
-  <p>This is a paragraph.</p>
-</body>
-```
-
-CSS:
-```css
-div p {
-  color: red;
-}
-```
-
 ## Summary of CSS Combinator Selectors
 
 | Selector | Example     | Description                                                      |
