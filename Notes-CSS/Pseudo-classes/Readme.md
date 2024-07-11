@@ -144,26 +144,6 @@ This example demonstrates how to add other styles to hyperlinks.
 
 This example demonstrates how to use the `:focus` pseudo-class.
 
-## Exercise
-
-Set the background-color to red, when you mouse over a link.
-
-HTML:
-```html
-<body>
-  <h1>This is a header.</h1>
-  <p>This is a paragraph.</p>
-  <a href="https://w3schools.com">This is a link.</a>
-</body>
-```
-
-CSS:
-```css
-a:hover {
-  background-color: red;
-}
-```
-
 ## All CSS Pseudo-classes
 
 | Selector           | Example           | Description                                           |
