@@ -1,6 +1,3 @@
-Sure, here's a `README.md` file with the information on CSS Pseudo-classes, presented in a structured and concise manner:
-
-```markdown
 # CSS Pseudo-classes
 
 A pseudo-class is used to define a special state of an element. For example, it can be used to:
