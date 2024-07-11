@@ -1,6 +1,4 @@
-Sure, here's a `README.md` file with the information on CSS Combinators, presented in a structured and concise manner:
 
-```markdown
 # CSS Combinators
 
 A CSS combinator explains the relationship between selectors. A selector can contain multiple simple selectors, and combinators can be used between these simple selectors.
