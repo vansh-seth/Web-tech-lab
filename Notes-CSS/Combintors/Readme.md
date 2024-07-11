@@ -89,6 +89,4 @@ div p {
 | `element > element` | `div > p`   | Selects all `<p>` elements where the parent is a `<div>` element |
 | `element + element` | `div + p`   | Selects the first `<p>` element immediately after `<div>` elements |
 | `element1 ~ element2` | `p ~ ul`   | Selects every `<ul>` element preceded by a `<p>` element       |
-```
 
-Feel free to customize further as per your requirements!
