@@ -173,24 +173,6 @@ Below are some common pseudo-classes:
 | `:valid`          | `input:valid`          | Selects all `<input>` elements with a valid value     |
 | `:visited`        | `a:visited`            | Selects all visited links                             |
 
-## Exercises
-
-### Exercise:
-Set the background-color of the first line of the paragraph to red.
-
-```html
-<style>
-p::first-line {
-  background-color: red;
-}
-</style>
-
-<body>
-<p class="intro">
-In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since. 'Whenever you feel like criticizing anyone,' he told me, 'just remember that all the people in this world haven't had the advantages that you've had.'
-</p>
-</body>
-```
 
 ### Complete List of CSS Pseudo-Elements
 
