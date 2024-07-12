@@ -1,6 +1,3 @@
-Here's a `README.md` file summarizing the information on CSS opacity and transparency:
-
-```markdown
 # CSS Opacity / Transparency
 
 ## Overview
