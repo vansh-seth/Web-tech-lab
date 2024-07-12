@@ -133,9 +133,3 @@ div.transbox p {
 2. **Transparent Box**: Another `<div>` inside the first one with a background color, border, and opacity set to 0.6.
 3. **Text Inside Box**: A `<p>` element inside the transparent `<div>`.
 
-## Additional Resources
-
-Refer to the [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/opacity) for more details on CSS opacity and transparency.
-```
-
-This README provides a clear and structured overview of CSS opacity and transparency, with examples and explanations.
