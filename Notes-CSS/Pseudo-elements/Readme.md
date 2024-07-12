@@ -1,6 +1,3 @@
-Here's a `README.md` file summarizing the information on CSS pseudo-elements in a concise, structured manner:
-
-```markdown
 # CSS Pseudo-Elements
 
 ## What are Pseudo-Elements?
