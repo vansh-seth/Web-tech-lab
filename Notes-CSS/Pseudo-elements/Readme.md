@@ -202,10 +202,3 @@ In my younger and more vulnerable years my father gave me some advice that I've 
 | `::first-line`| `p::first-line`  | Selects the first line of each `<p>` element    |
 | `::marker`    | `::marker`       | Selects the markers of list items               |
 | `::selection` | `p::selection`   | Selects the portion of an element selected by a user|
-
-## Additional Resources
-
-Refer to the [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements) for more details on CSS pseudo-elements and classes.
-```
-
-This README provides a clear and structured overview of CSS pseudo-elements and classes, with examples and explanations.
