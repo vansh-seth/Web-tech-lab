@@ -1,6 +1,3 @@
-Sure! Here's a `README.md` file that explains how to create vertical and horizontal navigation bars using CSS in a concise and clear way:
-
-```markdown
 # CSS Navigation Bar
 
 ## Overview
