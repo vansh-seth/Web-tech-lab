@@ -109,6 +109,3 @@ a:hover {
 ```
 
 With these examples, you can create both vertical and horizontal navigation bars that are stylish and user-friendly.
-```
-
-This `README.md` provides a clear and concise guide on creating vertical and horizontal navigation bars using HTML and CSS.
