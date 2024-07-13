@@ -107,5 +107,4 @@ a:hover {
   background-color: #ccc;
 }
 ```
-
 With these examples, you can create both vertical and horizontal navigation bars that are stylish and user-friendly.
