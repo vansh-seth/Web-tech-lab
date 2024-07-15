@@ -1,5 +1,4 @@
 # CSS Layout - Horizontal & Vertical Alignment
-
 ## Centering Elements
 
 ### Horizontally Center a Block Element
