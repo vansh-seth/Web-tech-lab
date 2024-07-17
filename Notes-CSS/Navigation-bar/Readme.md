@@ -310,9 +310,6 @@ ul {
 }
 ```
 
-Here's a `README.md` file that details how to create a horizontal navigation bar using CSS, incorporating the information you provided in a structured and clear format:
-
-```markdown
 # CSS Horizontal Navigation Bar
 
 ## Overview
