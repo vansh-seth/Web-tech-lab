@@ -312,6 +312,3 @@ ul {
   overflow: auto;
 }
 ```
-
-By following these examples, you can create various styles of vertical navigation bars to suit your website's design.
-```
