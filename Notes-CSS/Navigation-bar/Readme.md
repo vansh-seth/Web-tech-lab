@@ -516,17 +516,3 @@ ul {
 }
 ```
 
-## Responsive and Advanced Examples
-
-### Responsive Topnav
-
-Use CSS media queries to create a responsive top navigation.
-
-### Responsive Sidenav
-
-Use CSS media queries to create a responsive side navigation.
-
-### Dropdown Navbar
-
-Add a dropdown menu inside a navigation bar.
-
