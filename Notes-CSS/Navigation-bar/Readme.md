@@ -108,9 +108,6 @@ a:hover {
 }
 ```
 
-Sure! Here's a `README.md` file that summarizes how to create a vertical navigation bar using CSS:
-
-```markdown
 # CSS Vertical Navigation Bar
 
 ## Overview
