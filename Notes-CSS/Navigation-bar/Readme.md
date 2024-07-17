@@ -530,5 +530,3 @@ Use CSS media queries to create a responsive side navigation.
 
 Add a dropdown menu inside a navigation bar.
 
-By following these examples, you can create various styles of horizontal navigation bars to suit your website's design.
-```
