@@ -191,9 +191,3 @@ To align the dropdown menu from right to left, add `right: 0;` to `.dropdown-con
 
 Adding `right: 0;` to `.dropdown-content` aligns the dropdown menu to the right edge of the parent element.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-```
-
-Feel free to adjust the text as needed!
