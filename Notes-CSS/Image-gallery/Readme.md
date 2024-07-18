@@ -91,9 +91,3 @@ div.desc {
 2. Replace the image paths (`href` and `src` attributes) with your own image URLs.
 3. Add descriptions for each image in the `div` with the class `desc`.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-```
-
-Feel free to adjust the text and code as needed!
