@@ -1,6 +1,3 @@
-Here's a `README.md` file summarizing the creation of hoverable dropdowns with CSS in a clear and concise manner:
-
-```markdown
 # CSS Dropdowns
 
 This repository contains examples of creating hoverable dropdown menus using CSS.
