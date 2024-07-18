@@ -1,6 +1,3 @@
-Here's a `README.md` file summarizing how to create an image gallery with CSS:
-
-```markdown
 # CSS Image Gallery
 
 This repository contains an example of creating an image gallery using CSS.
