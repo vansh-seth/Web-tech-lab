@@ -141,7 +141,4 @@ a[target] {
 | `[attribute$=value]`| `a[href$=".pdf"]`       | Selects all `<a>` elements with a `href` attribute value ending with ".pdf" |
 | `[attribute*=value]`| `a[href*="w3schools"]`  | Selects all `<a>` elements with a `href` attribute value containing "w3schools" |
 
-This README.md file provides an overview of CSS attribute selectors with examples and explanations to help you understand and implement them in your web projects.
-```
 
-This README.md file offers a comprehensive overview of CSS attribute selectors with code examples and explanations, providing a useful reference for understanding and using these selectors effectively.
