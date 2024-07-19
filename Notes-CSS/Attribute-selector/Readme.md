@@ -1,6 +1,4 @@
-Sure, here's a README.md file summarizing the concept of CSS attribute selectors with examples and explanations:
 
-```markdown
 # CSS Attribute Selectors
 
 ## Introduction
