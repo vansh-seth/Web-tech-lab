@@ -110,25 +110,6 @@ input[type="button"] {
 ```
 This example styles text input fields and buttons based on their `type` attribute.
 
-## Test Yourself With Exercises
-
-### Exercise:
-Set the background color to "red" for `<a>` elements that have a `target` attribute.
-
-```html
-<style>
-a[target] {
-  background-color: red;
-}
-</style>
-
-<body>
-  <a href="https://w3schools.com">w3schools.com</a>
-  <a href="http://disney.com" target="_blank">Disney.com</a>
-  <a href="http://wikipedia.org" target="_top">wikipedia.org</a>
-</body>
-```
-
 ## All CSS Attribute Selectors
 
 | Selector           | Example                  | Description                                                                 |
