@@ -121,6 +121,3 @@ To add a hover effect, we use a new image sprite (`img_navsprites_hover.gif`) co
   - For all three hover images, we specify the same background position, only 45px further down.
 
 Using image sprites, we optimize web performance by reducing server requests and creating smooth hover effects without additional loading delays.
-```
-
-This README.md file provides a concise explanation and the necessary code examples to understand and implement CSS image sprites.
