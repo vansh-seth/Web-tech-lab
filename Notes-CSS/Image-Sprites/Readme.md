@@ -1,6 +1,4 @@
-Sure, here's a README.md file summarizing the concept of CSS image sprites and providing the code examples with explanations:
 
-```markdown
 # CSS Image Sprites
 
 ## What are Image Sprites?
