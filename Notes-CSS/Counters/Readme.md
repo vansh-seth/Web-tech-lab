@@ -80,8 +80,3 @@ li::before {
 | **counter-increment** | Increments one or more counter values                                     |
 | **counter-reset**     | Creates or resets one or more counters                                     |
 | **counter()**         | Returns the current value of the named counter                            |
-
-This guide covers the basics of using CSS counters to automatically number and organize content on your web pages.
-```
-
-This README file provides a structured and comprehensive guide to using CSS counters, including key properties, functions, and examples for basic and nested counters, as well as outlined lists.
