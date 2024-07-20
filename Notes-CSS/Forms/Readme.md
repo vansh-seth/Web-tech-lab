@@ -150,8 +150,3 @@ Ensure the form is responsive. For screens less than 600px wide, stack columns o
   }
 }
 ```
-
-For more information on styling buttons with CSS, refer to the CSS Buttons Tutorial.
-```
-
-This README file includes all the CSS snippets and explanations for styling different form elements, ensuring a clear and comprehensive guide.
