@@ -129,10 +129,3 @@ The `@media` rule is used to create responsive layouts:
 - To create a 4-column layout, use 25%, etc.
 - For a more modern way of creating column layouts, consider using CSS Flexbox, though it is not supported in Internet Explorer 10 and earlier versions. If you require IE6-10 support, use floats as shown above.
 
-To learn more about CSS Flexbox and Media Queries, refer to the corresponding chapters in the CSS documentation.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Feel free to modify any part of the content to better fit your project's needs.
