@@ -1,6 +1,3 @@
-Sure! Here is a `README.md` file with the content from your message, rephrased and structured appropriately.
-
-```markdown
 # CSS Units
 
 CSS offers several different units for expressing length, which can be used in various properties such as width, margin, padding, and font-size.
