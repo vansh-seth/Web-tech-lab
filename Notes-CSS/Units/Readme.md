@@ -71,9 +71,3 @@ The table below specifies the first browser versions that fully support each len
 | vh, vw | 20.0 | 9.0 | 19.0 | 6.0 | 20.0 |
 | vmin | 20.0 | 12.0 | 19.0 | 6.0 | 20.0 |
 | vmax | 26.0 | 16.0 | 19.0 | 7.0 | 20.0 |
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Feel free to customize this further to better fit your project's specific needs.
