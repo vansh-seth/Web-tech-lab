@@ -100,6 +100,4 @@ To "force" all buttons to have the same look, regardless of context, add the `!i
 ```
 
 This ensures that all buttons maintain their intended style regardless of other CSS rules.
-```
 
-Feel free to modify it further as needed!
