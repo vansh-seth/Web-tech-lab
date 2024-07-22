@@ -1,6 +1,3 @@
-Here's a `README.md` file based on the provided information about the `!important` rule in CSS, rewritten and formatted appropriately:
-
-```markdown
 # CSS The !important Rule
 
 ## What is !important?
