@@ -156,6 +156,3 @@ The selector with the highest specificity value wins and takes effect.
   ```
 
 - **The universal selector (*) and inherited values have a specificity of 0.**
-```
-
-Feel free to modify it further as needed!
