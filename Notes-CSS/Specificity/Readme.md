@@ -1,6 +1,3 @@
-Sure! Here's a `README.md` file based on the information provided, rewritten and formatted appropriately:
-
-```markdown
 # CSS Specificity
 
 ## What is Specificity?
