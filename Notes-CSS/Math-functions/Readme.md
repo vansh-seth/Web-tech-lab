@@ -1,6 +1,3 @@
-Certainly! Here's a `README.md` file that explains the CSS math functions (`calc()`, `max()`, and `min()`) in a concise and structured manner.
-
-```markdown
 # CSS Math Functions
 
 CSS math functions allow mathematical expressions to be used as property values. This document covers the `calc()`, `max()`, and `min()` functions.
