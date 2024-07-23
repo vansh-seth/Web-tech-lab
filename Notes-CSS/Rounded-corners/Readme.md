@@ -164,23 +164,6 @@ You can also create elliptical corners using the `border-radius` property:
 }
 ```
 
-## Test Yourself With Exercises
-
-**Exercise:** Give the `div` element rounded corners.
-
-```html
-<style>
-div {
-  background: red;
-  border-radius: 10px;
-}
-</style>
-
-<body>
-  <div>This is a div element. It has some text.</div>
-</body>
-```
-
 ## CSS Rounded Corners Properties
 
 | Property                     | Description                                                 |
