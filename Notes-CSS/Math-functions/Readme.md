@@ -85,7 +85,3 @@ Use `min()` to set the width of `#div1` to whichever value is smallest, 50% or 3
 | `calc()` | Allows you to perform calculations to determine CSS property values |
 | `max()`  | Uses the largest value from a comma-separated list of values as the property value |
 | `min()`  | Uses the smallest value from a comma-separated list of values as the property value |
-```
-
-This `README.md` provides clear explanations, syntax, and examples for each of the CSS math functions in a structured format.
-
