@@ -1,6 +1,3 @@
-Sure, here's a `README.md` file that explains CSS rounded corners and the `border-radius` property in a clear and structured manner.
-
-```markdown
 # CSS Rounded Corners
 
 With the CSS `border-radius` property, you can give any element "rounded corners".
