@@ -190,6 +190,4 @@ div {
 | `border-top-right-radius`    | Defines the shape of the border of the top-right corner     |
 | `border-bottom-right-radius` | Defines the shape of the border of the bottom-right corner  |
 | `border-bottom-left-radius`  | Defines the shape of the border of the bottom-left corner   |
-```
 
-This `README.md` provides an organized explanation of the CSS `border-radius` property, including syntax, examples, and property descriptions.
