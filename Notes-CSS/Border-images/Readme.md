@@ -1,6 +1,3 @@
-Here's a `README.md` file that summarizes and explains the CSS border-image property:
-
-```markdown
 # CSS Border Images
 
 The `border-image` property in CSS allows you to set an image as the border of an element, replacing the traditional solid or dashed borders. This property provides a unique and customizable way to style your elements.
