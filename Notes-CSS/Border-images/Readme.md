@@ -74,29 +74,7 @@ The `border-image` property is a shorthand for several other properties:
 - `border-image-outset`: Specifies the amount by which the border image area extends beyond the border box.
 - `border-image-repeat`: Specifies whether the border image should be repeated, rounded, or stretched.
 
-## Exercise
 
-Try applying an image border to a `div` element using the shorthand property:
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Border Image Example</title>
-  <style>
-    div {
-      border: 10px solid transparent;
-      border-image: url(border.png) 30 round;
-    }
-  </style>
-</head>
-<body>
-  <div>This is a div element. It has some text.</div>
-</body>
-</html>
-```
 
 ## Conclusion
 
