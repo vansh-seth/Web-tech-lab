@@ -101,6 +101,4 @@ Try applying an image border to a `div` element using the shorthand property:
 ## Conclusion
 
 Using the `border-image` property, you can create visually appealing and customizable borders for your elements, enhancing the overall design of your web pages.
-```
 
-This `README.md` file provides a clear and concise explanation of the CSS border-image property, including examples and an exercise for practice.
