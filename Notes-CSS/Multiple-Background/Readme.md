@@ -165,6 +165,3 @@ Add two background images to the `<body>` element with `img2.gif` displayed on t
 - **background-image**: Specifies one or more background images.
 - **background-origin**: Specifies where the background image(s) are positioned.
 - **background-size**: Specifies the size of the background image(s).
-```
-
-This `README.md` file provides an overview of using multiple background images in CSS, along with explanations and examples of related properties.
