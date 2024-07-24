@@ -1,6 +1,3 @@
-Here's a `README.md` file that summarizes and explains CSS Multiple Backgrounds and related properties:
-
-```markdown
 # CSS Multiple Backgrounds
 
 CSS allows you to add multiple background images to an element using the `background-image` property. This feature enables creative design possibilities by layering images.
