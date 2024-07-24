@@ -133,31 +133,6 @@ The `background-clip` property specifies the painting area of the background:
 }
 ```
 
-## Exercise
-
-Add two background images to the `<body>` element with `img2.gif` displayed on top of `img1.gif`.
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Multiple Backgrounds Exercise</title>
-  <style>
-    body {
-      background-image: url(img1.gif), url(img2.gif);
-    }
-  </style>
-</head>
-<body>
-  <h1>This is a heading</h1>
-  <p>This is a paragraph</p>
-  <p>This is a paragraph</p>
-</body>
-</html>
-```
-
 ## Advanced Background Properties
 
 - **background**: A shorthand property for setting all background properties.
