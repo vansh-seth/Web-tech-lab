@@ -129,6 +129,3 @@ h1 {
 ```
 
 Start the Exercise!
-```
-
-This `README.md` file provides a clear and structured explanation of the different CSS color formats and their usage.
