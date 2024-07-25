@@ -172,25 +172,3 @@ span {
 }
 ```
 
-## Exercise
-
-Insert the RGBA color value for a full red background color of the `<h1>` element, with no transparency.
-
-```html
-<style>
-h1 {
-  background-color: rgba(255, 0, 0, 1);
-}
-</style>
-
-<body>
-  <h1>This is a heading</h1>
-  <p>This is a paragraph</p>
-  <p>This is a paragraph</p>
-</body>
-```
-
-Start the Exercise!
-```
-
-This `README.md` file provides a clear and structured explanation of different CSS color formats, keywords, and their usage.
