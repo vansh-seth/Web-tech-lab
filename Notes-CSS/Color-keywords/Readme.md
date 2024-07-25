@@ -1,6 +1,3 @@
-Here's an extended `README.md` file including explanations for the transparent, currentcolor, and inherit keywords in CSS:
-
-```markdown
 # CSS Colors
 
 CSS supports various color formats including color names, HEX values, RGB values, RGBA values, HSL values, HSLA values, and opacity.
