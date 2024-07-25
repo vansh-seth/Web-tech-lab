@@ -1,6 +1,3 @@
-Here is a `README.md` file that describes CSS colors, including RGBA, HSL, HSLA, and opacity, in a concise and clear manner:
-
-```markdown
 # CSS Colors
 
 CSS supports various color formats including color names, HEX values, RGB values, RGBA values, HSL values, HSLA values, and opacity.
