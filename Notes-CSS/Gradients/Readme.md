@@ -1,6 +1,3 @@
-Sure! Here’s a `README.md` file that explains CSS gradients in a clear and organized way:
-
-```markdown
 # CSS Gradients
 
 ## Gradient Backgrounds
