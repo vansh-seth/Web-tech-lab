@@ -156,25 +156,3 @@ The `repeating-radial-gradient()` function repeats radial gradients:
 }
 ```
 
-## Exercises
-**Exercise:** Set a linear gradient background for the `<div>` element, going from the top to bottom, transitioning from "white" to "green".
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gradient Exercise</title>
-    <style>
-        div {
-            background-image: linear-gradient(to bottom, white, green);
-            height: 200px;
-        }
-    </style>
-</head>
-<body>
-    <div></div>
-</body>
-</html>
-```
