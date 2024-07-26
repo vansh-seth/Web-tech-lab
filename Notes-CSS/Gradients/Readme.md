@@ -86,3 +86,104 @@ Use the `repeating-linear-gradient()` function to create repeating linear gradie
   background-image: repeating-linear-gradient(red, yellow 10%, green 20%);
 }
 ```
+
+
+Sure! Here’s a `README.md` file that explains CSS radial gradients in a clear and organized way:
+
+```markdown
+# CSS Radial Gradients
+
+CSS radial gradients are defined by their center point. To create a radial gradient, you need to specify at least two color stops.
+
+## Syntax
+```css
+background-image: radial-gradient(shape size at position, start-color, ..., last-color);
+```
+By default:
+- **shape** is `ellipse`
+- **size** is `farthest-corner`
+- **position** is `center`
+
+### Radial Gradient - Evenly Spaced Color Stops (default)
+The following example shows a radial gradient with evenly spaced color stops:
+
+```css
+#grad {
+  background-image: radial-gradient(red, yellow, green);
+}
+```
+
+### Radial Gradient - Differently Spaced Color Stops
+This example shows a radial gradient with differently spaced color stops:
+
+```css
+#grad {
+  background-image: radial-gradient(red 5%, yellow 15%, green 60%);
+}
+```
+
+### Set Shape
+The **shape** parameter can be either `circle` or `ellipse` (default is `ellipse`). This example shows a radial gradient with a circular shape:
+
+```css
+#grad {
+  background-image: radial-gradient(circle, red, yellow, green);
+}
+```
+
+### Use of Different Size Keywords
+The **size** parameter defines the size of the gradient. It can take the following values:
+- `closest-side`
+- `farthest-side`
+- `closest-corner`
+- `farthest-corner`
+
+Examples:
+```css
+#grad1 {
+  background-image: radial-gradient(closest-side at 60% 55%, red, yellow, black);
+}
+
+#grad2 {
+  background-image: radial-gradient(farthest-side at 60% 55%, red, yellow, black);
+}
+```
+
+### Repeating a Radial Gradient
+The `repeating-radial-gradient()` function repeats radial gradients:
+
+```css
+#grad {
+  background-image: repeating-radial-gradient(red, yellow 10%, green 15%);
+}
+```
+
+## Exercises
+**Exercise:** Set a linear gradient background for the `<div>` element, going from the top to bottom, transitioning from "white" to "green".
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gradient Exercise</title>
+    <style>
+        div {
+            background-image: linear-gradient(to bottom, white, green);
+            height: 200px;
+        }
+    </style>
+</head>
+<body>
+    <div></div>
+</body>
+</html>
+```
+
+## Additional Resources
+- [MDN Web Docs on CSS Gradients](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient)
+- [W3Schools CSS Gradient Tutorial](https://www.w3schools.com/css/css3_gradients.asp)
+```
+
+This `README.md` file provides a structured overview of CSS radial gradients, complete with syntax, examples, and an exercise.
