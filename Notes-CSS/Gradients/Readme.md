@@ -86,11 +86,3 @@ Use the `repeating-linear-gradient()` function to create repeating linear gradie
   background-image: repeating-linear-gradient(red, yellow 10%, green 20%);
 }
 ```
-
-## Additional Resources
-
-- [MDN Web Docs on CSS Gradients](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient)
-- [W3Schools CSS Gradient Tutorial](https://www.w3schools.com/css/css3_gradients.asp)
-```
-
-This `README.md` file provides a structured overview of CSS gradients, complete with syntax and examples.
