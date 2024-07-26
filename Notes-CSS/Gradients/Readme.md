@@ -88,9 +88,7 @@ Use the `repeating-linear-gradient()` function to create repeating linear gradie
 ```
 
 
-Sure! Here’s a `README.md` file that explains CSS radial gradients in a clear and organized way:
 
-```markdown
 # CSS Radial Gradients
 
 CSS radial gradients are defined by their center point. To create a radial gradient, you need to specify at least two color stops.
