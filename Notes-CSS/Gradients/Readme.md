@@ -156,10 +156,6 @@ The `repeating-radial-gradient()` function repeats radial gradients:
 }
 ```
 
-
-Sure! Here’s a `README.md` file that explains CSS conic gradients in a clear and organized way:
-
-```markdown
 # CSS Conic Gradients
 
 CSS conic gradients create a gradient with color transitions rotated around a center point. To create a conic gradient, define at least two colors.
