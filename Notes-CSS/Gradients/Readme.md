@@ -156,3 +156,122 @@ The `repeating-radial-gradient()` function repeats radial gradients:
 }
 ```
 
+
+Sure! Here’s a `README.md` file that explains CSS conic gradients in a clear and organized way:
+
+```markdown
+# CSS Conic Gradients
+
+CSS conic gradients create a gradient with color transitions rotated around a center point. To create a conic gradient, define at least two colors.
+
+## Syntax
+```css
+background-image: conic-gradient([from angle] [at position,] color [degree], color [degree], ...);
+```
+By default:
+- **angle** is `0deg`
+- **position** is `center`
+
+If no degree is specified, the colors will be spread equally around the center point.
+
+### Conic Gradient: Three Colors
+This example shows a conic gradient with three colors:
+
+```css
+#grad {
+  background-image: conic-gradient(red, yellow, green);
+}
+```
+
+### Conic Gradient: Five Colors
+This example shows a conic gradient with five colors:
+
+```css
+#grad {
+  background-image: conic-gradient(red, yellow, green, blue, black);
+}
+```
+
+### Conic Gradient: Three Colors and Degrees
+This example shows a conic gradient with three colors, each specified with a degree:
+
+```css
+#grad {
+  background-image: conic-gradient(red 45deg, yellow 90deg, green 210deg);
+}
+```
+
+### Create Pie Charts
+Adding `border-radius: 50%` makes the conic gradient look like a pie chart:
+
+```css
+#grad {
+  background-image: conic-gradient(red, yellow, green, blue, black);
+  border-radius: 50%;
+}
+```
+
+Here is another pie chart with defined degrees for all the colors:
+
+```css
+#grad {
+  background-image: conic-gradient(red 0deg, red 90deg, yellow 90deg, yellow 180deg, green 180deg, green 270deg, blue 270deg);
+  border-radius: 50%;
+}
+```
+
+### Conic Gradient With Specified From Angle
+The `[from angle]` specifies an angle that the entire conic gradient is rotated by:
+
+```css
+#grad {
+  background-image: conic-gradient(from 90deg, red, yellow, green);
+}
+```
+
+### Conic Gradient With Specified Center Position
+The `[at position]` specifies the center of the conic gradient:
+
+```css
+#grad {
+  background-image: conic-gradient(at 60% 45%, red, yellow, green);
+}
+```
+
+### Repeating a Conic Gradient
+The `repeating-conic-gradient()` function is used to repeat conic gradients:
+
+```css
+#grad {
+  background-image: repeating-conic-gradient(red 10%, yellow 20%);
+  border-radius: 50%;
+}
+```
+
+Here is a repeating conic gradient with defined color-starts and color-stops:
+
+```css
+#grad {
+  background-image: repeating-conic-gradient(red 0deg 10deg, yellow 10deg 20deg, blue 20deg 30deg);
+  border-radius: 50%;
+}
+```
+
+## CSS Gradient Functions
+The following table lists the CSS gradient functions:
+
+| Function                   | Description                                                    |
+|----------------------------|----------------------------------------------------------------|
+| `conic-gradient()`         | Creates a conic gradient. Define at least two colors (around a center point) |
+| `linear-gradient()`        | Creates a linear gradient. Define at least two colors (top to bottom)         |
+| `radial-gradient()`        | Creates a radial gradient. Define at least two colors (center to edges)       |
+| `repeating-conic-gradient()` | Repeats a conic gradient                                       |
+| `repeating-linear-gradient()` | Repeats a linear gradient                                     |
+| `repeating-radial-gradient()` | Repeats a radial gradient                                     |
+
+## Additional Resources
+- [MDN Web Docs on CSS Gradients](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient)
+- [W3Schools CSS Gradient Tutorial](https://www.w3schools.com/css/css3_gradients.asp)
+```
+
+This `README.md` file provides a structured overview of CSS conic gradients, complete with syntax, examples, and additional resources.
