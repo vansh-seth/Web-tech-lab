@@ -268,6 +268,3 @@ The following table lists the CSS gradient functions:
 ## Additional Resources
 - [MDN Web Docs on CSS Gradients](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient)
 - [W3Schools CSS Gradient Tutorial](https://www.w3schools.com/css/css3_gradients.asp)
-```
-
-This `README.md` file provides a structured overview of CSS conic gradients, complete with syntax, examples, and additional resources.
