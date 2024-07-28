@@ -264,7 +264,3 @@ The following table lists the CSS gradient functions:
 | `repeating-conic-gradient()` | Repeats a conic gradient                                       |
 | `repeating-linear-gradient()` | Repeats a linear gradient                                     |
 | `repeating-radial-gradient()` | Repeats a radial gradient                                     |
-
-## Additional Resources
-- [MDN Web Docs on CSS Gradients](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient)
-- [W3Schools CSS Gradient Tutorial](https://www.w3schools.com/css/css3_gradients.asp)
