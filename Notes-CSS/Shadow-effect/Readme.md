@@ -1,6 +1,4 @@
-Sure! Here’s a `README.md` file that explains CSS shadow effects in a clear and organized way:
 
-```markdown
 # CSS Shadow Effects
 
 With CSS, you can create shadow effects for text and elements.
