@@ -84,11 +84,3 @@ h1 {
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 ```
-
-## Additional Resources
-
-- [MDN Web Docs on CSS Text Shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow)
-- [W3Schools CSS Text Shadow Tutorial](https://www.w3schools.com/cssref/css3_pr_text-shadow.asp)
-```
-
-This `README.md` file provides a structured overview of CSS text shadow effects, complete with syntax, examples, and additional resources.
