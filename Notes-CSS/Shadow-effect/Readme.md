@@ -85,9 +85,6 @@ h1 {
 }
 ```
 
-Sure! Here’s a `README.md` file that explains CSS box shadow effects in a clear and organized way:
-
-```markdown
 # CSS Box Shadow Effects
 
 The `box-shadow` property in CSS is used to apply one or more shadows to an element.
