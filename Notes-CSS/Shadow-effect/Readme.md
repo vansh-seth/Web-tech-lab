@@ -187,9 +187,3 @@ div.card {
 | `box-shadow` | Adds one or more shadows to an element |
 | `text-shadow` | Adds one or more shadows to text     |
 
-## Additional Resources
-- [MDN Web Docs on CSS Box Shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
-- [W3Schools CSS Box Shadow Tutorial](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp)
-```
-
-This `README.md` file provides a structured overview of CSS box shadow effects, complete with syntax, examples, exercises, and additional resources.
