@@ -95,32 +95,6 @@ span.test2, p.test2 {
 }
 ```
 
-## Exercises
-**Exercise:** Specify that the overflowed content for the `<p>` element should be signaled with an ellipsis (`...`).
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Text Overflow Exercise</title>
-    <style>
-        p {
-            white-space: nowrap;
-            width: 200px;
-            border: 1px solid #000000;
-            overflow: hidden;
-            text-overflow: ellipsis;
-        }
-    </style>
-</head>
-<body>
-    <p>This paragraph contains a very long word: supercalifragilisticexpialidocious.</p>
-</body>
-</html>
-```
-
 ## CSS Text Effect Properties
 | Property       | Description                                                             |
 |----------------|-------------------------------------------------------------------------|
