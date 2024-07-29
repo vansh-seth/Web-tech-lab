@@ -157,30 +157,6 @@ div.card {
 }
 ```
 
-## Exercises
-**Exercise:** Set a "2px" horizontal and "2px" vertical text shadow for the `<h1>` element.
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shadow Exercise</title>
-    <style>
-        h1 {
-            text-shadow: 2px 2px;
-        }
-    </style>
-</head>
-<body>
-    <h1>This is a heading</h1>
-    <p>This is a paragraph</p>
-    <p>This is a paragraph</p>
-</body>
-</html>
-```
-
 ## CSS Shadow Properties
 | Property    | Description                         |
 |-------------|-------------------------------------|
