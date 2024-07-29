@@ -130,13 +130,4 @@ span.test2, p.test2 {
 | `word-wrap`    | Allows long words to be broken and wrap onto the next line              |
 | `writing-mode` | Specifies whether lines of text are laid out horizontally or vertically |
 
-## Additional Resources
-- [MDN Web Docs on CSS Text Overflow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-overflow)
-- [W3Schools CSS Text Overflow Tutorial](https://www.w3schools.com/cssref/css3_pr_text-overflow.asp)
-- [MDN Web Docs on CSS Word Wrap](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap)
-- [W3Schools CSS Word Wrap Tutorial](https://www.w3schools.com/cssref/css3_pr_word-wrap.asp)
-- [MDN Web Docs on CSS Writing Mode](https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode)
-- [W3Schools CSS Writing Mode Tutorial](https://www.w3schools.com/cssref/css3_pr_writing-mode.asp)
-```
 
-This `README.md` file provides a structured overview of CSS text effects, complete with syntax, examples, exercises, and additional resources.
