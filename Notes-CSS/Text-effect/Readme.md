@@ -1,6 +1,4 @@
-Sure! Here’s a `README.md` file that explains various CSS text effects in a clear and organized way:
 
-```markdown
 # CSS Text Effects
 
 This document covers various CSS properties for handling text overflow, word wrapping, line breaking, and writing modes.
