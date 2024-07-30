@@ -13,7 +13,6 @@ p {
   background-color: red !important;
 }
 ```
-
 In this example, all three paragraphs will have a red background color, even though the ID selector and the class selector have higher specificity. The `!important` rule overrides the `background-color` property in both cases.
 
 ## Important About !important
