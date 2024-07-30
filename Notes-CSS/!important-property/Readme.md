@@ -14,7 +14,6 @@ p {
 }
 ```
 In this example, all three paragraphs will have a red background color, even though the ID selector and the class selector have higher specificity. The `!important` rule overrides the `background-color` property in both cases.
-
 ## Important About !important
 
 The only way to override an `!important` rule is to include another `!important` rule on a declaration with the same (or higher) specificity in the source code. This can make the CSS code confusing and debugging difficult, especially in large style sheets.
