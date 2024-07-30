@@ -9,7 +9,6 @@ The `!important` rule in CSS is used to give a property/value more importance th
 .myclass {
   background-color: gray;
 }
-
 p {
   background-color: red !important;
 }
