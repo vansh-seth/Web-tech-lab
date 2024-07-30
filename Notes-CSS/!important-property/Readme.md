@@ -1,7 +1,6 @@
 # CSS The !important Rule
 ## What is !important?
 The `!important` rule in CSS is used to give a property/value more importance than normal. It overrides all previous styling rules for that specific property on an element.
-
 ### Example
 
 ```css
