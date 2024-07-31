@@ -17,7 +17,6 @@ Example:
 *Note: Center aligning has no effect if the width property is not set (or set to 100%).*
 ### Center Align Text
 To center text inside an element, use `text-align: center;`.
-
 Example:
 ```html
 <div class="center">This text is centered.</div>
