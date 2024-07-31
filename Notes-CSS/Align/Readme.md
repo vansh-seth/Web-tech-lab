@@ -33,7 +33,6 @@ To center an image, set left and right margins to auto and make it a block eleme
 Example:
 ```html
 <img src="paris.jpg" alt="Paris" />
-
 <style>
 img {
   display: block;
