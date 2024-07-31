@@ -20,7 +20,6 @@ To center text inside an element, use `text-align: center;`.
 Example:
 ```html
 <div class="center">This text is centered.</div>
-
 <style>
 .center {
   text-align: center;
