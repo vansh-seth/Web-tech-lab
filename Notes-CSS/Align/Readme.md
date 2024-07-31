@@ -5,7 +5,6 @@ To horizontally center a block element (like a `<div>`), use `margin: auto;`. Se
 Example:
 ```html
 <div class="center">This div element is centered.</div>
-
 <style>
 .center {
   margin: auto;
