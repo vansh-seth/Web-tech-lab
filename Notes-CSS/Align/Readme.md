@@ -30,7 +30,6 @@ Example:
 *Tip: For more examples on how to align text, see the CSS Text chapter.*
 ### Center an Image
 To center an image, set left and right margins to auto and make it a block element.
-
 Example:
 ```html
 <img src="paris.jpg" alt="Paris" />
