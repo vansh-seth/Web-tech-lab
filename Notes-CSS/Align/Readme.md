@@ -2,7 +2,6 @@
 ## Centering Elements
 ### Horizontally Center a Block Element
 To horizontally center a block element (like a `<div>`), use `margin: auto;`. Setting the width of the element will prevent it from stretching out to the edges of its container.
-
 Example:
 ```html
 <div class="center">This div element is centered.</div>
