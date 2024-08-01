@@ -1,6 +1,3 @@
-Sure, here's a `README.md` file summarizing the information on CSS 2D transforms:
-
-```markdown
 # CSS 2D Transforms
 
 ## Overview
