@@ -82,33 +82,3 @@ Below are the descriptors you can define inside the `@font-face` rule:
 | `font-weight`   | normal, bold, 100, 200, 300, 400, 500, 600, 700, 800, 900     | Optional. Defines the boldness of the font. Default is "normal". |
 | `unicode-range` | unicode-range                                                 | Optional. Defines the range of UNICODE characters the font supports. Default is "U+0-10FFFF". |
 
-## Example Exercise
-Add a web font with the name "sansation" and the URL "sansation_light.woff":
-
-```html
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-@font-face {
-  font-family: sansation;
-  src: url(sansation_light.woff);
-}
-
-body {
-  font-family: sansation;
-}
-</style>
-</head>
-<body>
-  <h1>This is a heading</h1>
-  <p>This is a paragraph</p>
-  <p>This is a paragraph</p>
-</body>
-</html>
-```
-
----
-
-Start the Exercise
-```
