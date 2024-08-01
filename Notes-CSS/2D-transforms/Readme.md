@@ -184,6 +184,3 @@ div {
 | `skew(x-angle,y-angle)`     | Defines a 2D skew transformation along the X and Y axes            |
 | `skewX(angle)`              | Defines a 2D skew transformation along the X axis                  |
 | `skewY(angle)`              | Defines a 2D skew transformation along the Y axis                  |
-
-Tip: You will learn about 3D transformations in the next chapter.
-```
