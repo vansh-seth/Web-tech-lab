@@ -1,6 +1,3 @@
-Sure, here's a `README.md` file summarizing the information in a different way:
-
-```markdown
 # CSS Web Fonts and the @font-face Rule
 
 ## Overview
