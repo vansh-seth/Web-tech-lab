@@ -43,7 +43,6 @@ img {
 </style>
 ```
 ## Left and Right Align
-
 ### Using `position`
 To align elements using `position: absolute;`:
 
