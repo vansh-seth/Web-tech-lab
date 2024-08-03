@@ -62,7 +62,6 @@ Example:
 *Note: Absolute positioned elements are removed from the normal flow and can overlap elements.*
 ### Using `float`
 To align elements using the `float` property:
-
 Example:
 ```html
 <div class="right">This is right aligned using float.</div>
