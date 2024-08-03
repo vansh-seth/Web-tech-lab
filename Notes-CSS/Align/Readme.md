@@ -77,7 +77,6 @@ Example:
 ```
 #### The Clearfix Hack
 To fix overflow issues when an element is floated, use the clearfix hack:
-
 Example:
 ```html
 <div class="clearfix">
