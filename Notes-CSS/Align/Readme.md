@@ -60,7 +60,6 @@ Example:
 </style>
 ```
 *Note: Absolute positioned elements are removed from the normal flow and can overlap elements.*
-
 ### Using `float`
 To align elements using the `float` property:
 
