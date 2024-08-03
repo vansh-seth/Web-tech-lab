@@ -45,7 +45,6 @@ img {
 ## Left and Right Align
 ### Using `position`
 To align elements using `position: absolute;`:
-
 Example:
 ```html
 <div class="right">This is right aligned using position.</div>
