@@ -42,7 +42,6 @@ img {
 }
 </style>
 ```
-
 ## Left and Right Align
 
 ### Using `position`
