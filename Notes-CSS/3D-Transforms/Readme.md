@@ -116,6 +116,3 @@ The following table lists the available 3D transform functions:
 | `rotateY(angle)`                    | Defines a 3D rotation along the Y-axis                              |
 | `rotateZ(angle)`                    | Defines a 3D rotation along the Z-axis                              |
 | `perspective(n)`                    | Defines a perspective view for a 3D transformed element             |
-```
-
-This `README.md` provides a comprehensive overview of CSS 3D transforms, including browser support, transformation methods, properties, and examples.
