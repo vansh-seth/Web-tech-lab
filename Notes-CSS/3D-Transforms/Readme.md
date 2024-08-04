@@ -45,34 +45,6 @@ The `rotateZ()` method rotates an element around its Z-axis by a given degree.
 }
 ```
 
-## Test Yourself With Exercises
-
-### Exercise
-
-With the `transform` property, rotate the `<div>` element 150 degrees around its X-axis.
-
-```html
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-div {
-  width: 100px;
-  height: 100px;
-  background-color: lightblue;
-  border: 1px solid black;
-  transform: rotateX(150deg); /* Add the transform property */
-}
-</style>
-</head>
-<body>
-
-<div>This is a div</div>
-
-</body>
-</html>
-```
-
 ## CSS Transform Properties
 
 The following table lists all the 3D transform properties:
