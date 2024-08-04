@@ -7,14 +7,6 @@ CSS supports 3D transformations that allow you to create visually engaging effec
 
 In this chapter, you will learn about the `transform` property and various 3D transformation methods such as `rotateX()`, `rotateY()`, and `rotateZ()`.
 
-### Browser Support
-
-The following table lists the first browser versions that fully support the `transform` property:
-
-| Property   | Chrome | Firefox | Safari | Opera | Edge |
-|------------|--------|---------|--------|-------|------|
-| transform  | 36.0   | 10.0    | 16.0   | 23.0  | 9.0  |
-
 ## CSS 3D Transform Methods
 
 With the CSS `transform` property, you can use the following 3D transformation methods:
