@@ -1,6 +1,5 @@
 # CSS Layout - Float and Clear
 The CSS `float` property specifies how an element should float, while the `clear` property specifies what elements can float beside the cleared element and on which side.
-
 ## The Float Property
 The `float` property is used for positioning and formatting content, e.g., letting an image float left or right to the text in a container.
 
