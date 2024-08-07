@@ -7,7 +7,6 @@ The `float` property is used for positioning and formatting content, e.g., letti
 - `right`: The element floats to the right of its container.
 - `none`: The element does not float (default).
 - `inherit`: The element inherits the float value of its parent.
-
 ### Examples
 
 #### Example - float: right;
