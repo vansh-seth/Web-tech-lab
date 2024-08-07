@@ -1,5 +1,4 @@
 # CSS Layout - Float and Clear
-
 The CSS `float` property specifies how an element should float, while the `clear` property specifies what elements can float beside the cleared element and on which side.
 
 ## The Float Property
