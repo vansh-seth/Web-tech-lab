@@ -1,7 +1,6 @@
 # CSS Layout - The `position` Property
 The `position` property in CSS specifies the type of positioning method used for an element. There are five different position values: `static`, `relative`, `fixed`, `absolute`, and `sticky`.
 ## The `position` Property
-
 The `position` property defines how an element is positioned on the web page. The values it can take are:
 
 - `static`
