@@ -7,7 +7,6 @@ The `position` property defines how an element is positioned on the web page. Th
 - `fixed`
 - `absolute`
 - `sticky`
-
 These values determine how the top, bottom, left, and right properties will position the element. Note that these properties will not work unless the `position` property is set.
 
 ### `position: static;`
