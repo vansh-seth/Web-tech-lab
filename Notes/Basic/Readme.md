@@ -7,7 +7,6 @@ This readme provides a brief overview of basic HTML elements and how to view HTM
 ## HTML Document Structure
 
 HTML documents follow a basic structure:
-
 ```html
 <!DOCTYPE html>
 <html>
