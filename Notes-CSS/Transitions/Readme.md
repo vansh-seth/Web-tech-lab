@@ -113,29 +113,6 @@ The following table lists the first browser versions that fully support CSS tran
 | `transition-property`     | 26.0   | 16.0    | 10.0   | 12.1  | 6.1  |
 | `transition-timing-function` | 26.0 | 16.0 | 10.0   | 12.1  | 6.1  |
 
-## Exercises
-
-### Task: Add a Transition to a `<div>` Element
-Add a 2-second transition effect for width changes on the `<div>` element.
-
-```html
-<style>
-div {
-  width: 100px;
-  height: 100px;
-  background: red;
-  transition: width 2s;
-}
-
-div:hover {
-  width: 300px;
-}
-</style>
-
-<body>
-  <div>This is a div</div>
-</body>
-```
 
 ## Conclusion
 CSS transitions allow for smoother, more engaging user interactions by animating changes in property values over time. By mastering these properties, you can create dynamic, visually appealing effects with ease.
