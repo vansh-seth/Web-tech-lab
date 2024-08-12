@@ -140,7 +140,3 @@ div:hover {
 
 ## Conclusion
 CSS transitions allow for smoother, more engaging user interactions by animating changes in property values over time. By mastering these properties, you can create dynamic, visually appealing effects with ease.
-
-```
-
-This `README.md` provides an overview of CSS transitions, practical examples, and exercises to help users get started with this powerful CSS feature.
