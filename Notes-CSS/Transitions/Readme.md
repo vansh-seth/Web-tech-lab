@@ -101,18 +101,5 @@ div:hover {
   width: 300px;
 }
 ```
-
-## Browser Support
-The following table lists the first browser versions that fully support CSS transitions:
-
-| Property                  | Chrome | Firefox | Safari | Opera | Edge |
-| ------------------------- | ------ | ------- | ------ | ----- | ---- |
-| `transition`              | 26.0   | 16.0    | 10.0   | 12.1  | 6.1  |
-| `transition-delay`        | 26.0   | 16.0    | 10.0   | 12.1  | 6.1  |
-| `transition-duration`     | 26.0   | 16.0    | 10.0   | 12.1  | 6.1  |
-| `transition-property`     | 26.0   | 16.0    | 10.0   | 12.1  | 6.1  |
-| `transition-timing-function` | 26.0 | 16.0 | 10.0   | 12.1  | 6.1  |
-
-
 ## Conclusion
 CSS transitions allow for smoother, more engaging user interactions by animating changes in property values over time. By mastering these properties, you can create dynamic, visually appealing effects with ease.
