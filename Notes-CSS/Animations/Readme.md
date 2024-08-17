@@ -119,6 +119,3 @@ div {
 ```
 
 Happy animating!
-```
-
-This `README.md` file summarizes the content in a structured and developer-friendly way, making it easy to understand and reference.
