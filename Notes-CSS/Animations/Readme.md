@@ -1,6 +1,3 @@
-Here’s a `README.md` file that summarizes the key points of CSS animations in a clear and concise manner:
-
-```markdown
 # CSS Animations
 
 CSS animations allow you to animate HTML elements without the need for JavaScript. This feature lets you change CSS properties over time, making elements visually dynamic.
