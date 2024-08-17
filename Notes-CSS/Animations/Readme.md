@@ -80,21 +80,6 @@ This line includes:
 - `animation-iteration-count: infinite`
 - `animation-direction: alternate`
 
-## Browser Support
-
-CSS animations are widely supported in modern browsers. Below are the minimum versions required for basic animation properties:
-
-| Property                   | Chrome | Firefox | Safari | Edge | Opera |
-| -------------------------- | ------ | ------- | ------ | ---- | ----- |
-| @keyframes, animation-name | 43.0   | 10.0    | 16.0   | 9.0  | 30.0  |
-| animation-duration         | 43.0   | 10.0    | 16.0   | 9.0  | 30.0  |
-| animation-delay            | 43.0   | 10.0    | 16.0   | 9.0  | 30.0  |
-| animation-iteration-count  | 43.0   | 10.0    | 16.0   | 9.0  | 30.0  |
-| animation-direction        | 43.0   | 10.0    | 16.0   | 9.0  | 30.0  |
-| animation-timing-function  | 43.0   | 10.0    | 16.0   | 9.0  | 30.0  |
-| animation-fill-mode        | 43.0   | 10.0    | 16.0   | 9.0  | 30.0  |
-| animation                  | 43.0   | 10.0    | 16.0   | 9.0  | 30.0  |
-
 ## Exercises
 
 To practice, try adding a 2-second animation that changes the background color of a `<div>` element from red to blue using the following code structure:
