@@ -117,5 +117,3 @@ div {
 
 <div>This is a div</div>
 ```
-
-Happy animating!
