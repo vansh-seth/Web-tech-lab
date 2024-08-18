@@ -3,7 +3,6 @@
 CSS 2D transforms allow you to move, rotate, scale, and skew elements on a web page.
 ### Mouse Over Example
 Hover over an element to see a 2D transformation in action.
-
 ## Browser Support
 The table below specifies the first browser version that fully supports the `transform` property:
 
