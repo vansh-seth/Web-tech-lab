@@ -3,7 +3,6 @@ CSS supports 3D transformations that allow you to create visually engaging effec
 ## Overview
 In this chapter, you will learn about the `transform` property and various 3D transformation methods such as `rotateX()`, `rotateY()`, and `rotateZ()`.
 ## CSS 3D Transform Methods
-
 With the CSS `transform` property, you can use the following 3D transformation methods:
 
 - `rotateX()`
