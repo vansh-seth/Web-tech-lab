@@ -1,5 +1,4 @@
 # CSS Tooltips
-
 This guide demonstrates how to create tooltips using CSS. Tooltips are used to display additional information when a user hovers over an element.
 
 ## Basic Tooltip
