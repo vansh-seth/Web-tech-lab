@@ -170,6 +170,3 @@ To add a fade-in effect when the tooltip becomes visible, use the `transition` p
 ## Conclusion
 
 This guide provides the basic building blocks to create, position, and animate tooltips using CSS. You can customize the tooltip's appearance and behavior by adjusting the CSS properties to suit your needs.
-```
-
-This `README.md` file provides a clear and concise explanation of how to create and customize CSS tooltips, along with examples and code snippets.
