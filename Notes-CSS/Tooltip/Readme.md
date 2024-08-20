@@ -1,6 +1,4 @@
-Here's a `README.md` file that summarizes the code and concepts for creating CSS tooltips:
 
-```markdown
 # CSS Tooltips
 
 This guide demonstrates how to create tooltips using CSS. Tooltips are used to display additional information when a user hovers over an element.
