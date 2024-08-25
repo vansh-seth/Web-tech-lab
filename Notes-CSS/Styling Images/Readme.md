@@ -234,6 +234,3 @@ span.onclick = function() {
 
 - [Responsive Web Design Tutorial](https://www.w3schools.com/css/css_rwd_intro.asp)
 - [CSS Filter Reference](https://www.w3schools.com/cssref/css3_pr_filter.asp)
-```
-
-This `README.md` file provides a comprehensive guide to various image styling techniques using CSS, including code examples for each method.
