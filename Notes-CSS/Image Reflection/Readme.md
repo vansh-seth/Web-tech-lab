@@ -60,5 +60,3 @@ img {
 }
 ```
 
-This gradient starts with full transparency at the top and gradually becomes more opaque toward the bottom, making the reflection appear to fade out.
-
