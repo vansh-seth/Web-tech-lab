@@ -2,7 +2,6 @@
 
 ## Introduction
 The HTML `class` attribute serves to specify a class for an HTML element, allowing multiple elements to share the same class. This attribute is pivotal for styling elements using CSS and accessing/manipulating them via JavaScript.
-
 ## Basic Usage
 The `class` attribute often points to a class name defined in a stylesheet, ensuring consistent styling across elements with the same class.
 
