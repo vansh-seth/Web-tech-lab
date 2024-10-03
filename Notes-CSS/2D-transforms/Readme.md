@@ -5,7 +5,6 @@ CSS 2D transforms allow you to move, rotate, scale, and skew elements on a web p
 Hover over an element to see a 2D transformation in action.
 ## Browser Support
 The table below specifies the first browser version that fully supports the `transform` property:
-
 | Property   | Chrome | Firefox | Safari | Opera | Edge  |
 |------------|--------|---------|--------|-------|-------|
 | transform  | 36.0   | 10.0    | 16.0   | 9.0   | 23.0  |
