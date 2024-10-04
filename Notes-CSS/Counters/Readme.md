@@ -1,5 +1,4 @@
 # CSS Counters Guide
-
 CSS counters are "variables" maintained by CSS whose values can be incremented by CSS rules to track their usage. They allow you to adjust the appearance of content based on its placement in the document.
 
 ## Automatic Numbering with Counters
