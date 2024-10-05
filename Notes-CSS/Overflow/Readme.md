@@ -1,5 +1,4 @@
 # CSS Layout - Overflow
-
 The CSS `overflow` property controls what happens to content that is too big to fit into an area.
 
 ## CSS Overflow
