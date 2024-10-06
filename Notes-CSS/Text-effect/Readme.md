@@ -1,4 +1,3 @@
-
 # CSS Text Effects
 
 This document covers various CSS properties for handling text overflow, word wrapping, line breaking, and writing modes.
