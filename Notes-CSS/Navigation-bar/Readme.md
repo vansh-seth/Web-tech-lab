@@ -1,5 +1,4 @@
 # CSS Navigation Bar
-
 ## Overview
 Creating easy-to-use navigation is essential for any website. With CSS, you can transform simple HTML menus into attractive navigation bars.
 
