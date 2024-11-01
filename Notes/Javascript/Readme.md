@@ -15,7 +15,6 @@ document.getElementById("demo").innerHTML = "Hello JavaScript!";
 ```
 ## JavaScript Capabilities
 JavaScript can perform various tasks, including manipulating content, altering styles, and modifying attributes of HTML elements.
-
 ### Examples
 #### Changing Content
 ```javascript
