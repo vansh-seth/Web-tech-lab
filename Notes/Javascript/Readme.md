@@ -13,7 +13,6 @@ The HTML `<script>` tag defines client-side JavaScript within an HTML document. 
 document.getElementById("demo").innerHTML = "Hello JavaScript!";
 </script>
 ```
-
 ## JavaScript Capabilities
 JavaScript can perform various tasks, including manipulating content, altering styles, and modifying attributes of HTML elements.
 
