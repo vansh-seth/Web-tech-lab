@@ -1,5 +1,4 @@
 # Understanding HTML JavaScript
-
 ## Introduction
 JavaScript enhances HTML pages by adding dynamism and interactivity, enabling developers to create engaging user experiences.
 
