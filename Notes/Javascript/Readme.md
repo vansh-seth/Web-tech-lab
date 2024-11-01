@@ -7,7 +7,6 @@ JavaScript enhances HTML pages by adding dynamism and interactivity, enabling de
 ```
 ## The HTML `<script>` Tag
 The HTML `<script>` tag defines client-side JavaScript within an HTML document. It can either contain script statements directly or reference an external script file using the `src` attribute.
-
 ### Example
 ```html
 <script>
