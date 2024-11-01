@@ -1,7 +1,6 @@
 # Understanding HTML JavaScript
 ## Introduction
 JavaScript enhances HTML pages by adding dynamism and interactivity, enabling developers to create engaging user experiences.
-
 ## Example
 ```html
 <button onclick="document.getElementById('demo').innerHTML = Date()">Click me to display Date and Time</button>
