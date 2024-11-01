@@ -30,7 +30,6 @@ document.getElementById("demo").style.backgroundColor = "yellow";
 ```javascript
 document.getElementById("image").src = "picture.gif";
 ```
-
 ## The HTML `<noscript>` Tag
 The HTML `<noscript>` tag provides alternate content for users who disable JavaScript in their browsers or have browsers that don't support scripts.
 
