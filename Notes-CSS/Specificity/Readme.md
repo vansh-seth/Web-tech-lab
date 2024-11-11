@@ -4,7 +4,6 @@ Specificity is a score or rank that determines which CSS rule is applied to an e
 ## Examples
 ### Example 1
 This example uses the "p" element as a selector, specifying a red color:
-
 ```html
 <html>
 <head>
