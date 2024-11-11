@@ -2,7 +2,6 @@
 ## What is Specificity?
 Specificity is a score or rank that determines which CSS rule is applied to an element when multiple rules could apply. The selector with the highest specificity value "wins" and its styles are applied.
 ## Examples
-
 ### Example 1
 This example uses the "p" element as a selector, specifying a red color:
 
