@@ -16,7 +16,6 @@ This example uses the "p" element as a selector, specifying a red color:
 </body>
 </html>
 ```
-
 The text will be red.
 
 ### Example 2
