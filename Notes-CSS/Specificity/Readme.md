@@ -19,7 +19,6 @@ This example uses the "p" element as a selector, specifying a red color:
 The text will be red.
 ### Example 2
 Adding a class selector (named "test") with a green color overrides the previous red color:
-
 ```html
 <html>
 <head>
