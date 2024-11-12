@@ -3,7 +3,6 @@ A pseudo-class is used to define a special state of an element. For example, it 
 - Style an element when a user mouses over it
 - Style visited and unvisited links differently
 - Style an element when it gets focus
-
 ## Syntax
 
 ```css
