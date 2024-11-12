@@ -32,7 +32,6 @@ a:active {
   color: #0000FF;
 }
 ```
-
 **Note:** `a:hover` must come after `a:link` and `a:visited` in the CSS definition to be effective! `a:active` must come after `a:hover` in the CSS definition to be effective! Pseudo-class names are not case-sensitive.
 
 ## Combining Pseudo-classes with HTML Classes
