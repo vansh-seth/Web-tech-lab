@@ -4,7 +4,6 @@ A pseudo-class is used to define a special state of an element. For example, it 
 - Style visited and unvisited links differently
 - Style an element when it gets focus
 ## Syntax
-
 ```css
 selector:pseudo-class {
   property: value;
