@@ -11,7 +11,6 @@ selector:pseudo-class {
 ```
 ## Anchor Pseudo-classes
 Links can be displayed in different ways:
-
 ```css
 /* unvisited link */
 a:link {
