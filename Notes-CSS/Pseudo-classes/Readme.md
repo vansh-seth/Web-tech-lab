@@ -9,7 +9,6 @@ selector:pseudo-class {
   property: value;
 }
 ```
-
 ## Anchor Pseudo-classes
 
 Links can be displayed in different ways:
