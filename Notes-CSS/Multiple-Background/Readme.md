@@ -12,7 +12,6 @@ This example demonstrates two background images: a flower aligned to the bottom 
 }
 ```
 You can achieve the same result using the shorthand `background` property:
-
 ```css
 #example1 {
   background: url(img_flwr.gif) right bottom no-repeat, url(paper.gif) left top repeat;
