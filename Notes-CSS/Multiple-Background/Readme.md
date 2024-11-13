@@ -2,7 +2,6 @@
 CSS allows you to add multiple background images to an element using the `background-image` property. This feature enables creative design possibilities by layering images.
 ## Multiple Backgrounds
 To specify multiple background images, separate them with commas. The first image listed is closest to the viewer.
-
 ### Example
 This example demonstrates two background images: a flower aligned to the bottom right and a paper background aligned to the top left.
 
