@@ -17,7 +17,6 @@ You can achieve the same result using the shorthand `background` property:
   background: url(img_flwr.gif) right bottom no-repeat, url(paper.gif) left top repeat;
 }
 ```
-
 ## CSS Background Size
 
 The `background-size` property specifies the size of background images. Sizes can be defined in lengths, percentages, or using the keywords `contain` or `cover`.
