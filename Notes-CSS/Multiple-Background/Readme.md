@@ -11,7 +11,6 @@ This example demonstrates two background images: a flower aligned to the bottom 
   background-repeat: no-repeat, repeat;
 }
 ```
-
 You can achieve the same result using the shorthand `background` property:
 
 ```css
