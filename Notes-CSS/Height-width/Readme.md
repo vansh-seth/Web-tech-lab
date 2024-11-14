@@ -9,7 +9,6 @@ The `height` and `width` properties determine the dimensions of an element. Thes
 - `%`: Defines the height/width relative to the containing block.
 - `initial`: Sets the height/width to its default value.
 - `inherit`: Inherits the height/width from its parent.
-
 ### Examples
 ```css
 div {
