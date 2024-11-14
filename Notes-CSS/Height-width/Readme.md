@@ -1,5 +1,4 @@
 # CSS Height, Width, and Max-width
-
 ## Introduction
 The CSS `height` and `width` properties are used to specify the dimensions of an element. The `max-width` property, on the other hand, sets the maximum width of an element.
 
