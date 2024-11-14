@@ -24,7 +24,6 @@ div {
 }
 ```
 *Note: The `height` and `width` properties don't include padding, borders, or margins.*
-
 ## Setting `max-width`
 The `max-width` property determines the maximum width an element can have. It can be defined in length values (e.g., px, cm), percentage (%), or set to `none` by default.
 
