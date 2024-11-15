@@ -1,6 +1,5 @@
 # CSS Text Formatting
 ## Overview
-
 CSS provides a variety of properties to format text. This guide covers the key properties and examples to style your text effectively.
 
 ## Text Formatting
