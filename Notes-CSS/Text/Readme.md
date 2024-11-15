@@ -4,7 +4,6 @@ CSS provides a variety of properties to format text. This guide covers the key p
 ## Text Formatting
 Text can be styled using properties such as `text-align`, `text-transform`, and `color`.
 ### Example
-
 ```css
 h1 {
   text-align: center;
