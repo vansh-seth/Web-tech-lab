@@ -10,7 +10,6 @@ h1 {
   text-transform: uppercase;
   color: red;
 }
-
 p {
   text-indent: 50px;
   text-align: justify;
