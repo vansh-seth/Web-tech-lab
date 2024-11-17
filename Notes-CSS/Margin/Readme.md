@@ -13,7 +13,6 @@ CSS offers properties to specify the margin for each side of an element:
 - `inherit`: Margin is inherited from the parent element
 - **Tip**: Negative values are allowed
 ### Example
-
 ```css
 p {
   margin-top: 100px;
