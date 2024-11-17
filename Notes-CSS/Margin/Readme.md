@@ -7,7 +7,6 @@ CSS offers properties to specify the margin for each side of an element:
 - `margin-bottom`
 - `margin-left`
 ### Possible Values
-
 - `auto`: Browser calculates the margin
 - `length`: Specifies margin in px, pt, cm, etc.
 - `%`: Specifies margin as a percentage of the containing element's width
