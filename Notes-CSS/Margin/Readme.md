@@ -12,7 +12,6 @@ CSS offers properties to specify the margin for each side of an element:
 - `%`: Specifies margin as a percentage of the containing element's width
 - `inherit`: Margin is inherited from the parent element
 - **Tip**: Negative values are allowed
-
 ### Example
 
 ```css
