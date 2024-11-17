@@ -6,7 +6,6 @@ CSS offers properties to specify the margin for each side of an element:
 - `margin-right`
 - `margin-bottom`
 - `margin-left`
-
 ### Possible Values
 
 - `auto`: Browser calculates the margin
