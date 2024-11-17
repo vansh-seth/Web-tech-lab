@@ -1,5 +1,4 @@
 # CSS Margins
-
 Margins in CSS are used to create space around elements, outside of any defined borders. They provide full control over the space around an element.
 
 ## Individual Margin Properties
