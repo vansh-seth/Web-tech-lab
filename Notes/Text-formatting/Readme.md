@@ -6,7 +6,6 @@ The `<b>` element defines bold text, while `<strong>` emphasizes text with great
 <b>This text is bold</b>
 <strong>This text is important!</strong>
 ```
-
 ## Italic and Emphasized Text
 
 Use `<i>` for italic text and `<em>` for emphasized text:
