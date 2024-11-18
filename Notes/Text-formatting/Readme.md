@@ -12,7 +12,6 @@ Use `<i>` for italic text and `<em>` for emphasized text:
 <i>This text is italic</i>
 <em>This text is emphasized</em>
 ```
-
 ## Small Text
 
 The `<small>` element defines smaller text:
