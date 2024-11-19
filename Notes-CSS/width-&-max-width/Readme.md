@@ -1,5 +1,4 @@
 # CSS Layout - Width and Max-width
-
 Using `width`, `max-width`, and `margin: auto` properties can help control the layout of block-level elements on a web page. Here's a guide on how to use these properties effectively.
 
 ## Block-level Elements and Width
