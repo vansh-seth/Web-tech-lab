@@ -1,6 +1,5 @@
 # CSS Layout - Width and Max-width
 Using `width`, `max-width`, and `margin: auto` properties can help control the layout of block-level elements on a web page. Here's a guide on how to use these properties effectively.
-
 ## Block-level Elements and Width
 
 By default, a block-level element takes up the full width available, stretching out to the left and right edges of its container. However, you can set a specific width to prevent this behavior.
