@@ -5,7 +5,6 @@ By default, a block-level element takes up the full width available, stretching 
 ### Setting Width and Centering with Margin: auto
 When you set the `width` of a block-level element, it no longer stretches to the edges of its container. To center the element horizontally, you can set `margin` to `auto`. The specified width will be taken up by the element, and the remaining space will be split equally between the left and right margins.
 **Example with `width`:**
-
 ```css
 div.ex1 {
   width: 500px;
