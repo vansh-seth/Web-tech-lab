@@ -2,7 +2,6 @@
 Using `width`, `max-width`, and `margin: auto` properties can help control the layout of block-level elements on a web page. Here's a guide on how to use these properties effectively.
 ## Block-level Elements and Width
 By default, a block-level element takes up the full width available, stretching out to the left and right edges of its container. However, you can set a specific width to prevent this behavior.
-
 ### Setting Width and Centering with Margin: auto
 
 When you set the `width` of a block-level element, it no longer stretches to the edges of its container. To center the element horizontally, you can set `margin` to `auto`. The specified width will be taken up by the element, and the remaining space will be split equally between the left and right margins.
