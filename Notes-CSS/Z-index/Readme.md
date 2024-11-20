@@ -1,5 +1,4 @@
 # CSS Layout - The `z-index` Property
-
 The `z-index` property in CSS specifies the stack order of an element, determining which element appears in front of or behind other elements when they overlap.
 
 ## The `z-index` Property
