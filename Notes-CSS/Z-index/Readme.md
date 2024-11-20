@@ -23,7 +23,6 @@ img {
 </body>
 </html>
 ```
-
 ## Another `z-index` Example
 
 This example shows that an element with a higher stack order (greater `z-index` value) is always above an element with a lower stack order:
