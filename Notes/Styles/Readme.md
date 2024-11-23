@@ -14,7 +14,6 @@ Change the text color using the `color` property:
 <h1 style="color: blue;">This is a heading</h1>
 <p style="color: red;">This is a paragraph.</p>
 ```
-
 ## Fonts
 
 Customize the font family with the `font-family` property:
