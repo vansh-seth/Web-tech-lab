@@ -1,5 +1,4 @@
 # HTML Styles Overview
-
 HTML offers the `style` attribute to customize elements with properties like color, font, size, and more. Here's a breakdown of how to use it effectively:
 
 ## Background Color
