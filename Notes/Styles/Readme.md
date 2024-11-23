@@ -2,7 +2,6 @@
 HTML offers the `style` attribute to customize elements with properties like color, font, size, and more. Here's a breakdown of how to use it effectively:
 ## Background Color
 To set the background color of an element, utilize the `background-color` property:
-
 ```html
 <body style="background-color: powderblue;">
   <h1>This is a heading</h1>
