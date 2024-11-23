@@ -10,7 +10,6 @@ To set the background color of an element, utilize the `background-color` proper
 ```
 ## Text Color
 Change the text color using the `color` property:
-
 ```html
 <h1 style="color: blue;">This is a heading</h1>
 <p style="color: red;">This is a paragraph.</p>
