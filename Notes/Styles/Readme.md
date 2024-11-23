@@ -8,7 +8,6 @@ To set the background color of an element, utilize the `background-color` proper
   <p>This is a paragraph.</p>
 </body>
 ```
-
 ## Text Color
 
 Change the text color using the `color` property:
