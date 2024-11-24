@@ -16,7 +16,6 @@ A header is usually located at the top of the website and often contains a logo 
   padding: 20px;
 }
 ```
-
 ## Navigation Bar
 A navigation bar contains a list of links to help visitors navigate through your website.
 
