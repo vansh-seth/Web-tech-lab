@@ -25,7 +25,6 @@ A navigation bar contains a list of links to help visitors navigate through your
   overflow: hidden;
   background-color: #333;
 }
-
 /* Navbar links */
 .topnav a {
   float: left;
