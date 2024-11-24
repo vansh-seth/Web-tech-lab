@@ -1,5 +1,4 @@
 # Website Layout with CSS
-
 This guide provides an example of how to create a common website layout using CSS. The layout consists of a header, navigation bar, content area, and footer. The content area can be adapted for various screen sizes to ensure a responsive design.
 
 ## Table of Contents
