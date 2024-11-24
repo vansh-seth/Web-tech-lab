@@ -8,7 +8,6 @@ This guide provides an example of how to create a common website layout using CS
 - [Responsive Design](#responsive-design)
 ## Header
 A header is usually located at the top of the website and often contains a logo or the website name.
-
 ### Example
 ```css
 .header {
