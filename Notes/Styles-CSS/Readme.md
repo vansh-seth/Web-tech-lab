@@ -4,7 +4,6 @@ CSS, which stands for Cascading Style Sheets, is a powerful tool used to format 
 Cascading Style Sheets (CSS) is a styling language used to define the appearance and layout of HTML elements within a webpage. With CSS, you can customize the visual aspects of your webpage, including colors, fonts, sizes, spacing, backgrounds, and borders.
 ## Using CSS
 CSS can be added to HTML documents in three different ways:
-
 - **Inline CSS**: Applied directly to individual HTML elements using the `style` attribute.
 - **Internal CSS**: Defined within the `<style>` element in the `<head>` section of the HTML document.
 - **External CSS**: Linked to an external CSS file using the `<link>` element in the `<head>` section.
