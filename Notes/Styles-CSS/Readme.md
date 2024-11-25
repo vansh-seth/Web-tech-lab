@@ -9,7 +9,6 @@ CSS can be added to HTML documents in three different ways:
 - **External CSS**: Linked to an external CSS file using the `<link>` element in the `<head>` section.
 ## CSS Properties
 ### Colors, Fonts, and Sizes
-
 CSS provides properties to manipulate text appearance, including:
 
 - **Color**: Specifies the text color.
