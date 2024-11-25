@@ -10,7 +10,6 @@ CSS can be added to HTML documents in three different ways:
 ## CSS Properties
 ### Colors, Fonts, and Sizes
 CSS provides properties to manipulate text appearance, including:
-
 - **Color**: Specifies the text color.
 - **Font-family**: Defines the font type to be used.
 - **Font-size**: Determines the size of the text.
