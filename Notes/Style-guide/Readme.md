@@ -1,6 +1,5 @@
 ## HTML Style Guide and Coding Conventions
 A consistent, clean, and tidy HTML code enhances readability and comprehension. Follow these guidelines and tips to produce high-quality HTML code.
-
 ### General Guidelines
 
 #### Declare Document Type
