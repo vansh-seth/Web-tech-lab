@@ -6,7 +6,6 @@ Always declare the document type as the first line in your document.
 ```html
 <!DOCTYPE html>
 ```
-
 #### Use Lowercase Element Names
 Use lowercase for all HTML element names.
 ```html
