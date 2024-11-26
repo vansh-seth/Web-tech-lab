@@ -25,7 +25,6 @@ Close all HTML elements, even if they are optional.
 <section>
   <p>This is a paragraph.</p>
 </section>
-
 <!-- Bad -->
 <section>
   <p>This is a paragraph.
