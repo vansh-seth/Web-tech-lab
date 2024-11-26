@@ -31,7 +31,6 @@ Close all HTML elements, even if they are optional.
   <p>This is a paragraph.
 </section>
 ```
-
 #### Use Lowercase Attribute Names
 Use lowercase for all HTML attribute names.
 ```html
