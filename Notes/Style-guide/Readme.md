@@ -13,7 +13,6 @@ Use lowercase for all HTML element names.
 <body>
   <p>This is a paragraph.</p>
 </body>
-
 <!-- Bad -->
 <BODY>
   <P>This is a paragraph.</P>
