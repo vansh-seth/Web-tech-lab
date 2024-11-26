@@ -18,7 +18,6 @@ Use lowercase for all HTML element names.
   <P>This is a paragraph.</P>
 </BODY>
 ```
-
 #### Close All HTML Elements
 Close all HTML elements, even if they are optional.
 ```html
