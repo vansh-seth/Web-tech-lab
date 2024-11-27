@@ -13,7 +13,6 @@ Web fonts enable designers to use custom fonts not installed on the user's compu
 - Developed in 2009, now a W3C Recommendation.
 - OpenType or TrueType with compression and additional metadata.
 - Optimized for server-to-client font distribution.
-
 ### Web Open Font Format (WOFF 2.0)
 - Improved compression compared to WOFF 1.0.
 - TrueType/OpenType fonts.
