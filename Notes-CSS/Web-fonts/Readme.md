@@ -5,7 +5,6 @@ Web fonts enable designers to use custom fonts not installed on the user's compu
 ### TrueType Fonts (TTF)
 - Developed in the late 1980s by Apple and Microsoft.
 - Common format for Mac OS and Windows.
-
 ### OpenType Fonts (OTF)
 - Built on TrueType.
 - Scalable computer fonts, trademark of Microsoft.
