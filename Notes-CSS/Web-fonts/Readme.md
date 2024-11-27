@@ -16,7 +16,6 @@ Web fonts enable designers to use custom fonts not installed on the user's compu
 ### Web Open Font Format (WOFF 2.0)
 - Improved compression compared to WOFF 1.0.
 - TrueType/OpenType fonts.
-
 ### SVG Fonts/Shapes
 - Allows SVG to be used as glyphs for text.
 - Defined in the SVG 1.1 specification.
