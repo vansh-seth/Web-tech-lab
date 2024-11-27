@@ -2,7 +2,6 @@
 ## Overview
 Web fonts enable designers to use custom fonts not installed on the user's computer. Using the `@font-face` rule in CSS, you can specify your own fonts, which are downloaded automatically when needed.
 ## Different Font Formats
-
 ### TrueType Fonts (TTF)
 - Developed in the late 1980s by Apple and Microsoft.
 - Common format for Mac OS and Windows.
