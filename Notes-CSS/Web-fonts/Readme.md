@@ -9,7 +9,6 @@ Web fonts enable designers to use custom fonts not installed on the user's compu
 - Built on TrueType.
 - Scalable computer fonts, trademark of Microsoft.
 - Widely used on major platforms.
-
 ### Web Open Font Format (WOFF)
 - Developed in 2009, now a W3C Recommendation.
 - OpenType or TrueType with compression and additional metadata.
