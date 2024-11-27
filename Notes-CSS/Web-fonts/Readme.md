@@ -1,5 +1,4 @@
 # CSS Web Fonts and the @font-face Rule
-
 ## Overview
 Web fonts enable designers to use custom fonts not installed on the user's computer. Using the `@font-face` rule in CSS, you can specify your own fonts, which are downloaded automatically when needed.
 
