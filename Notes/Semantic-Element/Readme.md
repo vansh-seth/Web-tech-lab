@@ -23,7 +23,6 @@ Many websites use non-semantic elements like `<div id="nav">`, `<div class="head
 - `<section>`
 - `<summary>`
 - `<time>`
-
 ## HTML `<section>` Element
 The `<section>` element defines a thematic grouping of content, typically with a heading. It can be used for:
 - Chapters
