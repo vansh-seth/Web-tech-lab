@@ -35,7 +35,6 @@ The `<section>` element defines a thematic grouping of content, typically with a
   <h1>WWF</h1>
   <p>The World Wide Fund for Nature (WWF) is an international organization...</p>
 </section>
-
 <section>
   <h1>WWF's Panda symbol</h1>
   <p>The Panda has become the symbol of WWF...</p>
