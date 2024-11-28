@@ -29,7 +29,6 @@ The `<section>` element defines a thematic grouping of content, typically with a
 - Introduction
 - News items
 - Contact information
-
 **Example:**
 ```html
 <section>
