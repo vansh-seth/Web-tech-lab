@@ -1,5 +1,4 @@
 # HTML Semantic Elements
-
 ## What are Semantic Elements?
 Semantic elements in HTML clearly describe their meaning to both the browser and the developer. Unlike non-semantic elements like `<div>` and `<span>`, which provide no information about their content, semantic elements like `<form>`, `<table>`, and `<article>` define their content clearly.
 
