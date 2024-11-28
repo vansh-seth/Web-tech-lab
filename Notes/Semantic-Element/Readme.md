@@ -8,7 +8,6 @@ Semantic elements in HTML clearly describe their meaning to both the browser and
 ## Examples of Non-Semantic Elements
 - `<div>`
 - `<span>`
-
 ## Semantic Elements in HTML
 Many websites use non-semantic elements like `<div id="nav">`, `<div class="header">`, and `<div id="footer">` for navigation, headers, and footers. However, HTML offers semantic elements to define different parts of a webpage:
 
