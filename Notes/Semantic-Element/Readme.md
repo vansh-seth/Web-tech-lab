@@ -5,7 +5,6 @@ Semantic elements in HTML clearly describe their meaning to both the browser and
 - `<form>`
 - `<table>`
 - `<article>`
-
 ## Examples of Non-Semantic Elements
 - `<div>`
 - `<span>`
