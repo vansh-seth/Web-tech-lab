@@ -21,7 +21,6 @@ p {
 ```
 ## Absolute Lengths
 Absolute length units are fixed and their size will not change. These units are less suitable for screen use due to varying screen sizes but can be useful for print layouts.
-
 | Unit | Description |
 |------|-------------|
 | cm   | centimeters |
