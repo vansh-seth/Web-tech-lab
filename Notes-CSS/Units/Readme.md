@@ -1,6 +1,5 @@
 # CSS Units
 CSS offers several different units for expressing length, which can be used in various properties such as width, margin, padding, and font-size.
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Example](#example)
