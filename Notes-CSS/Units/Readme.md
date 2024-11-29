@@ -14,7 +14,6 @@ Here’s an example demonstrating different length values using pixels (px):
 h1 {
   font-size: 60px;
 }
-
 p {
   font-size: 25px;
   line-height: 50px;
