@@ -8,7 +8,6 @@ CSS offers several different units for expressing length, which can be used in v
 - [Browser Support](#browser-support)
 ## Introduction
 A length in CSS is a number followed by a unit, such as `10px` or `2em`. Note that no whitespace should appear between the number and the unit. However, if the value is `0`, the unit can be omitted. For some CSS properties, negative lengths are also allowed.
-
 ## Example
 Here’s an example demonstrating different length values using pixels (px):
 
