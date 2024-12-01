@@ -25,7 +25,6 @@ CSS transitions provide a way to smoothly change property values over a specifie
     transition-duration: 2s;
   }
   ```
-
 ### 4. `transition-property`
 - **Description**: Indicates which CSS property the transition effect will apply to.
 - **Usage Example**:
