@@ -33,7 +33,6 @@ CSS transitions provide a way to smoothly change property values over a specifie
     transition-property: width;
   }
   ```
-
 ### 5. `transition-timing-function`
 - **Description**: Defines the speed curve of the transition effect.
 - **Common Values**:
