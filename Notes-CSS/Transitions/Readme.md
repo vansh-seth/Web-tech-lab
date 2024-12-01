@@ -17,7 +17,6 @@ CSS transitions provide a way to smoothly change property values over a specifie
     transition-delay: 1s;
   }
   ```
-
 ### 3. `transition-duration`
 - **Description**: Specifies the duration (in seconds or milliseconds) that the transition effect takes to complete.
 - **Usage Example**:
