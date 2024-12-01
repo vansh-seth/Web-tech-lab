@@ -1,5 +1,4 @@
 # CSS Transitions
-
 CSS transitions provide a way to smoothly change property values over a specified duration, enhancing the user experience on web pages. This document covers the basic properties and usage of CSS transitions.
 
 ## Core Properties
