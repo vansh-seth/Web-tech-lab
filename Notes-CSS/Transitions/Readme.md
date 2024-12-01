@@ -9,7 +9,6 @@ CSS transitions provide a way to smoothly change property values over a specifie
     transition: width 2s ease-in-out;
   }
   ```
-
 ### 2. `transition-delay`
 - **Description**: Defines a delay (in seconds or milliseconds) before the transition effect begins.
 - **Usage Example**:
