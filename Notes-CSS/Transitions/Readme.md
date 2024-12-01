@@ -1,7 +1,6 @@
 # CSS Transitions
 CSS transitions provide a way to smoothly change property values over a specified duration, enhancing the user experience on web pages. This document covers the basic properties and usage of CSS transitions.
 ## Core Properties
-
 ### 1. `transition`
 - **Description**: A shorthand property to set the four transition properties: `transition-property`, `transition-duration`, `transition-timing-function`, and `transition-delay`.
 - **Usage Example**:
