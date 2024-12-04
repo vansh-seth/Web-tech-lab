@@ -3,7 +3,6 @@ This guide demonstrates how to create tooltips using CSS. Tooltips are used to d
 ## Basic Tooltip
 The basic structure for a tooltip involves a container element (e.g., `<div>`) with a `tooltip` class and an inline element (e.g., `<span>`) with a `tooltiptext` class. The tooltip text appears when the user hovers over the container.
 ### Example
-
 ```html
 <div class="tooltip">Hover over me
   <span class="tooltiptext">Tooltip text</span>
