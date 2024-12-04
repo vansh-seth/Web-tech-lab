@@ -9,7 +9,6 @@ The basic structure for a tooltip involves a container element (e.g., `<div>`) w
 </div>
 ```
 ### CSS
-
 ```css
 /* Tooltip container */
 .tooltip {
