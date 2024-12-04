@@ -35,7 +35,6 @@ The basic structure for a tooltip involves a container element (e.g., `<div>`) w
 ```
 ## Positioning Tooltips
 Tooltips can be positioned on any side of the element. The following examples show how to position the tooltip to the right, left, top, or bottom of the hoverable text.
-
 ### Right Tooltip
 
 ```css
