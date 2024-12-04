@@ -8,7 +8,6 @@ The basic structure for a tooltip involves a container element (e.g., `<div>`) w
   <span class="tooltiptext">Tooltip text</span>
 </div>
 ```
-
 ### CSS
 
 ```css
