@@ -16,7 +16,6 @@ The basic structure for a tooltip involves a container element (e.g., `<div>`) w
   display: inline-block;
   border-bottom: 1px dotted black;
 }
-
 /* Tooltip text */
 .tooltip .tooltiptext {
   visibility: hidden;
