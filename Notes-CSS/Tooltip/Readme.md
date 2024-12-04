@@ -28,7 +28,6 @@ The basic structure for a tooltip involves a container element (e.g., `<div>`) w
   position: absolute;
   z-index: 1;
 }
-
 /* Show the tooltip text when hovering */
 .tooltip:hover .tooltiptext {
   visibility: visible;
