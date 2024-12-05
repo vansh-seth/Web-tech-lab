@@ -10,7 +10,6 @@ The `<head>` element serves as a container for various elements that provide met
 - `<meta>`: Provides metadata such as character set, page description, keywords, and viewport settings.
 - `<script>`: Incorporates client-side JavaScript for dynamic webpage behavior.
 - `<base>`: Specifies the base URL and/or target for relative URLs in the page.
-
 ## Best Practices
 - Ensure the `<title>` element accurately reflects the content of the webpage for SEO purposes.
 - Use `<style>` for inline styling sparingly, favoring external stylesheets for better maintainability.
