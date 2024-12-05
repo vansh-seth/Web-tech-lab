@@ -1,5 +1,4 @@
 # HTML Paragraphs and Formatting Elements
-
 HTML paragraphs provide structure and readability to your content. Let's explore paragraphs, horizontal rules, line breaks, and preformatted text in HTML.
 
 ## HTML Paragraphs
