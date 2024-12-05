@@ -1,7 +1,6 @@
 # HTML - The Head Element
 ## Overview
 In HTML, the `<head>` element plays a crucial role in providing metadata and linking to external resources necessary for webpage presentation and behavior.
-
 ## Understanding the HTML `<head>` Element
 The `<head>` element serves as a container for various elements that provide metadata and other essential information for the HTML document. It is positioned between the opening `<html>` tag and the opening `<body>` tag.
 
