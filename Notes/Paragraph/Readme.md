@@ -1,6 +1,5 @@
 # HTML Paragraphs and Formatting Elements
 HTML paragraphs provide structure and readability to your content. Let's explore paragraphs, horizontal rules, line breaks, and preformatted text in HTML.
-
 ## HTML Paragraphs
 
 The HTML `<p>` element defines a paragraph. It always starts on a new line, and browsers automatically add some white space (a margin) before and after a paragraph.
