@@ -1,6 +1,5 @@
 # CSS Layout - The display Property
 The `display` property is one of the most crucial CSS properties for controlling the layout of web pages. It determines how an element is displayed and how it interacts with other elements around it.
-
 ## The display Property
 The `display` property specifies how an element is shown on a web page. Each HTML element has a default `display` value, typically `block` or `inline`, depending on the element type. This property can be used to change the default display behavior of elements.
 
