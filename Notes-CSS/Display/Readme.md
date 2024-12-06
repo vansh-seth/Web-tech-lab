@@ -3,7 +3,6 @@ The `display` property is one of the most crucial CSS properties for controlling
 ## The display Property
 The `display` property specifies how an element is shown on a web page. Each HTML element has a default `display` value, typically `block` or `inline`, depending on the element type. This property can be used to change the default display behavior of elements.
 ### Block-level Elements
-
 Block-level elements always start on a new line and take up the full width available. Examples include:
 
 - `<div>`
