@@ -1,5 +1,4 @@
 # CSS Layout - The display Property
-
 The `display` property is one of the most crucial CSS properties for controlling the layout of web pages. It determines how an element is displayed and how it interacts with other elements around it.
 
 ## The display Property
