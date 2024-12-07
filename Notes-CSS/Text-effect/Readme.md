@@ -24,7 +24,6 @@ p.test2 {
   text-overflow: ellipsis;
 }
 ```
-
 ### Hover to Display Overflow
 Display overflowed content when hovering over the element.
 
