@@ -15,7 +15,6 @@ p.test1 {
 ```
 ### Ellipsis Overflow
 Overflowed content is rendered as an ellipsis (`...`).
-
 ```css
 p.test2 {
   white-space: nowrap;
