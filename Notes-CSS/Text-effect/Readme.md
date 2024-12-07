@@ -35,7 +35,6 @@ div.test:hover {
 The `word-wrap` property allows long words to be broken and wrapped onto the next line.
 ### Break Long Words
 Allow long words to be broken and wrapped onto the next line.
-
 ```css
 p {
   word-wrap: break-word;
