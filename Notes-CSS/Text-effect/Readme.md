@@ -1,6 +1,5 @@
 # CSS Text Effects
 This document covers various CSS properties for handling text overflow, word wrapping, line breaking, and writing modes.
-
 ## CSS Text Overflow
 The `text-overflow` property specifies how overflowed content that is not displayed should be signaled to the user.
 
