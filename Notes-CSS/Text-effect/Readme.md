@@ -26,7 +26,6 @@ p.test2 {
 ```
 ### Hover to Display Overflow
 Display overflowed content when hovering over the element.
-
 ```css
 div.test:hover {
   overflow: visible;
