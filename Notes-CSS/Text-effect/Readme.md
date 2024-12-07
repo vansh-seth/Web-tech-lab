@@ -31,7 +31,6 @@ div.test:hover {
   overflow: visible;
 }
 ```
-
 ## CSS Word Wrapping
 The `word-wrap` property allows long words to be broken and wrapped onto the next line.
 
