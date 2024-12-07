@@ -13,7 +13,6 @@ p.test1 {
   text-overflow: clip;
 }
 ```
-
 ### Ellipsis Overflow
 Overflowed content is rendered as an ellipsis (`...`).
 
