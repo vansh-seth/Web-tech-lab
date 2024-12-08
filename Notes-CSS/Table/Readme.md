@@ -32,7 +32,6 @@ To define borders for the table, table headers (`<th>`), and table data (`<td>`)
   </tr>
 </table>
 ```
-
 ```css
 table, th, td {
   border: 1px solid;
