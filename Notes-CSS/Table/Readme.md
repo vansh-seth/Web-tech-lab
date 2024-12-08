@@ -37,7 +37,6 @@ table, th, td {
   border: 1px solid;
 }
 ```
-
 ## Full-Width Table
 To make a table span the entire width of the screen, add the `width: 100%` property to the `<table>` element.
 
