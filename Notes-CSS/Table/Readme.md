@@ -13,7 +13,6 @@ Here's an example of a table containing company information:
 | Königlich Essen                 | Philip Cramer       | Germany |
 | Laughing Bacchus Winecellars    | Yoshi Tannamuri     | Canada  |
 | Magazzini Alimentari Riuniti    | Giovanni Rovelli    | Italy   |
-
 ## Table Borders
 To define borders for the table, table headers (`<th>`), and table data (`<td>`) elements, use the `border` property in CSS.
 
