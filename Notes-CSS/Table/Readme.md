@@ -1,5 +1,4 @@
 # CSS Tables
-
 ## Introduction
 The appearance of an HTML table can be significantly enhanced using CSS. This guide provides examples and explanations on how to style HTML tables with CSS.
 
