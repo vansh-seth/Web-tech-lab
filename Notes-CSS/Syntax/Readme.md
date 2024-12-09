@@ -6,7 +6,6 @@ The selector targets the HTML element you wish to style.
 The declaration block consists of one or more declarations, each separated by a semicolon.
 Each declaration comprises a CSS property name and its corresponding value, separated by a colon.
 Multiple declarations are separated by semicolons, and the entire declaration block is enclosed in curly braces.
-
 ### Example
 The following code will center-align all `<p>` elements and set their text color to red:
 
