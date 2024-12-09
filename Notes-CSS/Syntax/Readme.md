@@ -1,5 +1,4 @@
 ## CSS Syntax
-
 A CSS rule is made up of a **selector** and a **declaration block**.
 
 ### CSS Selector
