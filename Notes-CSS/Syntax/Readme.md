@@ -2,7 +2,6 @@
 A CSS rule is made up of a **selector** and a **declaration block**.
 ### CSS Selector
 The selector targets the HTML element you wish to style.
-
 ### Declaration Block
 The declaration block consists of one or more declarations, each separated by a semicolon.
 
