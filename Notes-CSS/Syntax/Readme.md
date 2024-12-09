@@ -8,7 +8,6 @@ Each declaration comprises a CSS property name and its corresponding value, sepa
 Multiple declarations are separated by semicolons, and the entire declaration block is enclosed in curly braces.
 ### Example
 The following code will center-align all `<p>` elements and set their text color to red:
-
 ```css
 p {
   color: red;
