@@ -1,7 +1,6 @@
 ## CSS Syntax
 A CSS rule is made up of a **selector** and a **declaration block**.
 ### CSS Selector
-
 The selector targets the HTML element you wish to style.
 
 ### Declaration Block
