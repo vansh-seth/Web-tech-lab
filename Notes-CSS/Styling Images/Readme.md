@@ -15,7 +15,6 @@ img {
 }
 ```
 ## Thumbnail Images
-
 To create thumbnail images, use the `border` property:
 
 ### Example: Thumbnail Image
