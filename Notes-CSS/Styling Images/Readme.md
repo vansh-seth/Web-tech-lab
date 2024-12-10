@@ -1,7 +1,6 @@
 # CSS Styling for Images
 Learn how to style images using CSS with different techniques such as rounded corners, responsive design, image hover effects, and more.
 ## Rounded Images
-
 To create rounded corners on images, use the `border-radius` property:
 
 ### Example: Rounded Image
