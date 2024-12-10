@@ -9,7 +9,6 @@ img {
 }
 ```
 ### Example: Circular Image
-
 ```css
 img {
   border-radius: 50%;
