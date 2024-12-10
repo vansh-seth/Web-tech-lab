@@ -1,5 +1,4 @@
 # CSS Styling for Images
-
 Learn how to style images using CSS with different techniques such as rounded corners, responsive design, image hover effects, and more.
 
 ## Rounded Images
