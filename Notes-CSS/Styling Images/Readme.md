@@ -14,7 +14,6 @@ img {
   border-radius: 50%;
 }
 ```
-
 ## Thumbnail Images
 
 To create thumbnail images, use the `border` property:
