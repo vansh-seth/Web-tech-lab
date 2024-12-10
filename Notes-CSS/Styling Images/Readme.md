@@ -3,7 +3,6 @@ Learn how to style images using CSS with different techniques such as rounded co
 ## Rounded Images
 To create rounded corners on images, use the `border-radius` property:
 ### Example: Rounded Image
-
 ```css
 img {
   border-radius: 8px;
