@@ -8,7 +8,6 @@ img {
   border-radius: 8px;
 }
 ```
-
 ### Example: Circular Image
 
 ```css
