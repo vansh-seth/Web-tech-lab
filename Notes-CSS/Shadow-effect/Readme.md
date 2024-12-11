@@ -1,6 +1,5 @@
 # CSS Shadow Effects
 With CSS, you can create shadow effects for text and elements.
-
 ## Text Shadows
 
 The `text-shadow` property adds shadow to text.
