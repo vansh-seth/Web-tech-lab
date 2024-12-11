@@ -11,7 +11,6 @@ h1 {
 ```
 ### Shadow with Color
 Add a color to the shadow:
-
 ```css
 h1 {
   text-shadow: 2px 2px red;
