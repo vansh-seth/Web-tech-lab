@@ -9,7 +9,6 @@ h1 {
   text-shadow: 2px 2px;
 }
 ```
-
 ### Shadow with Color
 Add a color to the shadow:
 
