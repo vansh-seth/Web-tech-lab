@@ -4,7 +4,6 @@ With CSS, you can create shadow effects for text and elements.
 The `text-shadow` property adds shadow to text.
 ### Basic Shadow
 This example shows a basic text shadow with horizontal and vertical offsets:
-
 ```css
 h1 {
   text-shadow: 2px 2px;
