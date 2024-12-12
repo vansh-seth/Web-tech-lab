@@ -5,7 +5,6 @@ CSS selectors are crucial for targeting and styling specific HTML elements. They
 - **Pseudo-class Selectors**: Based on a certain state of an element.
 - **Pseudo-elements Selectors**: Target and style a specific part of an element.
 - **Attribute Selectors**: Based on an attribute or its value.
-
 This section will cover the fundamental CSS selectors.
 
 ### The Element Selector
