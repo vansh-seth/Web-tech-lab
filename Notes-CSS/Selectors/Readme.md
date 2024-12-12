@@ -1,5 +1,4 @@
 ## CSS Selectors
-
 CSS selectors are crucial for targeting and styling specific HTML elements. They can be categorized into five main types:
 
 - **Simple Selectors**: Based on name, id, or class.
