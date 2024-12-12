@@ -16,7 +16,6 @@ p {
   color: red;
 }
 ```
-
 ### The ID Selector
 The ID selector targets an HTML element by its unique `id` attribute.
 
