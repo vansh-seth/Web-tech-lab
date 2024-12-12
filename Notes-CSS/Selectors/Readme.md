@@ -10,7 +10,6 @@ This section will cover the fundamental CSS selectors.
 The element selector targets HTML elements based on their name.
 #### Example:
 To center-align and color all `<p>` elements, use:
-
 ```css
 p {
   text-align: center;
