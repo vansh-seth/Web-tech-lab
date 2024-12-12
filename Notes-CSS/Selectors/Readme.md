@@ -8,7 +8,6 @@ CSS selectors are crucial for targeting and styling specific HTML elements. They
 This section will cover the fundamental CSS selectors.
 ### The Element Selector
 The element selector targets HTML elements based on their name.
-
 #### Example:
 To center-align and color all `<p>` elements, use:
 
