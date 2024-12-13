@@ -1,5 +1,4 @@
 # CSS Rounded Corners
-
 With the CSS `border-radius` property, you can give any element "rounded corners".
 
 ## CSS `border-radius` Property
