@@ -7,7 +7,6 @@ The `border-radius` property defines the radius of an element's corners. This al
 ```html
 <div id="rcorners1">Rounded corners!</div>
 ```
-
 2. **Rounded corners for an element with a border:**
 
 ```html
