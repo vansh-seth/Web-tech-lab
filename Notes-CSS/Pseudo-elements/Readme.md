@@ -1,6 +1,5 @@
 # CSS Pseudo-Elements
 ## What are Pseudo-Elements?
-
 CSS pseudo-elements allow you to style specific parts of an element. They can be used to style the first letter or line of an element, and to insert content before or after the content of an element.
 
 ### Syntax
