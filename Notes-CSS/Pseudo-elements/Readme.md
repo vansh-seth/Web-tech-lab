@@ -10,7 +10,6 @@ selector::pseudo-element {
 ## Common Pseudo-Elements
 ### ::first-line
 Styles the first line of a block-level element.
-
 ```css
 p::first-line {
   color: #ff0000;
