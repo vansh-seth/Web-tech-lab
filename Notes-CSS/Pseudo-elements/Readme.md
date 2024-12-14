@@ -16,7 +16,6 @@ p::first-line {
   font-variant: small-caps;
 }
 ```
-
 *Applicable properties:*
 - font properties
 - color properties
