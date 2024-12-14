@@ -7,7 +7,6 @@ selector::pseudo-element {
   property: value;
 }
 ```
-
 ## Common Pseudo-Elements
 
 ### ::first-line
