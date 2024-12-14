@@ -27,7 +27,6 @@ p::first-line {
 - text-transform
 - line-height
 - clear
-
 ### ::first-letter
 
 Styles the first letter of a block-level element.
