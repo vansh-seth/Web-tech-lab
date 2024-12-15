@@ -2,7 +2,6 @@
 Padding in CSS is used to create space around an element's content, inside of any defined borders.
 ## Individual Padding Properties
 CSS provides properties to specify the padding for each side of an element:
-
 - `padding-top`
 - `padding-right`
 - `padding-bottom`
