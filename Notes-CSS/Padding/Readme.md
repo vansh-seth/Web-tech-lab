@@ -7,7 +7,6 @@ CSS provides properties to specify the padding for each side of an element:
 - `padding-bottom`
 - `padding-left`
 ### Possible Values
-
 - `length`: Specifies padding in px, pt, cm, etc.
 - `%`: Specifies padding as a percentage of the containing element's width
 - `inherit`: Padding is inherited from the parent element
