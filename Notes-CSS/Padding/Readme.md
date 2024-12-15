@@ -6,7 +6,6 @@ CSS provides properties to specify the padding for each side of an element:
 - `padding-right`
 - `padding-bottom`
 - `padding-left`
-
 ### Possible Values
 
 - `length`: Specifies padding in px, pt, cm, etc.
