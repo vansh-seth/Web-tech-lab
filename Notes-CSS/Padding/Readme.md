@@ -11,7 +11,6 @@ CSS provides properties to specify the padding for each side of an element:
 - `%`: Specifies padding as a percentage of the containing element's width
 - `inherit`: Padding is inherited from the parent element
 - **Note**: Negative values are not allowed
-
 ### Example
 
 ```css
