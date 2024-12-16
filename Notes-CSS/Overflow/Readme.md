@@ -1,6 +1,5 @@
 # CSS Layout - Overflow
 The CSS `overflow` property controls what happens to content that is too big to fit into an area.
-
 ## CSS Overflow
 The `overflow` property specifies whether to clip the content or add scrollbars when an element's content is too big to fit in the selected area.
 
