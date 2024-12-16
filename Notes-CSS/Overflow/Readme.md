@@ -2,7 +2,6 @@
 The CSS `overflow` property controls what happens to content that is too big to fit into an area.
 ## CSS Overflow
 The `overflow` property specifies whether to clip the content or add scrollbars when an element's content is too big to fit in the selected area.
-
 ### Values
 - `visible`: Default. The overflow is not clipped. The content renders outside the element's box.
 - `Hidden`: The overflow is clipped, and the rest of the content will be invisible.
