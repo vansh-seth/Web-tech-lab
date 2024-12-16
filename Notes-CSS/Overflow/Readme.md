@@ -9,7 +9,6 @@ The `overflow` property specifies whether to clip the content or add scrollbars 
 - `auto`: Similar to `scroll`, but it adds scrollbars only when necessary.
 > **Note**: The `overflow` property only works for block elements with a specified height.
 > **Note for Mac Users**: In OS X Lion (on Mac), scrollbars are hidden by default and only shown when being used (even though `overflow:scroll` is set).
-
 ### Examples
 
 #### overflow: visible
