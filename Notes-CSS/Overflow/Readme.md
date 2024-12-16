@@ -12,7 +12,6 @@ The `overflow` property specifies whether to clip the content or add scrollbars 
 ### Examples
 #### overflow: visible
 By default, the overflow is visible, meaning that it is not clipped and it renders outside the element's box:
-
 ```css
 div {
   width: 200px;
