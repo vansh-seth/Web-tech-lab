@@ -19,7 +19,6 @@ The `outline-style` property can take the following values:
 - `outset`: A 3D outset outline.
 - `none`: No outline.
 - `hidden`: A hidden outline.
-
 ### Example
 
 ```css
