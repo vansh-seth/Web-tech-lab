@@ -7,7 +7,6 @@ CSS provides the following outline properties:
 - `outline-width`: Defines the width of the outline.
 - `outline-offset`: Specifies the space between the outline and the border.
 - `outline`: A shorthand property to set all the outline properties in one declaration.
-
 ## CSS Outline Styles
 
 The `outline-style` property can take the following values:
