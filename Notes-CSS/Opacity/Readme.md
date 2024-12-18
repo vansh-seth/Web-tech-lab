@@ -8,7 +8,6 @@ img {
   opacity: 0.5;
 }
 ```
-
 ### Example: Transparency Levels
 
 - **opacity: 0.2**
