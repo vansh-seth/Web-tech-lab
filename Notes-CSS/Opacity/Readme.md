@@ -1,6 +1,5 @@
 # CSS Opacity / Transparency
 ## Overview
-
 The `opacity` property specifies the opacity/transparency of an element. It takes a value from 0.0 (completely transparent) to 1.0 (completely opaque).
 
 ### Transparent Image
