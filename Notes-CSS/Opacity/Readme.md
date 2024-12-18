@@ -9,7 +9,6 @@ img {
 }
 ```
 ### Example: Transparency Levels
-
 - **opacity: 0.2**
 
   ```css
