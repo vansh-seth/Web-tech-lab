@@ -16,7 +16,6 @@ img {
   }
   ```
 - **opacity: 0.5**
-
   ```css
   img {
     opacity: 0.5;
