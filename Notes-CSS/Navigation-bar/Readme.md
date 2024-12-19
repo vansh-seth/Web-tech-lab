@@ -1,7 +1,6 @@
 # CSS Navigation Bar
 ## Overview
 Creating easy-to-use navigation is essential for any website. With CSS, you can transform simple HTML menus into attractive navigation bars.
-
 ## Navigation Bar Basics
 A navigation bar is essentially a list of links. Using standard HTML as a base, we can create a navigation bar using `<ul>` and `<li>` elements.
 
