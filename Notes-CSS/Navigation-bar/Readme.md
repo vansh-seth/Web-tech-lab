@@ -21,7 +21,6 @@ ul {
   padding: 0;
 }
 ```
-
 - `list-style-type: none;` - Removes the bullets. A navigation bar does not need list markers.
 - `margin: 0;` and `padding: 0;` - Removes browser default settings.
 
