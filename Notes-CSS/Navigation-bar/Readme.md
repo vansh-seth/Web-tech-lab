@@ -12,7 +12,6 @@ A navigation bar is essentially a list of links. Using standard HTML as a base, 
   <li><a href="about.asp">About</a></li>
 </ul>
 ```
-
 ### Basic CSS
 To remove bullets, margins, and padding from the list, use the following CSS:
 
