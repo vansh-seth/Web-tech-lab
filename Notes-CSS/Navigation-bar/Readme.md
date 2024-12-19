@@ -14,7 +14,6 @@ A navigation bar is essentially a list of links. Using standard HTML as a base, 
 ```
 ### Basic CSS
 To remove bullets, margins, and padding from the list, use the following CSS:
-
 ```css
 ul {
   list-style-type: none;
