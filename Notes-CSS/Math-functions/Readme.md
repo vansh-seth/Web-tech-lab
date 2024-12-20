@@ -6,7 +6,6 @@ The `calc()` function performs calculations to be used as property values.
 ```css
 calc(expression)
 ```
-
 - **expression**: Required. A mathematical expression. The result will be used as the value.
 - Operators: `+`, `-`, `*`, `/`
 
