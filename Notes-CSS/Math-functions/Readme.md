@@ -1,5 +1,4 @@
 # CSS Math Functions
-
 CSS math functions allow mathematical expressions to be used as property values. This document covers the `calc()`, `max()`, and `min()` functions.
 
 ## The `calc()` Function
