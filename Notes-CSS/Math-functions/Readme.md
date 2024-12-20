@@ -9,7 +9,6 @@ calc(expression)
 - **expression**: Required. A mathematical expression. The result will be used as the value.
 - Operators: `+`, `-`, `*`, `/`
 ### Example
-
 Use `calc()` to calculate the width of a `<div>` element:
 
 ```css
