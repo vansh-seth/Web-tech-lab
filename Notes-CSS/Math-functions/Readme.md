@@ -3,7 +3,6 @@ CSS math functions allow mathematical expressions to be used as property values.
 ## The `calc()` Function
 The `calc()` function performs calculations to be used as property values.
 ### Syntax
-
 ```css
 calc(expression)
 ```
