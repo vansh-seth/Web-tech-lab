@@ -21,7 +21,6 @@ p {
   margin-left: 80px;
 }
 ```
-
 ## Margin Shorthand Property
 
 The `margin` property can be used as a shorthand for the individual margin properties:
