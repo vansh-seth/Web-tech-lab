@@ -8,7 +8,6 @@ CSS list properties allow you to customize the appearance of lists. You can:
 - Set different list item markers for ordered and unordered lists.
 - Use an image as the list item marker.
 - Add background colors to lists and list items.
-
 ### Different List Item Markers
 
 The `list-style-type` property specifies the type of list item marker. Here are some examples:
