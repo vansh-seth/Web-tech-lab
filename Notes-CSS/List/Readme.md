@@ -4,7 +4,6 @@ In HTML, there are two main types of lists:
 - **Unordered lists (`<ul>`)**: List items are marked with bullets.
 - **Ordered lists (`<ol>`)**: List items are marked with numbers or letters.
 ## CSS List Properties
-
 CSS list properties allow you to customize the appearance of lists. You can:
 - Set different list item markers for ordered and unordered lists.
 - Use an image as the list item marker.
