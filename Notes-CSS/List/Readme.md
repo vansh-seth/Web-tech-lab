@@ -1,6 +1,5 @@
 # CSS Lists
 ## HTML Lists
-
 In HTML, there are two main types of lists:
 - **Unordered lists (`<ul>`)**: List items are marked with bullets.
 - **Ordered lists (`<ol>`)**: List items are marked with numbers or letters.
