@@ -6,7 +6,6 @@ Links can be styled using CSS properties such as color, font-family, and backgro
 - `a:visited` - a link the user has visited
 - `a:hover` - a link when the user hovers over it
 - `a:active` - a link the moment it is clicked
-
 ```css
 /* unvisited link */
 a:link {
