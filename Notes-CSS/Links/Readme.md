@@ -11,7 +11,6 @@ Links can be styled using CSS properties such as color, font-family, and backgro
 a:link {
   color: red;
 }
-
 /* visited link */
 a:visited {
   color: green;
