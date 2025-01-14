@@ -2,7 +2,6 @@
 With CSS, links can be styled in various ways to enhance their appearance and interactivity.
 ## Styling Links
 Links can be styled using CSS properties such as color, font-family, and background. Additionally, links can be styled differently based on their state:
-
 - `a:link` - a normal, unvisited link
 - `a:visited` - a link the user has visited
 - `a:hover` - a link when the user hovers over it
