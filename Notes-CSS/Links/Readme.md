@@ -15,7 +15,6 @@ a:link {
 a:visited {
   color: green;
 }
-
 /* mouse over link */
 a:hover {
   color: hotpink;
