@@ -6,7 +6,6 @@
 ### Comparison with `display: block`
 - **Line-Break**: `display: inline-block` does not add a line-break after the element, allowing it to sit next to other elements, unlike `display: block`.
 ### Example: Different Behaviors
-
 ```html
 <span class="a">Inline</span>
 <span class="b">Inline-Block</span>
