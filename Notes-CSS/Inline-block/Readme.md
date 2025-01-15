@@ -37,7 +37,6 @@ span.c {
 }
 </style>
 ```
-
 ## Using `inline-block` to Create Navigation Links
 
 ### Horizontal Navigation Example
