@@ -5,7 +5,6 @@
 - **Margins and Paddings**: Top and bottom margins/paddings are respected with `display: inline-block`, but not with `display: inline`.
 ### Comparison with `display: block`
 - **Line-Break**: `display: inline-block` does not add a line-break after the element, allowing it to sit next to other elements, unlike `display: block`.
-
 ### Example: Different Behaviors
 
 ```html
