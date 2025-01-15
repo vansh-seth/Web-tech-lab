@@ -1,6 +1,5 @@
 # CSS Layout - `display: inline-block`
 ## Understanding `display: inline-block`
-
 ### Comparison with `display: inline`
 - **Width and Height**: `display: inline-block` allows setting a width and height on the element, whereas `display: inline` does not.
 - **Margins and Paddings**: Top and bottom margins/paddings are respected with `display: inline-block`, but not with `display: inline`.
