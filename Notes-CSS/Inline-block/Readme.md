@@ -1,5 +1,4 @@
 # CSS Layout - `display: inline-block`
-
 ## Understanding `display: inline-block`
 
 ### Comparison with `display: inline`
