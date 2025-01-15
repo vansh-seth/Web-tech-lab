@@ -10,7 +10,6 @@
 <span class="a">Inline</span>
 <span class="b">Inline-Block</span>
 <span class="c">Block</span>
-
 <style>
 span.a {
   display: inline; /* Default for span */
