@@ -19,7 +19,6 @@ span.a {
   border: 1px solid blue;
   background-color: yellow;
 }
-
 span.b {
   display: inline-block;
   width: 100px;
