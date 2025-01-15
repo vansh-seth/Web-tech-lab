@@ -27,7 +27,6 @@ span.b {
   border: 1px solid blue;
   background-color: yellow;
 }
-
 span.c {
   display: block;
   width: 100px;
