@@ -2,7 +2,6 @@
 This repository contains an example of creating an image gallery using CSS.
 ## Demo: Image Gallery
 The following image gallery is created with CSS:
-
 - Cinque Terre
 - Forest
 - Northern Lights
