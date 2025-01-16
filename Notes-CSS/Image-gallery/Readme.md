@@ -1,5 +1,4 @@
 # CSS Image Gallery
-
 This repository contains an example of creating an image gallery using CSS.
 
 ## Demo: Image Gallery
