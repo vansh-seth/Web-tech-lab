@@ -7,7 +7,6 @@ The following image gallery is created with CSS:
 - Northern Lights
 - Mountains
 ## Example
-
 ```html
 <!DOCTYPE html>
 <html>
