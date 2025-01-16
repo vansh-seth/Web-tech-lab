@@ -6,7 +6,6 @@ The following image gallery is created with CSS:
 - Forest
 - Northern Lights
 - Mountains
-
 ## Example
 
 ```html
