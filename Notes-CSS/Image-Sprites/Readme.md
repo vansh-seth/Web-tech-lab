@@ -7,7 +7,6 @@ Instead of using three separate images, we can use a single image sprite (`img_n
 ```html
 <img id="home" src="img_trans.gif">
 ```
-
 ### CSS
 ```css
 #home {
