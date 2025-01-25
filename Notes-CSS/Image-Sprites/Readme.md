@@ -1,4 +1,3 @@
-
 # CSS Image Sprites
 
 ## What are Image Sprites?
