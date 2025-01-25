@@ -1,6 +1,5 @@
 # CSS Image Sprites
 ## What are Image Sprites?
-
 An image sprite is a single image file that contains multiple images. This technique helps to reduce the number of server requests and save bandwidth, enhancing the loading speed of web pages.
 
 ## Simple Example
