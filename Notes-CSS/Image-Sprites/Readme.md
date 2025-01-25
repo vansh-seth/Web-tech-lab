@@ -3,7 +3,6 @@
 An image sprite is a single image file that contains multiple images. This technique helps to reduce the number of server requests and save bandwidth, enhancing the loading speed of web pages.
 ## Simple Example
 Instead of using three separate images, we can use a single image sprite (`img_navsprites.gif`).
-
 ### HTML
 ```html
 <img id="home" src="img_trans.gif">
