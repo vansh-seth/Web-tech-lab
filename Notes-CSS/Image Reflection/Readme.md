@@ -3,7 +3,6 @@ The `box-reflect` property in CSS is used to create reflections of images. This 
 ### Examples
 #### Reflection Below the Image
 To place the reflection below the image:
-
 ```css
 img {
   -webkit-box-reflect: below;
