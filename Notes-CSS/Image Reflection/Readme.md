@@ -2,7 +2,6 @@
 The `box-reflect` property in CSS is used to create reflections of images. This property allows you to position the reflection either below, above, left, or right of the image.
 ### Examples
 #### Reflection Below the Image
-
 To place the reflection below the image:
 
 ```css
