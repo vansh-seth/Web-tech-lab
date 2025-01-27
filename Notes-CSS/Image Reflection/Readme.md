@@ -9,7 +9,6 @@ img {
 }
 ```
 #### Reflection to the Right of the Image
-
 To place the reflection to the right of the image:
 
 ```css
