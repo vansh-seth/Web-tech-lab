@@ -3,7 +3,6 @@ Icons can easily be added to your HTML page using icon libraries. These librarie
 ## How To Add Icons
 The simplest way to add an icon to your HTML page is with an icon library, such as Font Awesome. 
 Add the name of the specified icon class to any inline HTML element (like `<i>` or `<span>`).
-
 ### Font Awesome Icons
 
 To use Font Awesome icons, follow these steps:
