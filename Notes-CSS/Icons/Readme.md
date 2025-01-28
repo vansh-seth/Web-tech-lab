@@ -1,5 +1,4 @@
 # CSS Icons
-
 Icons can easily be added to your HTML page using icon libraries. These libraries provide scalable vector icons that can be customized with CSS, including size, color, and shadow.
 
 ## How To Add Icons
