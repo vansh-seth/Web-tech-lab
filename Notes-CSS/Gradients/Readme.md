@@ -1,5 +1,4 @@
 # CSS Gradients
-
 ## Gradient Backgrounds
 
 CSS gradients allow for smooth transitions between two or more specified colors. There are three types of gradients in CSS:
