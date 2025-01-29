@@ -1,7 +1,6 @@
 # CSS Gradients
 ## Gradient Backgrounds
 CSS gradients allow for smooth transitions between two or more specified colors. There are three types of gradients in CSS:
-
 1. **Linear Gradients** (transition in a straight line)
 2. **Radial Gradients** (radiate from the center)
 3. **Conic Gradients** (rotate around a center point)
