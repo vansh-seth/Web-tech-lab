@@ -10,7 +10,6 @@ To create a linear gradient, define at least two color stops, which are the colo
 ```css
 background-image: linear-gradient(direction, color-stop1, color-stop2, ...);
 ```
-
 ### Directions
 
 #### Top to Bottom (default)
