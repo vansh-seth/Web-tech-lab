@@ -16,7 +16,6 @@ div {
   width: 50%;
   background-color: powderblue;
 }
-
 div {
   height: 100px;
   width: 500px;
