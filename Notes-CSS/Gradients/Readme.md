@@ -6,7 +6,6 @@ CSS gradients allow for smooth transitions between two or more specified colors.
 3. **Conic Gradients** (rotate around a center point)
 ### CSS Linear Gradients
 To create a linear gradient, define at least two color stops, which are the colors between which the transitions will occur. You can also set the gradient's starting point and direction (or angle).
-
 #### Syntax
 ```css
 background-image: linear-gradient(direction, color-stop1, color-stop2, ...);
