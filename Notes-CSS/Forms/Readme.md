@@ -46,7 +46,6 @@ input[type=text] {
   border-bottom: 2px solid red;
 }
 ```
-
 ### Colored Inputs
 Set background and text colors:
 ```css
