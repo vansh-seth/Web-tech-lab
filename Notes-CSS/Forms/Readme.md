@@ -1,7 +1,6 @@
 # CSS Form Styling Guide
 This guide provides various CSS techniques to enhance the appearance and functionality of HTML forms.
 ## Styling Input Fields
-
 ### Full Width Inputs
 Apply `width: 100%;` to all `<input>` elements:
 ```css
