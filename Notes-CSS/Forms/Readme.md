@@ -20,7 +20,6 @@ input[type=number] {
   /* styles for number fields */
 }
 ```
-
 ### Padded Inputs
 Add padding inside text fields and margin outside them:
 ```css
