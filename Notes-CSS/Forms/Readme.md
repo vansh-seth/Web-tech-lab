@@ -54,7 +54,6 @@ input[type=text] {
   color: white;
 }
 ```
-
 ### Focused Inputs
 Remove the default outline and style focused inputs:
 ```css
