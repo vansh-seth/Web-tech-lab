@@ -31,7 +31,6 @@ input[type=text] {
 }
 ```
 The `box-sizing: border-box;` ensures padding and borders are included in the total width and height.
-
 ### Bordered Inputs
 Change border size, color, and add rounded corners:
 ```css
