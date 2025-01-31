@@ -4,7 +4,6 @@ The choice of font significantly influences the user's experience on a website.
 - A suitable font can establish a strong brand identity.
 - Prioritizing readability is crucial. The right font enhances the value of your content.
 - Consistent color and appropriate text size complement the chosen font.
-
 ## Generic Font Families in CSS
 
 CSS offers five generic font families, each with distinct characteristics:
