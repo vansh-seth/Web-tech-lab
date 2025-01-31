@@ -9,7 +9,6 @@ CSS offers five generic font families, each with distinct characteristics:
 - **Serif Fonts**: These fonts feature small strokes at the edges of each letter, conveying formality and elegance.
   *Examples*: Times New Roman, Georgia, Garamond
 - **Sans-serif Fonts**: With clean lines and no added strokes, they offer a modern and minimalistic appearance.
-  
   *Examples*: Arial, Verdana, Helvetica
 
 - **Monospace Fonts**: All letters have the same fixed width, providing a mechanical aesthetic.
