@@ -6,7 +6,6 @@ The choice of font significantly influences the user's experience on a website.
 - Consistent color and appropriate text size complement the chosen font.
 ## Generic Font Families in CSS
 CSS offers five generic font families, each with distinct characteristics:
-
 - **Serif Fonts**: These fonts feature small strokes at the edges of each letter, conveying formality and elegance.
   
   *Examples*: Times New Roman, Georgia, Garamond
