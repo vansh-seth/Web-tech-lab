@@ -1,6 +1,5 @@
 # CSS Dropdowns
 This repository contains examples of creating hoverable dropdown menus using CSS.
-
 ## Demo: Dropdown Examples
 
 Move the mouse over the examples below to see the dropdown in action:
