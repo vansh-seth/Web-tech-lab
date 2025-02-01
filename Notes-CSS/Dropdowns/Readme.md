@@ -8,7 +8,6 @@ Move the mouse over the examples below to see the dropdown in action:
 ## Basic Dropdown
 Create a dropdown box that appears when the user moves the mouse over an element.
 ### Example
-
 ```html
 <!DOCTYPE html>
 <html>
