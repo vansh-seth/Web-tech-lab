@@ -9,7 +9,6 @@ CSS counters function similarly to variables. Their values can be incremented by
 - **counter() or counters() function**: Adds the value of a counter to an element.
 ### Creating and Using a Counter
 To use a CSS counter, it must first be created with `counter-reset`.
-
 #### Example: Basic Counter
 The following example creates a counter for the page (in the `body` selector), then increments the counter value for each `<h2>` element, adding "Section <value of the counter>:" to the beginning of each `<h2>` element:
 
