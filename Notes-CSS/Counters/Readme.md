@@ -15,7 +15,6 @@ The following example creates a counter for the page (in the `body` selector), t
 body {
   counter-reset: section;
 }
-
 h2::before {
   counter-increment: section;
   content: "Section " counter(section) ": ";
