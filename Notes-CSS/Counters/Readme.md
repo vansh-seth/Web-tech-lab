@@ -11,7 +11,6 @@ CSS counters function similarly to variables. Their values can be incremented by
 To use a CSS counter, it must first be created with `counter-reset`.
 #### Example: Basic Counter
 The following example creates a counter for the page (in the `body` selector), then increments the counter value for each `<h2>` element, adding "Section <value of the counter>:" to the beginning of each `<h2>` element:
-
 ```css
 body {
   counter-reset: section;
