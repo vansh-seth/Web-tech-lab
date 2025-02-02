@@ -2,7 +2,6 @@
 CSS counters are "variables" maintained by CSS whose values can be incremented by CSS rules to track their usage. They allow you to adjust the appearance of content based on its placement in the document.
 ## Automatic Numbering with Counters
 CSS counters function similarly to variables. Their values can be incremented by CSS rules, tracking their usage throughout the document.
-
 ### Key Properties and Functions
 - **counter-reset**: Creates or resets a counter.
 - **counter-increment**: Increments a counter value.
