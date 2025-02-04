@@ -16,7 +16,6 @@ p {
   color: red;  /* Set text color to red */
 }
 ```
-
 #### Comment in the Middle of a Code Line
 ```css
 p {
