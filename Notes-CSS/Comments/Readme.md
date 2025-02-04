@@ -1,5 +1,4 @@
 ## CSS Comments
-
 CSS comments are essential for documenting your source code. While they don't appear in the browser, they can be incredibly useful for explaining and organizing your CSS code.
 
 ### Usage
