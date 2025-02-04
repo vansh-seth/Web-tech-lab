@@ -10,7 +10,6 @@ p {
   color: red;
 }
 ```
-
 #### Comment within Code
 ```css
 p {
