@@ -2,7 +2,6 @@
 CSS comments are essential for documenting your source code. While they don't appear in the browser, they can be incredibly useful for explaining and organizing your CSS code.
 ### Usage
 Comments are primarily used to clarify the code and assist in future edits. Browsers completely ignore comments.
-
 A CSS comment starts with `/*` and ends with `*/`, and it can be placed within the `<style>` element.
 
 #### Single-line Comment
