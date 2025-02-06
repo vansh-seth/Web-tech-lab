@@ -1,7 +1,6 @@
 # CSS Combinators
 A CSS combinator explains the relationship between selectors. A selector can contain multiple simple selectors, and combinators can be used between these simple selectors.
 There are four types of combinators in CSS:
-
 1. **Descendant Selector (space)**
 2. **Child Selector (>)**
 3. **Adjacent Sibling Selector (+)**
