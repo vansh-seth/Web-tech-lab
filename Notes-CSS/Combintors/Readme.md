@@ -6,7 +6,6 @@ There are four types of combinators in CSS:
 3. **Adjacent Sibling Selector (+)**
 4. **General Sibling Selector (~)**
 ## Descendant Selector (space)
-
 The descendant selector matches all elements that are descendants of a specified element.
 
 Example:
