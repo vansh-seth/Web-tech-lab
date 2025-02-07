@@ -22,7 +22,6 @@ Example usage:
 ```
 ## HSL Colors
 HSL stands for Hue, Saturation, and Lightness.
-
 ```css
 hsl(hue, saturation, lightness)
 ```
