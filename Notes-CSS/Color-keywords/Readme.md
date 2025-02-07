@@ -21,7 +21,6 @@ Example usage:
 #p3 { background-color: rgba(0, 0, 255, 0.3); }  /* Blue with 30% opacity */
 ```
 ## HSL Colors
-
 HSL stands for Hue, Saturation, and Lightness.
 
 ```css
