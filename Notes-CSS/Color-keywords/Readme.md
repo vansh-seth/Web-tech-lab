@@ -5,7 +5,6 @@ RGBA extends RGB color values with an alpha channel, specifying opacity.
 ```css
 rgba(red, green, blue, alpha)
 ```
-
 - `red`, `green`, `blue`: Integer values from 0 to 255.
 - `alpha`: A number between 0.0 (fully transparent) and 1.0 (fully opaque).
 
