@@ -2,7 +2,6 @@
 CSS supports various color formats including color names, HEX values, RGB values, RGBA values, HSL values, HSLA values, and opacity.
 ## RGBA Colors
 RGBA extends RGB color values with an alpha channel, specifying opacity.
-
 ```css
 rgba(red, green, blue, alpha)
 ```
