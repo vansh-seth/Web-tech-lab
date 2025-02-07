@@ -7,7 +7,6 @@ rgba(red, green, blue, alpha)
 ```
 - `red`, `green`, `blue`: Integer values from 0 to 255.
 - `alpha`: A number between 0.0 (fully transparent) and 1.0 (fully opaque).
-
 Examples:
 ```css
 rgba(255, 0, 0, 0.2);  /* Red with 20% opacity */
