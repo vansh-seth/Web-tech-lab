@@ -14,7 +14,6 @@ rgba(255, 0, 0, 0.4);  /* Red with 40% opacity */
 rgba(255, 0, 0, 0.6);  /* Red with 60% opacity */
 rgba(255, 0, 0, 0.8);  /* Red with 80% opacity */
 ```
-
 Example usage:
 ```css
 #p1 { background-color: rgba(255, 0, 0, 0.3); }  /* Red with 30% opacity */
