@@ -5,7 +5,6 @@ The CSS Box Model is a fundamental concept in web design and layout. It describe
 - **Border:** A line that surrounds the content and padding.
 - **Margin:** The transparent space outside the border.
 ## Illustration of the Box Model
-
 ```
 +--------------------------------+
 |              Margin            |
