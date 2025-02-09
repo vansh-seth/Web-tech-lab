@@ -33,7 +33,6 @@ div {
 }
 ```
 ## Setting Width and Height
-
 When setting the `width` and `height` of an element in CSS, it's essential to consider the entire box model, not just the content area.
 
 ### Calculation for Total Width
