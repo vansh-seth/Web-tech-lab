@@ -24,7 +24,6 @@ The CSS Box Model is a fundamental concept in web design and layout. It describe
 +--------------------------------+
 ```
 ## Example
-
 ```css
 div {
   width: 300px;
