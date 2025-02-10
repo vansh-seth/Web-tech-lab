@@ -8,7 +8,6 @@ The `border-image` property consists of three main parts:
 For the `border-image` property to function, the element must have the `border` property set.
 ## Examples
 ### Repeating the Middle Sections
-
 In this example, the middle sections of the image are repeated to create the border:
 
 ```css
