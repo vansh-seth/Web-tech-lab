@@ -2,7 +2,6 @@
 The `border-image` property in CSS allows you to set an image as the border of an element, replacing the traditional solid or dashed borders. This property provides a unique and customizable way to style your elements.
 ## Parts of the `border-image` Property
 The `border-image` property consists of three main parts:
-
 1. **Image Source**: The path to the image you want to use as a border.
 2. **Slices**: Defines how the image is divided into nine sections (like a tic-tac-toe board).
 3. **Repeat or Stretch**: Determines how the middle sections of the sliced image are handled.
