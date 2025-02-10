@@ -6,7 +6,6 @@ The `border-image` property consists of three main parts:
 2. **Slices**: Defines how the image is divided into nine sections (like a tic-tac-toe board).
 ## Important Note
 For the `border-image` property to function, the element must have the `border` property set.
-
 ## Examples
 
 ### Repeating the Middle Sections
