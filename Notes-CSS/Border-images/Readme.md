@@ -9,7 +9,6 @@ For the `border-image` property to function, the element must have the `border` 
 ## Examples
 ### Repeating the Middle Sections
 In this example, the middle sections of the image are repeated to create the border:
-
 ```css
 #borderimg {
   border: 10px solid transparent;
