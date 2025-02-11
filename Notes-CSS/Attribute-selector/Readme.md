@@ -1,5 +1,4 @@
 # CSS Attribute Selectors
-
 ## Introduction
 
 CSS attribute selectors allow you to style HTML elements based on their attributes and attribute values. This can be particularly useful for styling elements that don't have specific classes or IDs.
