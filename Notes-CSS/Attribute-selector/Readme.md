@@ -11,7 +11,6 @@ a[target] {
 ```
 This example selects all `<a>` elements with a `target` attribute.
 ## [attribute="value"] Selector
-
 The `[attribute="value"]` selector is used to select elements with a specified attribute and value.
 
 ### Example
