@@ -3,7 +3,6 @@ CSS animations allow you to animate HTML elements without the need for JavaScrip
 ## Key Concepts
 ### @keyframes
 - Defines the animation sequence by setting style changes at specific points in time.
-
 ### Animation Properties
 - `animation-name`: Specifies the name of the @keyframes animation to be used.
 - `animation-duration`: Defines how long the animation takes to complete one cycle.
