@@ -1,7 +1,6 @@
 # CSS Animations
 CSS animations allow you to animate HTML elements without the need for JavaScript. This feature lets you change CSS properties over time, making elements visually dynamic.
 ## Key Concepts
-
 ### @keyframes
 - Defines the animation sequence by setting style changes at specific points in time.
 
