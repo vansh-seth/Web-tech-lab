@@ -11,7 +11,6 @@ CSS animations allow you to animate HTML elements without the need for JavaScrip
 - `animation-direction`: Controls the direction of the animation (normal, reverse, alternate, alternate-reverse).
 - `animation-timing-function`: Specifies the speed curve of the animation (ease, linear, ease-in, ease-out, etc.).
 - `animation-fill-mode`: Defines how the element should look before and after the animation.
-
 ## Basic Example
 
 ```css
