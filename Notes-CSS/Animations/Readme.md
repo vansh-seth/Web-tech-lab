@@ -18,7 +18,6 @@ CSS animations allow you to animate HTML elements without the need for JavaScrip
   from { background-color: red; }
   to { background-color: yellow; }
 }
-
 /* Apply the animation to an element */
 div {
   width: 100px;
