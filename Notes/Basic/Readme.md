@@ -20,7 +20,6 @@ HTML documents follow a basic structure:
 - `<title>`: Sets the title of the HTML document.
 - `<body>`: Contains the visible content of the document.
 ## HTML Elements
-
 ### Headings
 
 HTML headings range from `<h1>` to `<h6>`, with `<h1>` being the most important and `<h6>` being the least important.
