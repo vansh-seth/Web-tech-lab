@@ -14,7 +14,6 @@ HTML documents follow a basic structure:
 </body>
 </html>
 ```
-
 - `<!DOCTYPE html>`: Declaration of the HTML version.
 - `<html>`: The root element of the HTML document.
 - `<head>`: Contains meta-information about the document.
