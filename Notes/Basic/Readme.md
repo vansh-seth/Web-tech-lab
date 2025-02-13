@@ -2,7 +2,6 @@
 ## Introduction
 This readme provides a brief overview of basic HTML elements and how to view HTML source code.
 ## HTML Document Structure
-
 HTML documents follow a basic structure:
 ```html
 <!DOCTYPE html>
