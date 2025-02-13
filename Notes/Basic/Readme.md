@@ -19,7 +19,6 @@ HTML documents follow a basic structure:
 - `<head>`: Contains meta-information about the document.
 - `<title>`: Sets the title of the HTML document.
 - `<body>`: Contains the visible content of the document.
-
 ## HTML Elements
 
 ### Headings
