@@ -63,7 +63,6 @@ Example usage with CSS styling:
   <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
 </div>
 ```
-
 ## The `<span>` Element
 
 The `<span>` element:
