@@ -40,7 +40,6 @@ Here are some common block-level elements:
 `<tfoot>`, 
 `<ul>`, 
 `<video>`.
-
 ## Inline Elements
 
 Inline elements:
