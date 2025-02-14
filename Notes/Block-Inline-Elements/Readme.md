@@ -41,7 +41,6 @@ Here are some common block-level elements:
 `<ul>`, 
 `<video>`.
 ## Inline Elements
-
 Inline elements:
 - Do not start on a new line.
 - Only take up as much width as necessary.
