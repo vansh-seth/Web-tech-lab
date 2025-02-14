@@ -1,6 +1,5 @@
 # HTML Block and Inline Elements
 In HTML, elements have default display values, the two most common being block and inline.
-
 ## Block-level Elements
 
 Block-level elements:
