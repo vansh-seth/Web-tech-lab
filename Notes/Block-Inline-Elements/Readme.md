@@ -56,7 +56,6 @@ The `<div>` element:
 - Is block-level.
 - Often serves as a container for other HTML elements.
 - Has no required attributes, but commonly uses style, class, and id.
-
 Example usage with CSS styling:
 ```html
 <div style="background-color:black;color:white;padding:20px;">
