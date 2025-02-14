@@ -5,7 +5,6 @@ Block-level elements:
 - Always start on a new line.
 - Automatically add space (margin) before and after the element.
 - Take up the full width available.
-
 Examples of block-level elements are `<p>` and `<div>`:
 ```html
 <p>Hello World</p>
