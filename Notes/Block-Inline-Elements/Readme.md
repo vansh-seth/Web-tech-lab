@@ -44,7 +44,6 @@ Here are some common block-level elements:
 Inline elements:
 - Do not start on a new line.
 - Only take up as much width as necessary.
-
 Example of an inline element:
 ```html
 <span>Hello World</span>
