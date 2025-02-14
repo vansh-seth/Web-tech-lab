@@ -64,7 +64,6 @@ Example usage with CSS styling:
 </div>
 ```
 ## The `<span>` Element
-
 The `<span>` element:
 - Is an inline container used to mark up parts of text or a document.
 - Has no required attributes, but commonly uses style, class, and id.
