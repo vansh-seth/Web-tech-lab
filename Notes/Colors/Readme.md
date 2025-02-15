@@ -11,7 +11,6 @@ HTML supports 140 standard color names, some examples include:
 - Violet
 - LightGray
 ## Background Color
-
 Set the background color for HTML elements using inline CSS:
 
 ```html
