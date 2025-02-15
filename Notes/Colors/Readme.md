@@ -2,7 +2,6 @@
 HTML colors can be specified using predefined color names, or with RGB, HEX, HSL, RGBA, or HSLA values.
 ## Color Names
 HTML supports 140 standard color names, some examples include:
-
 - Tomato
 - Orange
 - DodgerBlue
