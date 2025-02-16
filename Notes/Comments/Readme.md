@@ -5,7 +5,6 @@ You can add comments to your HTML source by using the following syntax:
 ```html
 <!-- Write your comments here -->
 ```
-
 Notice that there is an exclamation point (!) in the start tag, but not in the end tag.
 
 **Note:** Comments are not displayed by the browser, but they can help document your HTML source code.
