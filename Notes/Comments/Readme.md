@@ -1,6 +1,5 @@
 # HTML Comments
 HTML comments are a way to add annotations and document your HTML source code without displaying them in the browser.
-
 ## HTML Comment Tag
 
 You can add comments to your HTML source by using the following syntax:
