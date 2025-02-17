@@ -4,7 +4,6 @@ HTML provides several elements for defining user input and displaying computer c
 ## HTML Elements for Computer Code
 ### `<code>` Element
 The `<code>` element is used to define a piece of computer code. It displays content in the browser's default monospace font.
-
 Example:
 ```html
 <code>
