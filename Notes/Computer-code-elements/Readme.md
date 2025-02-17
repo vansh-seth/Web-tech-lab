@@ -12,7 +12,6 @@ y = 6;
 z = x + y;
 </code>
 ```
-
 ### `<kbd>` Element
 
 The `<kbd>` element defines keyboard input, displaying content in the browser's default monospace font.
