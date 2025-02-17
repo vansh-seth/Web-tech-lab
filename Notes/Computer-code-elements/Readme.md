@@ -1,4 +1,3 @@
-
 # HTML Computer Code Elements
 
 ## Overview
