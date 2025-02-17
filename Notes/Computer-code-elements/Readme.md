@@ -1,6 +1,5 @@
 # HTML Computer Code Elements
 ## Overview
-
 HTML provides several elements for defining user input and displaying computer code and its output. These elements are crucial for accurately representing code snippets, keyboard input, program output, and variables within HTML documents.
 
 ## HTML Elements for Computer Code
