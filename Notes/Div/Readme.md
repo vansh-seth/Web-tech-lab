@@ -1,5 +1,4 @@
 # Understanding HTML `<div>` Elements
-
 ## Introduction
 The `<div>` element in HTML serves as a versatile container for grouping other elements together within a web page.
 
