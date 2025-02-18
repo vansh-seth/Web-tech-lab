@@ -9,7 +9,6 @@ Lorem Ipsum
 <div>I am a div</div>
 dolor sit amet.
 ```
-
 Result:
 ```
 Lorem Ipsum
