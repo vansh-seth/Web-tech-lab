@@ -3,7 +3,6 @@
 The `<div>` element in HTML serves as a versatile container for grouping other elements together within a web page.
 ## Basic Usage
 By default, `<div>` is a block-level element, meaning it occupies all available width and introduces line breaks before and after itself.
-
 ### Example
 ```html
 Lorem Ipsum
