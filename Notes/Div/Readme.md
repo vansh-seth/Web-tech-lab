@@ -19,7 +19,6 @@ dolor sit amet.
 While `<div>` has no mandatory attributes, commonly used attributes include `style`, `class`, and `id`.
 ### Using `<div>` as a Container
 `<div>` is frequently employed to logically group sections of a web page together.
-
 ### Example
 ```html
 <div>
