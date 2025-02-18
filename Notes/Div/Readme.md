@@ -15,7 +15,6 @@ Lorem Ipsum
 I am a div
 dolor sit amet.
 ```
-
 ## Advanced Usage
 While `<div>` has no mandatory attributes, commonly used attributes include `style`, `class`, and `id`.
 
