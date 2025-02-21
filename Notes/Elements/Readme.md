@@ -14,7 +14,6 @@ An HTML element follows this structure:
 ```html
 <p>My first paragraph.</p>
 ```
-
 #### Line Break Element
 ```html
 <br>
