@@ -20,7 +20,6 @@ An HTML element follows this structure:
 ```
 (Note: Empty elements like `<br>` do not have closing tags.)
 ### Nested HTML Elements
-
 Elements can be nested within each other to create the document's structure. For instance:
 ```html
 <!DOCTYPE html>
