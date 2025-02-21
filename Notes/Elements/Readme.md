@@ -1,5 +1,4 @@
 ## Understanding HTML Elements
-
 HTML (Hypertext Markup Language) elements are the building blocks of web pages. Each element is composed of a start tag, content, and an end tag. Let's explore some key concepts and examples related to HTML elements:
 
 ### Basic Structure
