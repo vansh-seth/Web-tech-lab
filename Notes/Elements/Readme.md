@@ -5,7 +5,6 @@ An HTML element follows this structure:
 ```
 <tagname>Content goes here...</tagname>
 ```
-
 ### Examples of HTML Elements
 
 #### Heading Element
