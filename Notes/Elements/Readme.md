@@ -10,7 +10,6 @@ An HTML element follows this structure:
 ```html
 <h1>My First Heading</h1>
 ```
-
 #### Paragraph Element
 ```html
 <p>My first paragraph.</p>
