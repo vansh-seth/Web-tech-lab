@@ -1,6 +1,5 @@
 ## HTML Style Guide
 Creating clean and consistent HTML code is essential for readability, maintainability, and the overall quality of your web pages. Below are some guidelines and best practices for writing good HTML code:
-
 ### General Guidelines
 
 #### 1. Declare Document Type
