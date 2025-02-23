@@ -41,7 +41,6 @@ Not:
 ```html
 <a HREF="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
 ```
-
 #### 5. Always Quote Attribute Values
 Always quote attribute values.
 ```html
