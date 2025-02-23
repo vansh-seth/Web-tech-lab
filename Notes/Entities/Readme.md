@@ -19,7 +19,6 @@ Not:
   <P>This is a paragraph.</P>
 </BODY>
 ```
-
 #### 3. Close All HTML Elements
 Close all HTML elements, even if they are optional.
 ```html
