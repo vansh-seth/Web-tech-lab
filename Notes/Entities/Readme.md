@@ -32,7 +32,6 @@ Not:
   <p>This is a paragraph.
 </section>
 ```
-
 #### 4. Use Lowercase Attribute Names
 Use lowercase for all attribute names.
 ```html
