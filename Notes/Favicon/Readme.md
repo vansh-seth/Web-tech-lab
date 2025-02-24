@@ -4,6 +4,7 @@ A favicon is a small image displayed next to the page title in the browser tab.
 You can use any image as your favicon, typically saved as a ".ico" file. Several online tools like [favicon.cc](https://www.favicon.cc) allow you to create custom favicons.
 
 **Tip:** Keep your favicon simple with high contrast for better visibility.
+
 To add a favicon to your website, save the favicon image to the root directory of your web server or within an "images" folder in the root directory. The common name for a favicon image is "favicon.ico".
 
 Next, include a `<link>` element in your HTML file, typically within the `<head>` section, like this:
