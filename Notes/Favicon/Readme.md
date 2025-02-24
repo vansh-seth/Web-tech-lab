@@ -1,7 +1,6 @@
 # HTML Favicon
 A favicon is a small image displayed next to the page title in the browser tab.
 ## How To Add a Favicon in HTML
-
 You can use any image as your favicon, typically saved as a ".ico" file. Several online tools like [favicon.cc](https://www.favicon.cc) allow you to create custom favicons.
 
 **Tip:** Keep your favicon simple with high contrast for better visibility.
