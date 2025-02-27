@@ -1,7 +1,6 @@
 # Understanding HTML File Paths
 ## Introduction
 In web development, understanding file paths is essential for linking to various resources like web pages, images, style sheets, and JavaScript files within a website's folder structure.
-
 ## Absolute File Paths
 An absolute file path specifies the full URL to a file. Here's an example:
 
