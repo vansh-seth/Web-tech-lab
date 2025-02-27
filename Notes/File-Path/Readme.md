@@ -1,5 +1,4 @@
 # Understanding HTML File Paths
-
 ## Introduction
 In web development, understanding file paths is essential for linking to various resources like web pages, images, style sheets, and JavaScript files within a website's folder structure.
 
