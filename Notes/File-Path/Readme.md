@@ -16,7 +16,6 @@ Relative file paths point to a file relative to the current page. They offer fle
 ```html
 <img src="images/picture.jpg" alt="Mountain">
 ```
-
 - To access a file in the images folder located one level up from the current folder:
 ```html
 <img src="../images/picture.jpg" alt="Mountain">
