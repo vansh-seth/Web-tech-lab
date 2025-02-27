@@ -6,7 +6,6 @@ An absolute file path specifies the full URL to a file. Here's an example:
 ```html
 <img src="https://www.example.com/images/picture.jpg" alt="Mountain">
 ```
-
 ## Relative File Paths
 Relative file paths point to a file relative to the current page. They offer flexibility and are commonly used. Here are some examples:
 
