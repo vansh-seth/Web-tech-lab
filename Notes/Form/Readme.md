@@ -8,7 +8,6 @@ The `<form>` element is used to create an HTML form for user input. It serves as
 </form>
 ```
 
-
 ## The `<input>` Element
 
 The `<input>` element is one of the most commonly used form elements. Its display varies based on the `type` attribute.
