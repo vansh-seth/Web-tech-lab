@@ -1,5 +1,4 @@
 # HTML Forms Guide
-
 HTML forms are crucial elements for collecting user input on web pages. This input is commonly sent to a server for further processing.
 
 ## The `<form>` Element
