@@ -2,7 +2,6 @@
 HTML forms are crucial elements for collecting user input on web pages. This input is commonly sent to a server for further processing.
 ## The `<form>` Element
 The `<form>` element is used to create an HTML form for user input. It serves as a container for various input elements like text fields, checkboxes, radio buttons, and submit buttons.
-
 ```html
 <form>
   <!-- form elements go here -->
