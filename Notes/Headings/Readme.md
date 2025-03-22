@@ -13,7 +13,6 @@ HTML headings are defined with the `<h1>` to `<h6>` tags.
 ### Headings Are Important
 Search engines use headings to index the structure and content of web pages.
 `<h1>` headings should be used for main headings, followed by `<h2>` headings, then `<h3>` for less important sections, and so forth.
-
 ### Bigger Headings
 
 Each HTML heading has a default size. However, you can specify the size for any heading with the `style` attribute using the CSS `font-size` property.
