@@ -11,7 +11,6 @@ HTML headings are defined with the `<h1>` to `<h6>` tags.
 <h6>Heading 6</h6>
 ```
 
-
 ### Headings Are Important
 
 Search engines use headings to index the structure and content of web pages.
