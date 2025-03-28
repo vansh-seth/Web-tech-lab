@@ -9,7 +9,6 @@ An element with an `id` can be styled or targeted uniquely within a document. It
 ```
 ## Creating and Styling with id
 In CSS, an element with a specific id can be styled uniquely, distinguishing it from other elements.
-
 ### Example
 ```css
 #myHeader {
