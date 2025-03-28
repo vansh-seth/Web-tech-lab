@@ -33,6 +33,5 @@ function displayResult() {
   document.getElementById("myHeader").innerHTML = "Have a nice day!";
 }
 ```
-
 ## Conclusion
 The HTML `id` attribute is essential for uniquely identifying elements within a document, allowing for targeted styling and scripting. Its use ensures document structure and enables seamless user navigation.
