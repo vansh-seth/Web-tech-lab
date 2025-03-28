@@ -25,7 +25,6 @@ HTML bookmarks, created using id attributes, allow users to navigate directly to
 <h2 id="C4">Chapter 4</h2>
 <a href="#C4">Jump to Chapter 4</a>
 ```
-
 ## JavaScript Interaction
 JavaScript can manipulate elements with specific ids using methods like `getElementById()`.
 
