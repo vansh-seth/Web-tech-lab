@@ -1,7 +1,6 @@
 # Understanding HTML id Attribute
 ## Introduction
 The HTML `id` attribute assigns a unique identifier to an HTML element. Each `id` must be unique within the document and serves various purposes, such as styling with CSS and accessing/manipulating via JavaScript.
-
 ## Basic Usage
 An element with an `id` can be styled or targeted uniquely within a document. It's defined by prefixing the identifier with a hash (#) in CSS.
 
