@@ -20,7 +20,6 @@ In CSS, an element with a specific id can be styled uniquely, distinguishing it 
 ```
 ## HTML Bookmarks with id and Links
 HTML bookmarks, created using id attributes, allow users to navigate directly to specific parts of a webpage. This is achieved by linking to the id within the same page or across different pages.
-
 ### Example
 ```html
 <h2 id="C4">Chapter 4</h2>
