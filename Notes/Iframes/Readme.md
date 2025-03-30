@@ -19,7 +19,6 @@ By default, an `<iframe>` has a border around it. To remove the border, you can 
 <iframe src="demo_iframe.htm" style="border:none;" title="Iframe Example"></iframe>
 ```
 Additionally, you can customize the size, style, and color of the iframe's border using CSS properties.
-
 ## Link Targeting
 An `<iframe>` can serve as the target frame for a link. The `target` attribute of the link should refer to the `name` attribute of the `<iframe>`.
 
