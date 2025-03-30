@@ -27,6 +27,5 @@ An `<iframe>` can serve as the target frame for a link. The `target` attribute o
 
 <p><a href="https://www.w3schools.com" target="iframe_a">W3Schools.com</a></p>
 ```
-
 ## Conclusion
 The `<iframe>` tag is a powerful tool for integrating external content seamlessly into web pages. By understanding its usage and attributes, developers can enrich their websites with dynamic and interactive elements while maintaining accessibility and usability standards.
