@@ -12,7 +12,6 @@ You can specify the size of the `<iframe>` using the `height` and `width` attrib
 ```html
 <iframe src="demo_iframe.htm" height="200" width="300" title="Iframe Example"></iframe>
 ```
-
 ## Removing the Border
 By default, an `<iframe>` has a border around it. To remove the border, you can use the `style` attribute and apply CSS properties.
 
