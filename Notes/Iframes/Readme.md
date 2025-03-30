@@ -6,7 +6,6 @@ The HTML `<iframe>` tag allows embedding another document within the current HTM
 <iframe src="url" title="description"></iframe>
 ```
 It's recommended to include a `title` attribute for accessibility purposes, aiding screen readers in describing the content of the `<iframe>`.
-
 ## Setting Height and Width
 You can specify the size of the `<iframe>` using the `height` and `width` attributes, either in pixels directly or through CSS.
 
