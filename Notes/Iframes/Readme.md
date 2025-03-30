@@ -1,7 +1,6 @@
 # Understanding HTML `<iframe>` Tag
 ## Introduction
 The HTML `<iframe>` tag allows embedding another document within the current HTML document. It creates an inline frame, commonly used for displaying external web pages or media content seamlessly within a webpage.
-
 ## Syntax
 ```html
 <iframe src="url" title="description"></iframe>
