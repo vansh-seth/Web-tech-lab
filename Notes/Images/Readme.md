@@ -12,7 +12,6 @@ The HTML `<img>` tag is utilized to embed images in a web page. Here's the basic
 ### The `src` Attribute
 The `src` attribute specifies the path (URL) to the image. It's crucial to ensure that the image path remains consistent with the web page's location to avoid broken links.
 ### The `alt` Attribute
-
 The `alt` attribute provides alternative text for the image, useful for scenarios where the image cannot be viewed. This text is vital for accessibility, aiding users with visual impairments or in situations where the image fails to load.
 
 ### Image Size - Width and Height
