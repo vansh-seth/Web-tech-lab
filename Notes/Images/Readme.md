@@ -1,6 +1,5 @@
 # HTML Images
 Images are essential for enhancing the design and visual appeal of web pages. Below is a guide on how to use HTML to incorporate images into your web pages effectively.
-
 ## Example
 ```html
 <img src="pic_trulli.jpg" alt="Italian Trulli">
