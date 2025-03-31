@@ -6,7 +6,6 @@ Images are essential for enhancing the design and visual appeal of web pages. Be
 ```
 ## HTML Images Syntax
 The HTML `<img>` tag is utilized to embed images in a web page. Here's the basic syntax:
-
 ```html
 <img src="url" alt="alternate text">
 ```
