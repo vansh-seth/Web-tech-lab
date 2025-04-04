@@ -11,7 +11,6 @@ HTML introduces several semantic elements tailored for organizing webpage conten
 - `<footer>`: Defines a footer for a document or a section.
 - `<details>`: Defines additional details that users can toggle open or closed.
 - `<summary>`: Defines a heading for the `<details>` element.
-
 ## HTML Layout Techniques
 
 Various techniques exist for creating multicolumn layouts in HTML, each with its own advantages and drawbacks:
