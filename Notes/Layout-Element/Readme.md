@@ -13,7 +13,6 @@ HTML introduces several semantic elements tailored for organizing webpage conten
 - `<summary>`: Defines a heading for the `<details>` element.
 ## HTML Layout Techniques
 Various techniques exist for creating multicolumn layouts in HTML, each with its own advantages and drawbacks:
-
 ### CSS Frameworks
 
 Utilizing a CSS framework like W3.CSS or Bootstrap allows for rapid layout creation and includes predefined styles and components.
