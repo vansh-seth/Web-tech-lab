@@ -16,7 +16,6 @@ Various techniques exist for creating multicolumn layouts in HTML, each with its
 ### CSS Frameworks
 Utilizing a CSS framework like W3.CSS or Bootstrap allows for rapid layout creation and includes predefined styles and components.
 ### CSS Float Layout
-
 The CSS `float` property is commonly used for entire web layouts. While easy to learn, floating elements can complicate document flow and flexibility.
 
 ### CSS Flexbox Layout
