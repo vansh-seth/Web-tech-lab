@@ -1,7 +1,6 @@
 # HTML Layout Elements and Techniques
 ## Overview
 Websites often require organizing content into multiple columns, resembling traditional print media layouts found in magazines or newspapers. HTML provides semantic elements to define different parts of a webpage, facilitating structured layout creation.
-
 ## HTML5 Semantic Elements
 
 HTML introduces several semantic elements tailored for organizing webpage content:
