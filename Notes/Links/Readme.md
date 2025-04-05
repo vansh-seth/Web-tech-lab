@@ -7,7 +7,6 @@ The HTML `<a>` tag is used to define a hyperlink. Its basic syntax is:
 ```html
 <a href="url">link text</a>
 ```
-
 The `href` attribute specifies the destination URL, and the link text is the visible part of the link.
 
 ### Example
