@@ -1,7 +1,6 @@
 # HTML Links
 Links are fundamental elements in web pages that enable users to navigate between different documents or resources. HTML links, also known as hyperlinks, allow users to click and access other web pages, documents, or resources.
 ## HTML Links - Hyperlinks
-
 HTML links are essentially hyperlinks that users can click to navigate to another document or resource. When users hover over a link, the cursor typically changes into a hand icon, indicating it's clickable.
 
 ## HTML Links - Syntax
