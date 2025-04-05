@@ -13,7 +13,6 @@ Here's an example of creating a link to W3Schools.com:
 ```html
 <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 ```
-
 By default, links have standard appearances in browsers:
 
 - An unvisited link is underlined and blue.
