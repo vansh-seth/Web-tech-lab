@@ -31,7 +31,6 @@ Example:
   <dd>- white cold drink</dd>
 </dl>
 ```
-
 # HTML Unordered Lists
 
 The `<ul>` tag in HTML defines an unordered (bulleted) list.
