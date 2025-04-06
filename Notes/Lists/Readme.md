@@ -22,7 +22,6 @@ Example:
 ```
 ## Description List
 A description list consists of terms and their descriptions. It is defined using the `<dl>` tag, where terms are defined with `<dt>` and descriptions with `<dd>`.
-
 Example:
 ```html
 <dl>
