@@ -1,6 +1,5 @@
 # HTML Lists
 HTML lists are used by web developers to group related items together.
-
 ## Unordered List
 An unordered list starts with the `<ul>` tag. Each list item is denoted by the `<li>` tag. By default, list items are marked with bullets.
 
