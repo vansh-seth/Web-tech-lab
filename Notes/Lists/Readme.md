@@ -1,5 +1,4 @@
 # HTML Lists
-
 HTML lists are used by web developers to group related items together.
 
 ## Unordered List
