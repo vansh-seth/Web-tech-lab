@@ -10,7 +10,6 @@ Example:
   <li>Milk</li>
 </ul>
 ```
-
 ## Ordered List
 An ordered list starts with the `<ol>` tag. Each list item is denoted by the `<li>` tag. By default, list items are marked with numbers.
 
