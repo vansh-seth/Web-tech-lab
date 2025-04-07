@@ -12,7 +12,6 @@ Every web page should have a page title to accurately describe its content and m
 </body>
 </html>
 ```
-
 The title specified within the `<title>` element is displayed in the browser's title bar.
 
 ## Importance for SEO
