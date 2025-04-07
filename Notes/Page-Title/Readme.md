@@ -14,7 +14,6 @@ Every web page should have a page title to accurately describe its content and m
 ```
 The title specified within the `<title>` element is displayed in the browser's title bar.
 ## Importance for SEO
-
 The page title is crucial for search engine optimization (SEO) as it provides valuable information to search engine algorithms. The text within the `<title>` element is used to determine the relevance and order of pages in search engine results.
 
 ## HTML Title Tag
