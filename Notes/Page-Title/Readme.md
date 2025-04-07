@@ -1,5 +1,4 @@
 # HTML Page Title
-
 Every web page should have a page title to accurately describe its content and meaning. The `<title>` element is used to add a title to your page.
 
 ## Example
