@@ -16,6 +16,5 @@ The title specified within the `<title>` element is displayed in the browser's t
 ## Importance for SEO
 The page title is crucial for search engine optimization (SEO) as it provides valuable information to search engine algorithms. The text within the `<title>` element is used to determine the relevance and order of pages in search engine results.
 ## HTML Title Tag
-
 - `<title>`: Defines the title of the document. It appears in the browser toolbar, favorites, and search engine results.
 
