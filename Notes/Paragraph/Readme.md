@@ -27,7 +27,6 @@ ignores it.
 </p>
 ```
 ## HTML Horizontal Rules
-
 The `<hr>` tag defines a thematic break in an HTML page, usually displayed as a horizontal rule to separate content or define a change.
 
 ### Example
