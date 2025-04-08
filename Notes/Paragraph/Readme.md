@@ -9,7 +9,6 @@ The HTML `<p>` element defines a paragraph. It always starts on a new line, and 
 ```
 ## HTML Display
 HTML display can vary across different screen sizes and window resolutions. Extra spaces and lines in your HTML code are automatically removed by browsers.
-
 ### Example
 ```html
 <p>
