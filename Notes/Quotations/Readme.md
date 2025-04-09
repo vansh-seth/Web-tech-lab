@@ -8,7 +8,6 @@ Example:
 For 60 years, WWF has worked to help people and nature thrive...
 </blockquote>
 ```
-
 ## `<q>` for Short Quotations
 
 The `<q>` tag defines a short quotation. Browsers normally insert quotation marks around the quotation.
