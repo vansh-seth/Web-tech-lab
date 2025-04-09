@@ -10,7 +10,6 @@ For 60 years, WWF has worked to help people and nature thrive...
 ```
 ## `<q>` for Short Quotations
 The `<q>` tag defines a short quotation. Browsers normally insert quotation marks around the quotation.
-
 Example:
 
 ```html
