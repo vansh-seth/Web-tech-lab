@@ -15,7 +15,6 @@ Example:
 <p>WWF's goal is to: <q>Build a future where people live in harmony with nature.</q></p>
 ```
 ## `<abbr>` for Abbreviations
-
 The `<abbr>` tag defines an abbreviation or an acronym. Marking abbreviations can give useful information to browsers, translation systems, and search-engines.
 
 Example:
