@@ -16,7 +16,6 @@ Example:
 ```
 ## `<abbr>` for Abbreviations
 The `<abbr>` tag defines an abbreviation or an acronym. Marking abbreviations can give useful information to browsers, translation systems, and search-engines.
-
 Example:
 
 ```html
