@@ -1,7 +1,6 @@
 # HTML Quotation and Citation Elements
 This guide covers the usage of various HTML elements for quotations and citations, including `<blockquote>`, `<q>`, `<abbr>`, `<address>`, `<cite>`, and `<bdo>`.
 ## `<blockquote>` for Quotations
-
 The `<blockquote>` element defines a section that is quoted from another source. Browsers usually indent `<blockquote>` elements.
 
 Example:
