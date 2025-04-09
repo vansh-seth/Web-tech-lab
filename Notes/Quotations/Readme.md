@@ -3,7 +3,6 @@ This guide covers the usage of various HTML elements for quotations and citation
 ## `<blockquote>` for Quotations
 The `<blockquote>` element defines a section that is quoted from another source. Browsers usually indent `<blockquote>` elements.
 Example:
-
 ```html
 <blockquote cite="http://www.worldwildlife.org/who/index.html">
 For 60 years, WWF has worked to help people and nature thrive...
