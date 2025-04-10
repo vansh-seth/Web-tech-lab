@@ -2,7 +2,6 @@
 ## Overview
 Responsive web design aims to create web pages that adapt seamlessly to various devices, ensuring optimal viewing experiences across desktops, tablets, and smartphones.
 ## What is Responsive Web Design?
-
 Responsive Web Design involves leveraging HTML and CSS to dynamically resize, hide, shrink, or enlarge website elements to maintain visual appeal on different screen sizes and viewports.
 
 ## Key Components of Responsive Web Design
