@@ -29,7 +29,6 @@ A table in HTML consists of table cells inside rows and columns.
 ```
 ### Table Cells
 Each table cell is defined by a `<td>` and a `</td>` tag.
-
 `td` stands for table data.
 
 ### Table Rows
