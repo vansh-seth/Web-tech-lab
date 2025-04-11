@@ -1,7 +1,6 @@
 # HTML Tables
 HTML tables are used by web developers to organize data into rows and columns.
 ### Example
-
 | Company                    | Contact          | Country |
 |----------------------------|------------------|---------|
 | Alfreds Futterkiste        | Maria Anders     | Germany |
