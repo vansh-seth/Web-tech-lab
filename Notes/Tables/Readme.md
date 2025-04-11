@@ -10,7 +10,6 @@ HTML tables are used by web developers to organize data into rows and columns.
 | Laughing Bacchus Winecellars | Yoshi Tannamuri | Canada  |
 | Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy |
 ### Defining an HTML Table
-
 A table in HTML consists of table cells inside rows and columns.
 
 ### Example
