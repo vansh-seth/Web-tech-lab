@@ -3,7 +3,6 @@
 HTML attributes provide additional information about HTML elements, enhancing the structure and functionality of web pages. This guide outlines essential HTML attributes and their usage.
 ## The href Attribute
 The `href` attribute is used with the `<a>` tag to define hyperlinks. It specifies the URL of the page the link points to.
-
 Example:
 ```html
 <a href="https://www.example.com">Visit Example</a>
